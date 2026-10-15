@@ -1,10 +1,12 @@
-// End-to-end smoke test: drives the app in headless Chrome at iPhone size.
-// Usage: node tools/e2e.mjs <base-url> <screenshot-dir>
+// End-to-end smoke test: drives the built app in headless Chrome at iPhone size.
+// Usage: node tools/e2e.mjs [base-url] [screenshot-dir]   (or `make e2e`, which serves dist/ first)
+// Set CHROME to the browser binary if it is not /usr/bin/google-chrome.
 import puppeteer from "puppeteer-core";
 import fs from "node:fs";
 
 const BASE = process.argv[2] || "http://127.0.0.1:8787/lebenindeutschland/";
-const OUT = process.argv[3] || "/tmp/lid-e2e";
+const OUT = process.argv[3] || "build/e2e";
+const CHROME = process.env.CHROME || "/usr/bin/google-chrome";
 fs.mkdirSync(OUT, { recursive: true });
 
 const data = await (await fetch(new URL("data/questions.json", BASE))).json();
@@ -12,7 +14,7 @@ const answer = new Map();
 for (const q of data.general) answer.set(q.id, q.a);
 for (const st of Object.values(data.states)) for (const q of st.questions) answer.set(q.id, q.a);
 
-const browser = await puppeteer.launch({ executablePath: "/usr/bin/google-chrome", headless: true, args: ["--no-sandbox"] });
+const browser = await puppeteer.launch({ executablePath: CHROME, headless: true, args: ["--no-sandbox"] });
 const page = await browser.newPage();
 await page.setViewport({ width: 390, height: 844, deviceScaleFactor: 1, isMobile: true, hasTouch: true });
 const problems = [];
@@ -27,7 +29,7 @@ const click = async sel => {
   await page.$eval(sel, el => el.click());
   await new Promise(r => setTimeout(r, 60));
 };
-process.on("unhandledRejection", async e => { console.log("FAILED:", e.message); try { await page.screenshot({ path: `${OUT}/zz-failure.png` }); } catch {} console.log(problems.join("\n")); process.exit(1); });
+process.on("unhandledRejection", async e => { console.log("FAILED:", e.message); try { await page.screenshot({ path: `${OUT}/zz-failure.png` }); } catch { /* no page left to capture */ } console.log(problems.join("\n")); process.exit(1); });
 const text = sel => page.$eval(sel, el => el.textContent.trim());
 const check = (cond, msg) => { if (!cond) problems.push("check failed: " + msg); else console.log("ok  " + msg); };
 
@@ -177,3 +179,4 @@ await browser.close();
 const real = problems.filter(p => !(p.startsWith("requestfailed") && p.includes("offline")));
 console.log(real.length ? "\nPROBLEMS:\n" + real.join("\n") : "\nno problems");
 console.log("screenshots in " + OUT);
+process.exitCode = real.length ? 1 : 0;

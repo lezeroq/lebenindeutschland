@@ -9,25 +9,33 @@ Offline-capable study app (PWA) for the German citizenship test, served at
 - Three modes: learning with spaced repetition, tests (mock exam and quick test) with history, and
   browsing.
 
-## Layout
+## Build
 
-| Path | What it is |
-|---|---|
-| `public/lebenindeutschland/` | The app: plain HTML, CSS and ES modules, no build step for the code |
-| `data-src/questions.json` | Question data, built from the BAMF catalogue PDF and the BAMF Online-Testcenter answers |
-| `data-src/i18n-out/*.json` | English and Russian translations, keyed by question id (`g1`…`g300`, `BY1`…`TH10`) |
-| `tools/` | Scrapers, PDF parser, picture cropper, data validator, app build, end-to-end test |
-
-## Common tasks
+You need Python 3.11+, poppler-utils, ImageMagick and Node 20+; `uv` and Google Chrome only for
+linting and the end-to-end test.
 
 ```sh
-python3 -I tools/build_app.py        # rebuild data/, js/version.js and sw.js after any change
-python3 -m http.server -d public 8787  # local preview at http://localhost:8787/lebenindeutschland/
-node tools/e2e.mjs <url> <shot-dir>  # click through every mode in headless Chrome
+make            # build dist/lebenindeutschland/ (downloads the BAMF catalogue PDF on first run)
+make serve      # preview at http://127.0.0.1:8787/lebenindeutschland/
 ```
 
-Always run `build_app.py` before publishing. The service worker caches every file under a version hash,
-and installed apps only see an update when that hash changes; they then show an "Update" banner.
+To publish, copy `dist/lebenindeutschland/` into the website so that it is served at
+`/lebenindeutschland/`.
+
+The questions and answer key are kept in `data/questions.json`. When BAMF publishes a new
+catalogue, `make refresh` downloads the PDF and the official answers from the BAMF Online-Testcenter
+again and rebuilds everything; see [AGENTS.md](AGENTS.md#updating-the-questions).
+
+## Development
+
+```sh
+make setup      # install linters, formatters and the e2e driver
+make format     # black, isort, eslint --fix, prettier
+make check      # lint, type-check and validate the data
+make e2e        # click through every mode in headless Chrome
+```
+
+[AGENTS.md](AGENTS.md) describes the layout, the build pipeline and how to add a language.
 
 ## How learning works
 

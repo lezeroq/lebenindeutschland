@@ -1,4 +1,9 @@
 node_modules/
+.venv/
 __pycache__/
 *.pyc
 *.pdf
+# downloads and intermediate files
+build/
+# the built app
+dist/

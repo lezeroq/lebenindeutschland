@@ -1,15 +1,15 @@
 {
   "name": "lebenindeutschland",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "private": true,
+  "description": "Offline study app for the German citizenship test (Leben in Deutschland)",
+  "type": "module",
   "devDependencies": {
-    "puppeteer-core": "^23.11.1"
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.12.0",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10",
+    "puppeteer-core": "^25.14.0",
+    "pyright": "^1.1.414"
   }
 }

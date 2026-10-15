@@ -1,0 +1,27 @@
+[project]
+name = "lebenindeutschland"
+version = "1.0.0"
+description = "Build tools for the Leben in Deutschland trainer"
+requires-python = ">=3.11"
+dependencies = []  # the tools only use the standard library
+
+[dependency-groups]
+dev = ["black>=25.1", "isort>=6.0"]
+
+[tool.uv]
+package = false
+
+[tool.black]
+line-length = 120
+target-version = ["py311"]
+
+[tool.isort]
+profile = "black"
+line_length = 120
+src_paths = ["tools"]
+
+[tool.pyright]
+include = ["tools"]
+extraPaths = ["tools"]
+pythonVersion = "3.11"
+typeCheckingMode = "standard"

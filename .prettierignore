@@ -1,0 +1,8 @@
+build/
+dist/
+node_modules/
+.venv/
+# written by tools/build_questions.py
+data/
+package-lock.json
+uv.lock

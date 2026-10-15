@@ -1,82 +1,165 @@
-"""Assemble data-src/questions.json for the app from the verified merges.
+"""Assemble data/questions.json from the catalogue PDF and the Testcenter answer key.
 
-Usage: python3 -I tools/build_questions.py
+Usage: python3 tools/build_questions.py
 
-Inputs:
-  data-src/merged/bayern_merged.json  rows 1-300 = general questions, 301-310 = Bayern 1-10
-  data-src/merged/<CODE>.json         merge_states.py output for every other state
-  public/lebenindeutschland/img/      g<NNN>.webp and <CODE>-<k>.webp pictures
+Reads build/katalog.pdf, build/catalogue.json and build/answers/*.json. The PDF has the
+authoritative wording and option order, the Testcenter says which answer is correct. The
+Testcenter may list the options in another order or spell them slightly differently, so the
+four options are paired by token-sorted fuzzy similarity; weak pairings are printed for review.
+
+Prints which questions changed compared to the previous data/questions.json, so their
+translations can be updated.
 """
-import json
-import os
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.normpath(os.path.join(HERE, ".."))
-SRC = os.path.join(ROOT, "data-src")
-APP = os.path.join(ROOT, "public", "lebenindeutschland")
-OUT = os.path.join(SRC, "questions.json")
+import datetime
+import difflib
+import itertools
+import re
+import subprocess
+import sys
+from typing import Any
 
-STATES = [
-    ("BW", "Baden-Württemberg"), ("BY", "Bayern"), ("BE", "Berlin"), ("BB", "Brandenburg"),
-    ("HB", "Bremen"), ("HH", "Hamburg"), ("HE", "Hessen"), ("MV", "Mecklenburg-Vorpommern"),
-    ("NI", "Niedersachsen"), ("NW", "Nordrhein-Westfalen"), ("RP", "Rheinland-Pfalz"),
-    ("SL", "Saarland"), ("SN", "Sachsen"), ("ST", "Sachsen-Anhalt"), ("SH", "Schleswig-Holstein"),
-    ("TH", "Thüringen"),
-]
-# picture questions, found with tools/crop.py --dry-run (gap between question text and options)
-GENERAL_PICTURES = {21, 55, 70, 130, 176, 181, 187, 209, 216, 226, 235}
-STATE_PICTURES = {1, 8}  # coat of arms, map
+from common import (
+    ANSWERS,
+    CATALOGUE,
+    CODES,
+    GENERAL_COUNT,
+    PDF,
+    QUESTIONS,
+    STATE_COUNT,
+    STATES,
+    load_json,
+    write_json,
+)
+from pictures import detect, image_path, sha256
 
-
-def load(path):
-    return json.load(open(path, encoding="utf-8"))
-
-
-def img(rel):
-    assert os.path.isfile(os.path.join(APP, rel)), f"missing picture {rel}"
-    return rel
+PRIMARY = "BY"  # fetch_answers.py takes the general answers from this state's catalogue
+MIN_SCORE = 0.85  # weakest option pairing that still counts as a clear match
+MIN_MARGIN = 0.25  # how much better the chosen option must match the correct answer than the runner-up
 
 
-def main():
-    bm = load(os.path.join(SRC, "merged", "bayern_merged.json"))
-    assert [r["n"] for r in bm] == list(range(1, 311))
+def words(s: str) -> list[str]:
+    s = re.sub(r"^Bild (\d)$", r"\1", s.strip())
+    return re.findall(r"\w+", s.lower().replace("selbstständig", "selbständig"))
 
-    general = []
-    for r in bm[:300]:
-        assert r["section"] == "general" and r["num"] == r["n"]
-        general.append({
-            "id": f"g{r['n']}", "n": r["n"], "q": r["question"], "o": r["options"], "a": r["correct"],
-            "img": img(f"img/g{r['n']:03d}.webp") if r["n"] in GENERAL_PICTURES else None,
-            "credit": r["credit"],
-        })
 
+def key(s: str) -> str:
+    """Word order does not matter: the Testcenter writes "Bürger / Bürgerin", the PDF "Bürgerin/Bürger"."""
+    return " ".join(sorted(words(s)))
+
+
+def sim(a: str, b: str) -> float:
+    return difflib.SequenceMatcher(None, key(a), key(b)).ratio()
+
+
+def correct_option(q: dict, web: dict) -> tuple[int, list[str]]:
+    """Index of the correct option in PDF order, and warnings when the pairing is weak."""
+    wtexts = [a["text"] for a in web["answers"]]
+    wc = next(k for k, a in enumerate(web["answers"]) if a["correct"])
+    # Unambiguous when exactly one PDF option has the same words, in order or in any order.
+    for same in (lambda a, b: words(a) == words(b), lambda a, b: key(a) == key(b)):
+        hits = [i for i, opt in enumerate(q["options"]) if same(wtexts[wc], opt)]
+        if len(hits) == 1:
+            return hits[0], []
+    # Otherwise pair all four options at once by fuzzy similarity.
+    m = [[sim(wt, pt) for pt in q["options"]] for wt in wtexts]
+    perm = max(itertools.permutations(range(4)), key=lambda pm: sum(m[k][pm[k]] for k in range(4)))
+    idx = perm[wc]
+    min_score = min(m[k][perm[k]] for k in range(4))
+    margin = m[wc][idx] - max(m[wc][j] for j in range(4) if j != idx)
+    warnings = []
+    if min_score < MIN_SCORE or margin < MIN_MARGIN:
+        warnings.append(
+            f"{q['id']}: weak match (min score {min_score:.2f}, margin {margin:.2f})\n"
+            f"      PDF: {q['options']}\n      web: {wtexts} -> correct {wtexts[wc]!r}"
+        )
+    return idx, warnings
+
+
+def edition() -> str:
+    """The catalogue's "Stand" date from the PDF title, e.g. 07.05.2025 (shown in Settings > About)."""
+    info = subprocess.run(["pdfinfo", str(PDF)], capture_output=True, text=True, check=True).stdout
+    m = re.search(r"Stand:?\s*(\d{2}\.\d{2}\.\d{4})", info)
+    if not m:
+        sys.exit(f"no 'Stand: dd.mm.yyyy' in the title of {PDF}")
+    return m.group(1)
+
+
+def build(pictures: set[str]) -> tuple[dict[str, Any], list[str]]:
+    catalogue = {q["id"]: q for q in load_json(CATALOGUE)}
+    answers = {code: {r["num"]: r for r in load_json(ANSWERS / f"{code}.json")} for code in CODES}
+    warnings: list[str] = []
+
+    def record(q: dict, web: dict, extra: dict) -> dict:
+        idx, warn = correct_option(q, web)
+        warnings.extend(warn)
+        img = image_path(q) if q["id"] in pictures else None
+        return {"id": q["id"], **extra, "q": q["question"], "o": q["options"], "a": idx, "img": img, "credit": q["credit"]}
+
+    general = [record(catalogue[f"g{n}"], answers[PRIMARY][n], {"n": n}) for n in range(1, GENERAL_COUNT + 1)]
     states = {}
     for code, name in STATES:
-        if code == "BY":
-            rows = bm[300:]
-            # same answers as the fresh state-only merge
-            fresh = load(os.path.join(SRC, "merged", "BY.json"))
-            assert [(r["options"], r["correct"]) for r in rows] == [(r["options"], r["correct"]) for r in fresh]
-        else:
-            rows = load(os.path.join(SRC, "merged", f"{code}.json"))
-        assert [r["num"] for r in rows] == list(range(1, 11)) and all(r["section"] == name for r in rows), code
-        states[code] = {"name": name, "questions": [{
-            "id": f"{code}{r['num']}", "k": r["num"], "q": r["question"], "o": r["options"], "a": r["correct"],
-            "img": img(f"img/{code}-{r['num']}.webp") if r["num"] in STATE_PICTURES else None,
-            "credit": r["credit"],
-        } for r in rows]}
-
+        rows = [
+            record(catalogue[f"{code}{k}"], answers[code][GENERAL_COUNT + k], {"k": k})
+            for k in range(1, STATE_COUNT + 1)
+        ]
+        states[code] = {"name": name, "questions": rows}
     doc = {
-        "source": {"catalogue": "BAMF Gesamtfragenkatalog, Stand 07.05.2025",
-                   "answers": "BAMF Online-Testcenter oet.bamf.de", "retrieved": "2026-10-15"},
+        "source": {
+            "catalogue": "BAMF Gesamtfragenkatalog",
+            "edition": edition(),
+            "answers": "BAMF Online-Testcenter oet.bamf.de",
+            "retrieved": datetime.date.today().isoformat(),
+            "pdf_sha256": sha256(PDF),
+        },
         "general": general,
         "states": states,
     }
-    with open(OUT, "w", encoding="utf-8") as f:
-        json.dump(doc, f, ensure_ascii=False, indent=1)
-        f.write("\n")
-    print(f"wrote {OUT}: {len(general)} general, {len(states)} states x "
-          f"{sorted({len(s['questions']) for s in states.values()})} questions")
+    return doc, warnings
+
+
+def by_id(doc: dict[str, Any]) -> dict[str, dict]:
+    out = {q["id"]: q for q in doc["general"]}
+    for st in doc["states"].values():
+        out |= {q["id"]: q for q in st["questions"]}
+    return out
+
+
+def changes(old: dict[str, Any], new: dict[str, Any]) -> list[str]:
+    names = {"q": "question", "o": "options", "a": "answer", "img": "picture", "credit": "credit"}
+    a, b = by_id(old), by_id(new)
+    out = []
+    for qid in b:
+        if qid not in a:
+            out.append(f"{qid}: new")
+            continue
+        diff = [names[k] for k in names if a[qid].get(k) != b[qid].get(k)]
+        if diff:
+            out.append(f"{qid}: {', '.join(diff)}")
+    out += [f"{qid}: removed" for qid in a if qid not in b]
+    return out
+
+
+def main() -> None:
+    catalogue = load_json(CATALOGUE)
+    doc, warnings = build(set(detect(PDF, catalogue)))
+    old = load_json(QUESTIONS) if QUESTIONS.exists() else None
+    changed = changes(old, doc) if old else []
+    if old and not changed and old["source"].get("pdf_sha256") == doc["source"]["pdf_sha256"]:
+        doc["source"]["retrieved"] = old["source"]["retrieved"]  # nothing new: keep the file unchanged
+    write_json(QUESTIONS, doc)
+
+    n_img = sum(1 for q in by_id(doc).values() if q["img"])
+    print(f"wrote {QUESTIONS}: {len(doc['general'])} general + {len(doc['states'])} states, {n_img} pictures")
+    print(f"source: {doc['source']['catalogue']}, Stand {doc['source']['edition']}")
+    for w in warnings:
+        print("WARN", w, file=sys.stderr)
+    if changed:
+        print(f"{len(changed)} question(s) changed since the previous data/questions.json:")
+        print("  " + "\n  ".join(changed))
+        print("Update their entries in translations/*.json (see AGENTS.md).")
+    elif old:
+        print("no question changed")
 
 
 if __name__ == "__main__":
