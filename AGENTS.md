@@ -27,6 +27,7 @@ here; do not add any.
 | `translations/`       | `<lang>.json` hint translations, keyed by question id                                     |
 | `tools/`              | Download, parse, merge, picture, validation and build scripts; e2e test                   |
 | `assets/`             | Source art (square icon used for the maskable and Apple touch PNGs)                       |
+| `docs/screenshots/`   | Screenshots shown in the README                                                           |
 | `build/`              | Ignored. Downloads and intermediate files; safe to delete                                 |
 | `dist/`               | Ignored. The built app, `dist/lebenindeutschland/`                                        |
 

@@ -9,6 +9,11 @@ Offline-capable study app (PWA) for the German citizenship test, served at
 - Three modes: learning with spaced repetition, tests (mock exam and quick test) with history, and
   browsing.
 
+<p>
+  <img src="docs/screenshots/learn.png" alt="Learn tab with the progress overview" width="300">
+  <img src="docs/screenshots/question.png" alt="A question in a learning session with English hints" width="300">
+</p>
+
 ## Build
 
 You need Python 3.11+, poppler-utils, ImageMagick and Node 22+; `uv` and Google Chrome only for
