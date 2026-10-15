@@ -11,7 +11,7 @@ Offline-capable study app (PWA) for the German citizenship test, served at
 
 ## Build
 
-You need Python 3.11+, poppler-utils, ImageMagick and Node 20+; `uv` and Google Chrome only for
+You need Python 3.11+, poppler-utils, ImageMagick and Node 22+; `uv` and Google Chrome only for
 linting and the end-to-end test.
 
 ```sh
