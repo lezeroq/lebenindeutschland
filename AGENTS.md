@@ -35,18 +35,20 @@ here; do not add any.
 
 ```
 bamf.de catalogue PDF ── fetch_catalogue.py ──▶ build/katalog.pdf, build/katalog.txt
+gesetze-im-internet.de ─ fetch_catalogue.py ──▶ build/einbtestv.zip       the regulation, Anlage 1 photos
                          parse_catalogue.py ──▶ build/catalogue.json      wording, option order, page
 oet.bamf.de Testcenter ─ fetch_answers.py ────▶ build/answers/<CODE>.json which option is correct
                          build_questions.py ──▶ data/questions.json       committed snapshot
-                         pictures.py ─────────▶ build/img/*.webp          cropped from the PDF
+                         pictures.py ─────────▶ build/img/*.webp          from the PDF and Anlage 1
 app/ + data/ + translations/ + build/img/ ─ build_app.py ─▶ dist/lebenindeutschland/
 ```
 
-- The PDF is authoritative for wording and option order. The Testcenter only tells which answer is
+- The BAMF PDF is authoritative for wording and option order. The Testcenter only tells which answer is
   correct; its option order and spelling can differ, so `build_questions.py` pairs options by fuzzy
   similarity and prints a `WARN weak match` for unclear pairings.
 - Picture questions are found automatically: a gap of more than 40 pt between the question text and
-  the first checkbox. `pictures.py` crops that region, trims the margin and writes WebP.
+  the first checkbox. `pictures.py` crops that region, trims the margin and writes WebP, except
+  for the photos the PDF credits to third parties: those come from Anlage 1 (see Licensing).
 - `data/questions.json` records the PDF's SHA-256. If BAMF has replaced the PDF, `make` stops with
   "not the catalogue edition ...": the questions must be rebuilt (see below).
 - `build_app.py` hashes every output file into a version (`js/version.js`, `sw.js`). Installed apps
@@ -150,6 +152,25 @@ need `dir="rtl"` handling in `applyLangClasses()` and CSS work; that is not supp
   needs a migration for existing data and must keep export and import working.
 - For visual changes, run `make e2e` and look at the screenshots in `build/e2e/` (light, dark,
   German, English, Russian). The app is used mostly on phones.
+
+## Licensing
+
+The code and `translations/` are MIT-licensed (`LICENSE`). The rest is not ours, and the
+README's "License and sources" section must stay accurate:
+
+- The German question text and the answer key are official works (Anlage 1 EinbTestV and BAMF's
+  catalogue, § 5 UrhG). Keep them unaltered and keep the source in Settings > About
+  (`about.body`) and in the README.
+- Pictures are only built, never committed. The uncredited drawings, maps and coats of arms come
+  from the BAMF PDF. Photos that the PDF credits to someone else ("© Bundesregierung/…",
+  "© Deutscher Bundestag/…") must not be published: `tools/pictures.py` takes those questions'
+  photos from Anlage 1 of the regulation instead (`ANNEX_PHOTOS`), and `make` fails if a new
+  credited photo appears. Add the matching Anlage 1 picture to `ANNEX_PHOTOS`, or drop the picture.
+- Never add images from elsewhere (stock photos, Wikipedia, other apps) without a license that
+  allows it, and record the license in the README.
+- Never use the federal or state coats of arms or the Bundesadler as an icon, logo or branding,
+  never make the app look official, and keep it non-commercial: several states only allow their
+  coats of arms for teaching and civic education.
 
 ## Conventions
 

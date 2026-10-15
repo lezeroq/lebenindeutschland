@@ -31,7 +31,7 @@ from common import (
     load_json,
     write_json,
 )
-from pictures import detect, image_path, sha256
+from pictures import ANNEX_PHOTOS, detect, image_path, sha256
 
 PRIMARY = "BY"  # fetch_answers.py takes the general answers from this state's catalogue
 MIN_SCORE = 0.85  # weakest option pairing that still counts as a clear match
@@ -94,6 +94,8 @@ def build(pictures: set[str]) -> tuple[dict[str, Any], list[str]]:
         idx, warn = correct_option(q, web)
         warnings.extend(warn)
         img = image_path(q) if q["id"] in pictures else None
+        # the credit belongs to the PDF's photo; ANNEX_PHOTOS replaces it with the uncredited official one
+        credit = "" if q["id"] in ANNEX_PHOTOS else q["credit"]
         return {
             "id": q["id"],
             **extra,
@@ -101,7 +103,7 @@ def build(pictures: set[str]) -> tuple[dict[str, Any], list[str]]:
             "o": q["options"],
             "a": idx,
             "img": img,
-            "credit": q["credit"],
+            "credit": credit,
         }
 
     general = [record(catalogue[f"g{n}"], answers[PRIMARY][n], {"n": n}) for n in range(1, GENERAL_COUNT + 1)]
@@ -165,7 +167,8 @@ def main() -> None:
     if changed:
         print(f"{len(changed)} question(s) changed since the previous data/questions.json:")
         print("  " + "\n  ".join(changed))
-        print("Update their entries in translations/*.json (see AGENTS.md).")
+        if any(("question" in c or "options" in c or c.endswith(": new")) for c in changed):
+            print("Update the translations of new questions and changed questions or options (see AGENTS.md).")
     elif old:
         print("no question changed")
 

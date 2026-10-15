@@ -3,8 +3,8 @@
 Usage: python3 tools/validate.py [--strict]
 
 Questions: 300 general (g1..g300) and 16 states x 10 (<CODE>1..10); every question has a
-non-empty text, exactly 4 distinct non-empty options, an answer index 0..3 and an img that is
-null or img/<name>.webp.
+non-empty text, exactly 4 distinct non-empty options, an answer index 0..3, an img that is
+null or img/<name>.webp, and no third-party (©) picture credit.
 Translations: every key is a known question id and every entry has a non-empty "q" and exactly
 4 options. Missing translations are reported; --strict turns them into errors.
 Exits non-zero on any error.
@@ -37,8 +37,11 @@ def check_question(q: dict[str, Any], want_id: str) -> None:
     img = q.get("img")
     if img is not None and not (isinstance(img, str) and re.fullmatch(r"img/[\w-]+\.webp", img)):
         errors.append(f"{qid}: img must be null or img/<name>.webp, got {img!r}")
-    if not isinstance(q.get("credit", ""), str):
+    credit = q.get("credit", "")
+    if not isinstance(credit, str):
         errors.append(f"{qid}: credit must be a string")
+    elif "©" in credit:
+        errors.append(f"{qid}: third-party picture ({credit}); see AGENTS.md, Licensing")
 
 
 def check_questions(doc: dict[str, Any]) -> None:

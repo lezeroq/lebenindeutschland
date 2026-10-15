@@ -1,10 +1,12 @@
-"""Download the BAMF question catalogue PDF and extract its text.
+"""Download the BAMF question catalogue PDF and the Einbürgerungstestverordnung, extract the PDF's text.
 
 Usage: python3 tools/fetch_catalogue.py [--force]
 
-Writes build/katalog.pdf and build/katalog.txt (pdftotext -layout). Skips the download when the
-PDF is already there, unless --force is given. The PDF link is read from the catalogue page,
-because BAMF bumps its version parameter with every new edition.
+Writes build/katalog.pdf, build/katalog.txt (pdftotext -layout) and build/einbtestv.zip (the
+regulation as XML with the pictures of its Anlage 1, from gesetze-im-internet.de; pictures.py
+takes the photos from there). Skips downloads that are already there, unless --force is given.
+The PDF link is read from the catalogue page, because BAMF bumps its version parameter with
+every new edition.
 """
 
 import argparse
@@ -15,13 +17,14 @@ import time
 import urllib.request
 from pathlib import Path
 
-from common import PDF, PDF_TEXT
+from common import ANNEX, PDF, PDF_TEXT
 
 PAGE = "https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.html"
 FALLBACK = (
     "https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/"
     "gesamtfragenkatalog-lebenindeutschland.pdf?__blob=publicationFile"
 )
+ANNEX_URL = "https://www.gesetze-im-internet.de/einbtestv/xml.zip"
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) lebenindeutschland-trainer"
 
 
@@ -51,6 +54,14 @@ def pdf_url() -> str:
     return m.group(1).replace("&amp;", "&")
 
 
+def save(path: Path, data: bytes) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(".part")
+    tmp.write_bytes(data)
+    tmp.replace(path)
+    print(f"saved {path} ({len(data) // 1024} KiB)")
+
+
 def extract_text(pdf: Path, out: Path) -> None:
     subprocess.run(["pdftotext", "-layout", str(pdf), str(out)], check=True)
 
@@ -66,14 +77,16 @@ def main() -> None:
         data = download(url)
         if not data.startswith(b"%PDF"):
             sys.exit(f"{url} did not return a PDF")
-        PDF.parent.mkdir(parents=True, exist_ok=True)
-        tmp = PDF.with_suffix(".part")
-        tmp.write_bytes(data)
-        tmp.replace(PDF)
-        print(f"saved {PDF} ({len(data) // 1024} KiB)")
+        save(PDF, data)
     if args.force or not PDF_TEXT.exists() or PDF_TEXT.stat().st_mtime < PDF.stat().st_mtime:
         extract_text(PDF, PDF_TEXT)
         print(f"extracted {PDF_TEXT}")
+    if args.force or not ANNEX.exists():
+        print(f"downloading {ANNEX_URL}")
+        data = download(ANNEX_URL)
+        if not data.startswith(b"PK"):
+            sys.exit(f"{ANNEX_URL} did not return a zip file")
+        save(ANNEX, data)
 
 
 if __name__ == "__main__":

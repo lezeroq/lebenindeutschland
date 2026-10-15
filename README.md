@@ -52,3 +52,20 @@ most 20 cards: due reviews first, then new questions up to the daily limit.
 
 All progress is stored in `localStorage` on the device and can be exported and imported as JSON
 in Settings.
+
+## License and sources
+
+- The code and the English and Russian translations are licensed under the [MIT License](LICENSE).
+- The German questions and answer options in `data/questions.json` are Anlage 1 of the
+  Einbürgerungstestverordnung (EinbTestV) of 5 August 2008 (BGBl. I S. 1649), last amended on
+  21 June 2024 (BGBl. 2024 I Nr. 211), in the wording of the BAMF
+  [Gesamtfragenkatalog](https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.html),
+  Stand 07.05.2025. They are official works without copyright (§ 5 UrhG) and are not covered by
+  the MIT License.
+- The correct answers come from the BAMF
+  [Online-Testcenter](https://oet.bamf.de/ords/oetut/f?p=514:1:0).
+- The pictures are not stored in this repository. The build crops them from the BAMF catalogue
+  PDF. The five photos that the PDF credits to the Federal Government and the Bundestag are
+  replaced with the versions printed in Anlage 1 of the regulation, which are free to reuse.
+- This app is not affiliated with BAMF. The translations are unofficial learning aids. The coats
+  of arms of the federal states are shown only for civic education, as in the official catalogue.

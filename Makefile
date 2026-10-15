@@ -29,13 +29,13 @@ validate:  ## check data/questions.json, translations/*.json and the interface l
 	$(PYTHON) tools/validate.py
 	node tools/check_i18n.mjs
 
-build/katalog.pdf build/katalog.txt &:
+build/katalog.pdf build/katalog.txt build/einbtestv.zip &:
 	$(PYTHON) tools/fetch_catalogue.py
 
 build/catalogue.json: build/katalog.txt tools/parse_catalogue.py
 	$(PYTHON) tools/parse_catalogue.py
 
-build/img/.stamp: build/katalog.pdf build/catalogue.json data/questions.json tools/pictures.py
+build/img/.stamp: build/katalog.pdf build/einbtestv.zip build/catalogue.json data/questions.json tools/pictures.py
 	$(PYTHON) tools/pictures.py
 	touch $@
 

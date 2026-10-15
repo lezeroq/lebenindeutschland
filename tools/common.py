@@ -12,6 +12,7 @@ BUILD = ROOT / "build"  # downloads and intermediate files, safe to delete
 PDF = BUILD / "katalog.pdf"
 PDF_TEXT = BUILD / "katalog.txt"
 CATALOGUE = BUILD / "catalogue.json"
+ANNEX = BUILD / "einbtestv.zip"  # the Einbürgerungstestverordnung with Anlage 1 and its pictures
 ANSWERS = BUILD / "answers"
 PICTURES = BUILD / "img"
 DIST = ROOT / "dist" / "lebenindeutschland"  # what gets published at /lebenindeutschland/

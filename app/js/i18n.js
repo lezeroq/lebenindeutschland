@@ -136,7 +136,7 @@ export const STR = {
       "Tippe in Safari auf „Teilen“ und dann auf „Zum Home-Bildschirm“. Danach startet die App wie eine normale App und funktioniert auch offline.",
     "about.title": "Über diese App",
     "about.body":
-      "Fragen und Bilder: BAMF-Gesamtfragenkatalog, Stand {edition}. Richtige Antworten: BAMF-Online-Testcenter. Übersetzungen sind Lernhilfen und nicht amtlich.",
+      "Fragen und Bilder: Anlage 1 der Einbürgerungstestverordnung (EinbTestV) in der Fassung des BAMF-Gesamtfragenkatalogs, Stand {edition}. Richtige Antworten: BAMF-Online-Testcenter. Diese App ist kein Angebot des BAMF. Übersetzungen sind Lernhilfen und nicht amtlich.",
     "update.text": "Eine neue Version ist da.",
     "update.reload": "Aktualisieren",
     "onb.sub": "Trainer für den Einbürgerungstest",
@@ -276,7 +276,7 @@ export const STR = {
       "In Safari, tap Share, then “Add to Home Screen”. The app then opens like a regular app and works offline.",
     "about.title": "About this app",
     "about.body":
-      "Questions and pictures: BAMF Gesamtfragenkatalog, as of {edition}. Correct answers: BAMF Online-Testcenter. Translations are learning aids, not official.",
+      "Questions and pictures: Annex 1 of the Einbürgerungstestverordnung (EinbTestV), as published in the BAMF Gesamtfragenkatalog, as of {edition}. Correct answers: BAMF Online-Testcenter. This app is not affiliated with BAMF. Translations are learning aids, not official.",
     "update.text": "A new version is ready.",
     "update.reload": "Update",
     "onb.sub": "Trainer for the German citizenship test",
@@ -417,7 +417,7 @@ export const STR = {
       "В Safari нажмите «Поделиться», затем «На экран „Домой“». После этого приложение открывается как обычное и работает без интернета.",
     "about.title": "О приложении",
     "about.body":
-      "Вопросы и изображения: каталог вопросов BAMF (Gesamtfragenkatalog), редакция от {edition}. Правильные ответы: онлайн-тестцентр BAMF. Переводы — учебная подсказка, а не официальный текст.",
+      "Вопросы и изображения: приложение 1 к Einbürgerungstestverordnung (EinbTestV) в редакции каталога вопросов BAMF (Gesamtfragenkatalog) от {edition}. Правильные ответы: онлайн-тестцентр BAMF. Приложение не является сервисом BAMF. Переводы — учебная подсказка, а не официальный текст.",
     "update.text": "Доступна новая версия.",
     "update.reload": "Обновить",
     "onb.sub": "Тренажёр теста на гражданство Германии",
