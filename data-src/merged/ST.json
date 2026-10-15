@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Sachsen-Anhalt",
+  "num": 1,
+  "page": 177,
+  "question": "Welches Wappen gehört zum Bundesland Sachsen-Anhalt?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 3,
+  "web_correct_text": "4",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2053a_Sachsen-Anhalt_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Sachsen-Anhalt",
+  "num": 2,
+  "page": 177,
+  "question": "Welches ist ein Landkreis in Sachsen-Anhalt?",
+  "credit": "",
+  "options": [
+   "Ammerland",
+   "Altötting",
+   "Uckermark",
+   "Börde"
+  ],
+  "correct": 3,
+  "web_correct_text": "Börde",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.714,
+  "web_options": [
+   "Ammerland",
+   "Altötting",
+   "Uckermark",
+   "Börde"
+  ],
+  "note": "ET3096n_Landkreis_Sachsen-Anhalt"
+ },
+ {
+  "n": 303,
+  "section": "Sachsen-Anhalt",
+  "num": 3,
+  "page": 178,
+  "question": "Für wie viele Jahre wird der Landtag in Sachsen-Anhalt gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "web_correct_text": "5",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097m_Wahlperiode_Landtag_Sachsen-Anhalt"
+ },
+ {
+  "n": 304,
+  "section": "Sachsen-Anhalt",
+  "num": 4,
+  "page": 178,
+  "question": "Ab welchem Alter darf man in Sachsen-Anhalt bei Kommunalwahlen wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 1,
+  "web_correct_text": "16",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099l_Alter_Kommunalwahlen_Sachsen-Anhalt"
+ },
+ {
+  "n": 305,
+  "section": "Sachsen-Anhalt",
+  "num": 5,
+  "page": 178,
+  "question": "Welche Farben hat die Landesflagge von Sachsen-Anhalt?",
+  "credit": "",
+  "options": [
+   "blau-weiß-rot",
+   "gelb-schwarz",
+   "grün-weiß-rot",
+   "weiß-rot"
+  ],
+  "correct": 1,
+  "web_correct_text": "gelb-schwarz",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.84,
+  "web_options": [
+   "blau-weiß-rot",
+   "gelb-schwarz",
+   "grün-weiß-rot",
+   "weiß-rot"
+  ],
+  "note": "ET4081m_Flagge_Sachsen_Anhalt"
+ },
+ {
+  "n": 306,
+  "section": "Sachsen-Anhalt",
+  "num": 6,
+  "page": 179,
+  "question": "Wo können Sie sich in Sachsen-Anhalt über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "bei den Kirchen",
+   "bei der Landeszentrale für politische Bildung",
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale"
+  ],
+  "correct": 1,
+  "web_correct_text": "bei der Landeszentrale für politische Bildung",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.472,
+  "web_options": [
+   "bei den Kirchen",
+   "bei der Landeszentrale für politische Bildung",
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale"
+  ],
+  "note": "ET4082n_lpb_Sachsen_Anhalt"
+ },
+ {
+  "n": 307,
+  "section": "Sachsen-Anhalt",
+  "num": 7,
+  "page": 179,
+  "question": "Die Landeshauptstadt von Sachsen-Anhalt heißt …",
+  "credit": "",
+  "options": [
+   "Halle.",
+   "Dessau.",
+   "Magdeburg.",
+   "Wittenberg."
+  ],
+  "correct": 2,
+  "web_correct_text": "Magdeburg.",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.579,
+  "web_options": [
+   "Halle.",
+   "Dessau.",
+   "Magdeburg.",
+   "Wittenberg."
+  ],
+  "note": "ET5054a_Magdeburg_Hauptstadt"
+ },
+ {
+  "n": 308,
+  "section": "Sachsen-Anhalt",
+  "num": 8,
+  "page": 180,
+  "question": "Welches Bundesland ist Sachsen-Anhalt?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 2,
+  "web_correct_text": "3",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5070a_BL_Sachsen_Anhalt_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Sachsen-Anhalt",
+  "num": 9,
+  "page": 181,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef in Sachsen-Anhalt?",
+  "credit": "",
+  "options": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ],
+  "correct": 3,
+  "web_correct_text": "Ministerpräsident/ Ministerpräsidentin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.371,
+  "web_options": [
+   "Erster Minister/ Erste Ministerin",
+   "Premierminister/ Premierministerin",
+   "Bürgermeister/ Bürgermeisterin",
+   "Ministerpräsident/ Ministerpräsidentin"
+  ],
+  "note": "ET5090a_Regierungschef_Sachsen_Anhalt"
+ },
+ {
+  "n": 310,
+  "section": "Sachsen-Anhalt",
+  "num": 10,
+  "page": 181,
+  "question": "Welche Ministerin/welchen Minister hat Sachsen-Anhalt nicht?",
+  "credit": "",
+  "options": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ],
+  "correct": 1,
+  "web_correct_text": "Außenminister/ Außenministerin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.207,
+  "web_options": [
+   "Justizminister / Justizministerin",
+   "Außenminister/ Außenministerin",
+   "Finanzminister/ Finanzministerin",
+   "Innenminister/ Innenministerin"
+  ],
+  "note": "ET5099l_Sachsen_Anhalt_Minister"
+ }
+]

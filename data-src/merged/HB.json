@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Bremen",
+  "num": 1,
+  "page": 132,
+  "question": "Welches Wappen gehört zur Freien Hansestadt Bremen?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 2,
+  "web_correct_text": "3",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2044a_Bremen_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Bremen",
+  "num": 2,
+  "page": 132,
+  "question": "Welches ist ein Stadtteil von Bremen?",
+  "credit": "",
+  "options": [
+   "Altona",
+   "Hemelingen",
+   "Pankow",
+   "Babelsberg"
+  ],
+  "correct": 1,
+  "web_correct_text": "Hemelingen",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.7,
+  "web_options": [
+   "Altona",
+   "Hemelingen",
+   "Pankow",
+   "Babelsberg"
+  ],
+  "note": "ET3096i_Stadtteil_Bremen"
+ },
+ {
+  "n": 303,
+  "section": "Bremen",
+  "num": 3,
+  "page": 133,
+  "question": "Für wie viele Jahre wird das Landesparlament in Bremen gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 1,
+  "web_correct_text": "4",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097e_Wahlperiode_Landtag_Bremen"
+ },
+ {
+  "n": 304,
+  "section": "Bremen",
+  "num": 4,
+  "page": 133,
+  "question": "Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 1,
+  "web_correct_text": "16",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099d_Alter_Kommunalwahlen_Bremen"
+ },
+ {
+  "n": 305,
+  "section": "Bremen",
+  "num": 5,
+  "page": 133,
+  "question": "Welche Farben hat die Landesflagge von Bremen?",
+  "credit": "",
+  "options": [
+   "blau-weiß-rot",
+   "rot-weiß",
+   "grün-weiß-rot",
+   "schwarz-gold"
+  ],
+  "correct": 1,
+  "web_correct_text": "rot-weiß",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.238,
+  "web_options": [
+   "blau-weiß-rot",
+   "rot-weiß",
+   "grün-weiß-rot",
+   "schwarz-gold"
+  ],
+  "note": "ET4081e_Flagge_Bremen"
+ },
+ {
+  "n": 306,
+  "section": "Bremen",
+  "num": 6,
+  "page": 134,
+  "question": "Wo können Sie sich in Bremen über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen",
+   "bei der Verbraucherzentrale"
+  ],
+  "correct": 1,
+  "web_correct_text": "bei der Landeszentrale für politische Bildung",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.472,
+  "web_options": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen",
+   "bei der Verbraucherzentrale"
+  ],
+  "note": "ET4082e_lpb_Bremen"
+ },
+ {
+  "n": 307,
+  "section": "Bremen",
+  "num": 7,
+  "page": 134,
+  "question": "Was ist ein deutscher Stadtstaat?",
+  "credit": "",
+  "options": [
+   "Bremen",
+   "München",
+   "Frankfurt",
+   "Erfurt"
+  ],
+  "correct": 0,
+  "web_correct_text": "Bremen",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.538,
+  "web_options": [
+   "Bremen",
+   "München",
+   "Frankfurt",
+   "Erfurt"
+  ],
+  "note": "ET3060a_Stadtstaat_Bremen"
+ },
+ {
+  "n": 308,
+  "section": "Bremen",
+  "num": 8,
+  "page": 135,
+  "question": "Welches Bundesland ist Bremen?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 0,
+  "web_correct_text": "1",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5102a_BL_Bremen_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Bremen",
+  "num": 9,
+  "page": 136,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Bremen?",
+  "credit": "",
+  "options": [
+   "Ministerpräsidentin/Ministerpräsident",
+   "Erste Bürgermeisterin/Erster Bürgermeister",
+   "Präsidentin/Präsident des Senates",
+   "Regierende Bürgermeisterin/Regierender Bürgermeister"
+  ],
+  "correct": 2,
+  "web_correct_text": "Präsident/ Präsidentin des Senats",
+  "identity_order": true,
+  "min_score": 0.985,
+  "margin": 0.347,
+  "web_options": [
+   "Ministerpräsident/ Ministerpräsidentin",
+   "Erster Bürgermeister/ Erste Bürgermeisterin",
+   "Präsident/ Präsidentin des Senats",
+   "Regierender Bürgermeister/ Regierende Bürgermeisterin"
+  ],
+  "note": "ET5064a_Bremen_Bgm"
+ },
+ {
+  "n": 310,
+  "section": "Bremen",
+  "num": 10,
+  "page": 136,
+  "question": "Welche Senatorin/welchen Senator hat Bremen nicht?",
+  "credit": "",
+  "options": [
+   "Senatorin/Senator für Außenbeziehungen",
+   "Finanzsenatorin/Finanzsenator",
+   "Justizsenatorin/Justizsenator",
+   "Innensenatorin/Innensenator"
+  ],
+  "correct": 0,
+  "web_correct_text": "Senator / Senatorin für Außenbeziehungen",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.403,
+  "web_options": [
+   "Senator / Senatorin für Außenbeziehungen",
+   "Finanzsenator / Finanzsenatorin",
+   "Justizsenator / Justizsenatorin",
+   "Innensenator / Innensenatorin"
+  ],
+  "note": "ET5099b_Bremen_Minister"
+ }
+]

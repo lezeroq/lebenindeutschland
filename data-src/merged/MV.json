@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 1,
+  "page": 147,
+  "question": "Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 2,
+  "web_correct_text": "3",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2047a_Mecklenburg-Vorpommern_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 2,
+  "page": 147,
+  "question": "Welches ist ein Landkreis in Mecklenburg-Vorpommern?",
+  "credit": "",
+  "options": [
+   "Prignitz",
+   "Mecklenburgische Seenplatte",
+   "Vogtlandkreis",
+   "Rhein-Sieg-Kreis"
+  ],
+  "correct": 1,
+  "web_correct_text": "Mecklenburgische Seenplatte",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.628,
+  "web_options": [
+   "Prignitz",
+   "Mecklenburgische Seenplatte",
+   "Vogtlandkreis",
+   "Rhein-Sieg-Kreis"
+  ],
+  "note": "ET3096b_Landkreis_Mecklenburg-Vorpommern"
+ },
+ {
+  "n": 303,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 3,
+  "page": 148,
+  "question": "Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "web_correct_text": "5",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097h_Wahlperiode_Landtag_Mecklenburg-Vorpommern"
+ },
+ {
+  "n": 304,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 4,
+  "page": 148,
+  "question": "Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 1,
+  "web_correct_text": "16",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099f_Alter_Kommunalwahlen_Mecklenburg-Vorpommern"
+ },
+ {
+  "n": 305,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 5,
+  "page": 148,
+  "question": "Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?",
+  "credit": "",
+  "options": [
+   "schwarz-rot-gold",
+   "blau-weiß-gelb-rot",
+   "grün-weiß-rot",
+   "schwarz-gelb"
+  ],
+  "correct": 1,
+  "web_correct_text": "blau-weiß-gelb-rot",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.355,
+  "web_options": [
+   "schwarz-rot-gold",
+   "blau-weiß-gelb-rot",
+   "grün-weiß-rot",
+   "schwarz-gelb"
+  ],
+  "note": "ET4081h_Flagge_Meck_Pom"
+ },
+ {
+  "n": 306,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 6,
+  "page": 149,
+  "question": "Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen",
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale"
+  ],
+  "correct": 0,
+  "web_correct_text": "bei der Landeszentrale für politische Bildung",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.472,
+  "web_options": [
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen",
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale"
+  ],
+  "note": "ET4082h_lpb_Meck_Pom"
+ },
+ {
+  "n": 307,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 7,
+  "page": 149,
+  "question": "Die Landeshauptstadt von Mecklenburg-Vorpommern heißt …",
+  "credit": "",
+  "options": [
+   "Greifswald.",
+   "Schwerin.",
+   "Rostock.",
+   "Wismar."
+  ],
+  "correct": 1,
+  "web_correct_text": "Schwerin.",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.714,
+  "web_options": [
+   "Greifswald.",
+   "Schwerin.",
+   "Rostock.",
+   "Wismar."
+  ],
+  "note": "ET5057a_Schwerin_Hauptstadt"
+ },
+ {
+  "n": 308,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 8,
+  "page": 150,
+  "question": "Welches Bundesland ist Mecklenburg-Vorpommern?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 2,
+  "web_correct_text": "3",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5076a_BL_Mecklenburg_Vor_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 9,
+  "page": 151,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef in Mecklenburg-Vorpommern?",
+  "credit": "",
+  "options": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ],
+  "correct": 3,
+  "web_correct_text": "Ministerpräsident/ Ministerpräsidentin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.371,
+  "web_options": [
+   "Erster Minister/ Erste Ministerin",
+   "Premierminister/ Premierministerin",
+   "Bürgermeister/ Bürgermeisterin",
+   "Ministerpräsident/ Ministerpräsidentin"
+  ],
+  "note": "ET5094a_Regierungschef_Mecklenburg_Vorp"
+ },
+ {
+  "n": 310,
+  "section": "Mecklenburg-Vorpommern",
+  "num": 10,
+  "page": 151,
+  "question": "Welche Ministerin/welchen Minister hat Mecklenburg-Vorpommern nicht?",
+  "credit": "",
+  "options": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ],
+  "correct": 1,
+  "web_correct_text": "Außenminister/ Außenministerin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.207,
+  "web_options": [
+   "Justizminister/ Justizministerin",
+   "Außenminister/ Außenministerin",
+   "Finanzminister/ Finanzministerin",
+   "Innenminister/ Innenministerin"
+  ],
+  "note": "ET5099f_Meck_Pom_Minister"
+ }
+]

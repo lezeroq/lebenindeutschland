@@ -1,0 +1,301 @@
+[
+ {
+  "num": 1,
+  "answers": [
+   {
+    "text": "hier Religionsfreiheit gilt.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen Steuern zahlen.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen das Wahlrecht haben.",
+    "correct": false
+   },
+   {
+    "text": "hier Meinungsfreiheit gilt.",
+    "correct": true
+   }
+  ],
+  "note": "ET5024a_Meinungsfreiheit",
+  "id": "17412"
+ },
+ {
+  "num": 130,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5700b_Erststimme_Wahlen",
+  "id": "17617"
+ },
+ {
+  "num": 300,
+  "answers": [
+   {
+    "text": "Italien",
+    "correct": true
+   },
+   {
+    "text": "Spanien",
+    "correct": false
+   },
+   {
+    "text": "Portugal",
+    "correct": false
+   },
+   {
+    "text": "Türkei",
+    "correct": false
+   }
+  ],
+  "note": "ET5009a_Erste_Gastarbeiter",
+  "id": "17288"
+ },
+ {
+  "num": 301,
+  "answers": [
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "2",
+    "correct": true
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET2045a_Hamburg_Wappen",
+  "id": "17367"
+ },
+ {
+  "num": 302,
+  "answers": [
+   {
+    "text": "Altona",
+    "correct": true
+   },
+   {
+    "text": "Hemelingen",
+    "correct": false
+   },
+   {
+    "text": "Pankow",
+    "correct": false
+   },
+   {
+    "text": "Mecklenburgische Seenplatte",
+    "correct": false
+   }
+  ],
+  "note": "ET3096j_Bezirk_Hamburg",
+  "id": "17408"
+ },
+ {
+  "num": 303,
+  "answers": [
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   },
+   {
+    "text": "5",
+    "correct": true
+   },
+   {
+    "text": "6",
+    "correct": false
+   }
+  ],
+  "note": "ET3097f_Wahlperiode_Landtag_Hamburg",
+  "id": "17406"
+ },
+ {
+  "num": 304,
+  "answers": [
+   {
+    "text": "14",
+    "correct": false
+   },
+   {
+    "text": "16",
+    "correct": true
+   },
+   {
+    "text": "18",
+    "correct": false
+   },
+   {
+    "text": "20",
+    "correct": false
+   }
+  ],
+  "note": "ET3099p_Alter_Kommunalwahlen_Hamburg",
+  "id": "17489"
+ },
+ {
+  "num": 305,
+  "answers": [
+   {
+    "text": "blau-weiß-rot",
+    "correct": false
+   },
+   {
+    "text": "weiß-rot",
+    "correct": true
+   },
+   {
+    "text": "grün-weiß-rot",
+    "correct": false
+   },
+   {
+    "text": "schwarz-gelb",
+    "correct": false
+   }
+  ],
+  "note": "ET4081f_Flagge_Hamburg",
+  "id": "17422"
+ },
+ {
+  "num": 306,
+  "answers": [
+   {
+    "text": "beim Ordnungsamt der Gemeinde",
+    "correct": false
+   },
+   {
+    "text": "bei der Verbraucherzentrale",
+    "correct": false
+   },
+   {
+    "text": "bei den Kirchen",
+    "correct": false
+   },
+   {
+    "text": "bei der Landeszentrale für politische Bildung",
+    "correct": true
+   }
+  ],
+  "note": "ET4082f_lpb_Hamburg",
+  "id": "17528"
+ },
+ {
+  "num": 307,
+  "answers": [
+   {
+    "text": "Hamburg",
+    "correct": true
+   },
+   {
+    "text": "Sachsen",
+    "correct": false
+   },
+   {
+    "text": "Bayern",
+    "correct": false
+   },
+   {
+    "text": "Thüringen",
+    "correct": false
+   }
+  ],
+  "note": "ET3026a_Stadtstaat_HH",
+  "id": "17328"
+ },
+ {
+  "num": 308,
+  "answers": [
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": true
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5098a_BL_Hamburg_Karte",
+  "id": "17436"
+ },
+ {
+  "num": 309,
+  "answers": [
+   {
+    "text": "Ministerpräsident / Ministerpräsidentin",
+    "correct": false
+   },
+   {
+    "text": "Erster Bürgermeister / Erste Bürgermeisterin",
+    "correct": true
+   },
+   {
+    "text": "Regierender Senator / Regierende Senatorin",
+    "correct": false
+   },
+   {
+    "text": "Oberbürgermeister / Oberbürgermeisterin",
+    "correct": false
+   }
+  ],
+  "note": "ET5063a_Hamburg_erster_Bgm",
+  "id": "17345"
+ },
+ {
+  "num": 310,
+  "answers": [
+   {
+    "text": "Justizsenator / Justizsenatorin",
+    "correct": false
+   },
+   {
+    "text": "Senator / Senatorin für Außenbeziehungen",
+    "correct": true
+   },
+   {
+    "text": "Finanzsenator / Finanzsenatorin",
+    "correct": false
+   },
+   {
+    "text": "Innensenator / Innensenatorin",
+    "correct": false
+   }
+  ],
+  "note": "ET5099m_Hamburg_Minister",
+  "id": "17243"
+ }
+]

@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Saarland",
+  "num": 1,
+  "page": 167,
+  "question": "Welches Wappen gehört zum Bundesland Saarland?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 3,
+  "web_correct_text": "4",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2052a_Saarland_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Saarland",
+  "num": 2,
+  "page": 167,
+  "question": "Welches ist ein Landkreis im Saarland?",
+  "credit": "",
+  "options": [
+   "Mecklenburgische Seenplatte",
+   "Altötting",
+   "Neunkirchen",
+   "Rhein-Sieg-Kreis"
+  ],
+  "correct": 2,
+  "web_correct_text": "Neunkirchen",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.556,
+  "web_options": [
+   "Mecklenburgische Seenplatte",
+   "Altötting",
+   "Neunkirchen",
+   "Rhein-Sieg-Kreis"
+  ],
+  "note": "ET3096o_Landkreis_Saarland"
+ },
+ {
+  "n": 303,
+  "section": "Saarland",
+  "num": 3,
+  "page": 168,
+  "question": "Für wie viele Jahre wird der Landtag des Saarlandes gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "web_correct_text": "5",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097o_Wahlperiode_Landtag_Saarland"
+ },
+ {
+  "n": 304,
+  "section": "Saarland",
+  "num": 4,
+  "page": 168,
+  "question": "Ab welchem Alter darf man im Saarland bei Kommunalwahlen wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 2,
+  "web_correct_text": "18",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099j_Alter_Kommunalwahlen_Saarland"
+ },
+ {
+  "n": 305,
+  "section": "Saarland",
+  "num": 5,
+  "page": 168,
+  "question": "Welche Farben hat die Landesflagge des Saarlandes?",
+  "credit": "",
+  "options": [
+   "weiß-blau",
+   "schwarz-rot-gold",
+   "schwarz-gelb",
+   "grün-weiß-rot"
+  ],
+  "correct": 1,
+  "web_correct_text": "schwarz-rot-gold",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.286,
+  "web_options": [
+   "weiß-blau",
+   "schwarz-rot-gold",
+   "schwarz-gelb",
+   "grün-weiß-rot"
+  ],
+  "note": "ET4081k_Flagge_Saarland"
+ },
+ {
+  "n": 306,
+  "section": "Saarland",
+  "num": 6,
+  "page": 169,
+  "question": "Wo können Sie sich im Saarland über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "bei den Kirchen",
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale",
+   "beim Ordnungsamt der Gemeinde"
+  ],
+  "correct": 1,
+  "web_correct_text": "bei der Landeszentrale für politische Bildung",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.472,
+  "web_options": [
+   "bei den Kirchen",
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale",
+   "beim Ordnungsamt der Gemeinde"
+  ],
+  "note": "ET4082l_lpb_Saarland"
+ },
+ {
+  "n": 307,
+  "section": "Saarland",
+  "num": 7,
+  "page": 169,
+  "question": "Die Landeshauptstadt des Saarlandes heißt …",
+  "credit": "",
+  "options": [
+   "Neunkirchen.",
+   "Homburg.",
+   "Saarbrücken.",
+   "Völklingen."
+  ],
+  "correct": 2,
+  "web_correct_text": "Saarbrücken.",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.636,
+  "web_options": [
+   "Neunkirchen.",
+   "Homburg.",
+   "Saarbrücken.",
+   "Völklingen."
+  ],
+  "note": "ET5058a_Saarbruecken_Hauptstadt"
+ },
+ {
+  "n": 308,
+  "section": "Saarland",
+  "num": 8,
+  "page": 170,
+  "question": "Welches Bundesland ist das Saarland?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 1,
+  "web_correct_text": "2",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5079a_BL_Saarland_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Saarland",
+  "num": 9,
+  "page": 171,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef des Saarlandes?",
+  "credit": "",
+  "options": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ],
+  "correct": 3,
+  "web_correct_text": "Ministerpräsident/ Ministerpräsidentin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.371,
+  "web_options": [
+   "Erster Minister/ Erste Ministerin",
+   "Premierminister/ Premierministerin",
+   "Bürgermeister/ Bürgermeisterin",
+   "Ministerpräsident/ Ministerpräsidentin"
+  ],
+  "note": "ET5095a_Regierungschef_Saarland"
+ },
+ {
+  "n": 310,
+  "section": "Saarland",
+  "num": 10,
+  "page": 171,
+  "question": "Welche Ministerin/welchen Minister hat das Saarland nicht?",
+  "credit": "",
+  "options": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ],
+  "correct": 1,
+  "web_correct_text": "Außenminister/ Außenministerin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.207,
+  "web_options": [
+   "Justizminister/ Justizministerin",
+   "Außenminister/ Außenministerin",
+   "Finanzminister/ Finanzministerin",
+   "Innenminister/ Innenministerin"
+  ],
+  "note": "ET5099h_Saarland_Minister"
+ }
+]

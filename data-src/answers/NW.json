@@ -1,0 +1,301 @@
+[
+ {
+  "num": 1,
+  "answers": [
+   {
+    "text": "hier Religionsfreiheit gilt.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen Steuern zahlen.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen das Wahlrecht haben.",
+    "correct": false
+   },
+   {
+    "text": "hier Meinungsfreiheit gilt.",
+    "correct": true
+   }
+  ],
+  "note": "ET5024a_Meinungsfreiheit",
+  "id": "17412"
+ },
+ {
+  "num": 130,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5700b_Erststimme_Wahlen",
+  "id": "17617"
+ },
+ {
+  "num": 300,
+  "answers": [
+   {
+    "text": "Italien",
+    "correct": true
+   },
+   {
+    "text": "Spanien",
+    "correct": false
+   },
+   {
+    "text": "Portugal",
+    "correct": false
+   },
+   {
+    "text": "Türkei",
+    "correct": false
+   }
+  ],
+  "note": "ET5009a_Erste_Gastarbeiter",
+  "id": "17288"
+ },
+ {
+  "num": 301,
+  "answers": [
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "2",
+    "correct": true
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET2050a_Nordrhein-Westfalen_Wappen",
+  "id": "17349"
+ },
+ {
+  "num": 302,
+  "answers": [
+   {
+    "text": "Ammerland",
+    "correct": false
+   },
+   {
+    "text": "Rhein-Sieg-Kreis",
+    "correct": true
+   },
+   {
+    "text": "Nordfriesland",
+    "correct": false
+   },
+   {
+    "text": "Vogtlandkreis",
+    "correct": false
+   }
+  ],
+  "note": "ET3096d_Landkreis_Nordrhein-Westfalen",
+  "id": "17327"
+ },
+ {
+  "num": 303,
+  "answers": [
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   },
+   {
+    "text": "5",
+    "correct": true
+   },
+   {
+    "text": "6",
+    "correct": false
+   }
+  ],
+  "note": "ET3097j_Wahlperiode_Landtag_Nordrhein-Westfalen",
+  "id": "17477"
+ },
+ {
+  "num": 304,
+  "answers": [
+   {
+    "text": "14",
+    "correct": false
+   },
+   {
+    "text": "16",
+    "correct": true
+   },
+   {
+    "text": "18",
+    "correct": false
+   },
+   {
+    "text": "20",
+    "correct": false
+   }
+  ],
+  "note": "ET3099h_Alter_Kommunalwahlen_Nordrhein-Westfalen",
+  "id": "17509"
+ },
+ {
+  "num": 305,
+  "answers": [
+   {
+    "text": "rot-weiß",
+    "correct": false
+   },
+   {
+    "text": "grün-weiß-rot",
+    "correct": true
+   },
+   {
+    "text": "schwarz-gold",
+    "correct": false
+   },
+   {
+    "text": "blau-weiß-rot",
+    "correct": false
+   }
+  ],
+  "note": "ET4081p_Flagge_NRW",
+  "id": "17285"
+ },
+ {
+  "num": 306,
+  "answers": [
+   {
+    "text": "bei den Kirchen",
+    "correct": false
+   },
+   {
+    "text": "beim Ordnungsamt der Gemeinde",
+    "correct": false
+   },
+   {
+    "text": "bei der Verbraucherzentrale",
+    "correct": false
+   },
+   {
+    "text": "bei der Landeszentrale für politische Bildung",
+    "correct": true
+   }
+  ],
+  "note": "ET4082j_lpb_NRW",
+  "id": "17300"
+ },
+ {
+  "num": 307,
+  "answers": [
+   {
+    "text": "Köln.",
+    "correct": false
+   },
+   {
+    "text": "Bonn.",
+    "correct": false
+   },
+   {
+    "text": "Düsseldorf.",
+    "correct": true
+   },
+   {
+    "text": "Dortmund.",
+    "correct": false
+   }
+  ],
+  "note": "ET5045a_Duesseldorf_Hauptstadt",
+  "id": "17456"
+ },
+ {
+  "num": 308,
+  "answers": [
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": true
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5072a_BL_NRW_Karte",
+  "id": "17341"
+ },
+ {
+  "num": 309,
+  "answers": [
+   {
+    "text": "Erster Minister/ Erste Ministerin",
+    "correct": false
+   },
+   {
+    "text": "Premierminister/ Premierministerin",
+    "correct": false
+   },
+   {
+    "text": "Bürgermeister/ Bürgermeisterin",
+    "correct": false
+   },
+   {
+    "text": "Ministerpräsident/ Ministerpräsidentin",
+    "correct": true
+   }
+  ],
+  "note": "ET5089a_Regierungschef_NRW",
+  "id": "17403"
+ },
+ {
+  "num": 310,
+  "answers": [
+   {
+    "text": "Justizminister/ Justizministerin",
+    "correct": false
+   },
+   {
+    "text": "Außenminister/ Außenministerin",
+    "correct": true
+   },
+   {
+    "text": "Finanzminister/ Finanzministerin",
+    "correct": false
+   },
+   {
+    "text": "Innenminister/ Innenministerin",
+    "correct": false
+   }
+  ],
+  "note": "ET5099i_NRW_Minister",
+  "id": "17246"
+ }
+]

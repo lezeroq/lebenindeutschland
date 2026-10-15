@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Baden-Württemberg",
+  "num": 1,
+  "page": 112,
+  "question": "Welches Wappen gehört zum Bundesland Baden-Württemberg?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 0,
+  "web_correct_text": "1",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2038a_Baden_Wuerttemberg_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Baden-Württemberg",
+  "num": 2,
+  "page": 112,
+  "question": "Welches ist ein Landkreis in Baden-Württemberg?",
+  "credit": "",
+  "options": [
+   "Mecklenburgische Seenplatte",
+   "Neckar-Odenwald-Kreis",
+   "Nordfriesland",
+   "Altötting"
+  ],
+  "correct": 1,
+  "web_correct_text": "Neckar-Odenwald-Kreis",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.706,
+  "web_options": [
+   "Mecklenburgische Seenplatte",
+   "Neckar-Odenwald-Kreis",
+   "Nordfriesland",
+   "Altötting"
+  ],
+  "note": "ET3096g_Landkreis_Baden-Wuerttemberg"
+ },
+ {
+  "n": 303,
+  "section": "Baden-Württemberg",
+  "num": 3,
+  "page": 113,
+  "question": "Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "web_correct_text": "5",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097a_Wahlperiode_Landtag_Baden-Wuerttemberg"
+ },
+ {
+  "n": 304,
+  "section": "Baden-Württemberg",
+  "num": 4,
+  "page": 113,
+  "question": "Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 1,
+  "web_correct_text": "16",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099a_Alter_Kommunalwahlen_Baden-Wuerttemberg"
+ },
+ {
+  "n": 305,
+  "section": "Baden-Württemberg",
+  "num": 5,
+  "page": 113,
+  "question": "Welche Farben hat die Landesflagge von Baden-Württemberg?",
+  "credit": "",
+  "options": [
+   "blau-weiß-rot",
+   "schwarz-gold",
+   "weiß-blau",
+   "grün-weiß-rot"
+  ],
+  "correct": 1,
+  "web_correct_text": "schwarz-gold",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.68,
+  "web_options": [
+   "blau-weiß-rot",
+   "schwarz-gold",
+   "weiß-blau",
+   "grün-weiß-rot"
+  ],
+  "note": "ET4081a_Flagge_Baden_Wuerttemberg"
+ },
+ {
+  "n": 306,
+  "section": "Baden-Württemberg",
+  "num": 6,
+  "page": 114,
+  "question": "Wo können Sie sich in Baden-Württemberg über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale",
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen"
+  ],
+  "correct": 2,
+  "web_correct_text": "bei der Landeszentrale für politische Bildung",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.472,
+  "web_options": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale",
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen"
+  ],
+  "note": "ET4082a_lpb_Baden_Wuerttemberg"
+ },
+ {
+  "n": 307,
+  "section": "Baden-Württemberg",
+  "num": 7,
+  "page": 114,
+  "question": "Die Landeshauptstadt von Baden-Württemberg heißt …",
+  "credit": "",
+  "options": [
+   "Heidelberg.",
+   "Stuttgart.",
+   "Karlsruhe.",
+   "Mannheim."
+  ],
+  "correct": 1,
+  "web_correct_text": "Stuttgart.",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.778,
+  "web_options": [
+   "Heidelberg.",
+   "Stuttgart.",
+   "Karlsruhe.",
+   "Mannheim."
+  ],
+  "note": "ET5047a_Stuttgart_Hauptstadt"
+ },
+ {
+  "n": 308,
+  "section": "Baden-Württemberg",
+  "num": 8,
+  "page": 115,
+  "question": "Welches Bundesland ist Baden-Württemberg?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 1,
+  "web_correct_text": "2",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5073a_BL_B_W_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Baden-Württemberg",
+  "num": 9,
+  "page": 116,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef in Baden-Württemberg?",
+  "credit": "",
+  "options": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ],
+  "correct": 3,
+  "web_correct_text": "Ministerpräsident/ Ministerpräsidentin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.371,
+  "web_options": [
+   "Erster Minister/ Erste Ministerin",
+   "Premierminister/ Premierministerin",
+   "Bürgermeister/ Bürgermeisterin",
+   "Ministerpräsident/ Ministerpräsidentin"
+  ],
+  "note": "ET5085a_Regierungschef_Baden_Wuerttemberg"
+ },
+ {
+  "n": 310,
+  "section": "Baden-Württemberg",
+  "num": 10,
+  "page": 116,
+  "question": "Welche Ministerin/welchen Minister hat Baden-Württemberg nicht?",
+  "credit": "",
+  "options": [
+   "Finanzministerin/Finanzminister",
+   "Justizministerin/Justizminister",
+   "Innenministerin/Innenminister",
+   "Außenministerin/Außenminister"
+  ],
+  "correct": 3,
+  "web_correct_text": "Außenminister/ Außenministerin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.207,
+  "web_options": [
+   "Finanzminister/ Finanzministerin",
+   "Justizminister/ Justizministerin",
+   "Innenminister/ Innenministerin",
+   "Außenminister/ Außenministerin"
+  ],
+  "note": "ET5099a_B_W_Minister"
+ }
+]

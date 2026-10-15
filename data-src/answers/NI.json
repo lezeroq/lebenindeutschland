@@ -1,0 +1,301 @@
+[
+ {
+  "num": 1,
+  "answers": [
+   {
+    "text": "hier Religionsfreiheit gilt.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen Steuern zahlen.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen das Wahlrecht haben.",
+    "correct": false
+   },
+   {
+    "text": "hier Meinungsfreiheit gilt.",
+    "correct": true
+   }
+  ],
+  "note": "ET5024a_Meinungsfreiheit",
+  "id": "17412"
+ },
+ {
+  "num": 130,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5700b_Erststimme_Wahlen",
+  "id": "17617"
+ },
+ {
+  "num": 300,
+  "answers": [
+   {
+    "text": "Italien",
+    "correct": true
+   },
+   {
+    "text": "Spanien",
+    "correct": false
+   },
+   {
+    "text": "Portugal",
+    "correct": false
+   },
+   {
+    "text": "Türkei",
+    "correct": false
+   }
+  ],
+  "note": "ET5009a_Erste_Gastarbeiter",
+  "id": "17288"
+ },
+ {
+  "num": 301,
+  "answers": [
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": true
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET2048a_Niedersachsen_Wappen",
+  "id": "17351"
+ },
+ {
+  "num": 302,
+  "answers": [
+   {
+    "text": "Ammerland",
+    "correct": true
+   },
+   {
+    "text": "Rhein-Sieg-Kreis",
+    "correct": false
+   },
+   {
+    "text": "Nordfriesland",
+    "correct": false
+   },
+   {
+    "text": "Vogtlandkreis",
+    "correct": false
+   }
+  ],
+  "note": "ET3096e_Landkreis_Niedersachsen",
+  "id": "17497"
+ },
+ {
+  "num": 303,
+  "answers": [
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   },
+   {
+    "text": "5",
+    "correct": true
+   },
+   {
+    "text": "6",
+    "correct": false
+   }
+  ],
+  "note": "ET3097i_Wahlperiode_Landtag_Niedersachsen",
+  "id": "17474"
+ },
+ {
+  "num": 304,
+  "answers": [
+   {
+    "text": "14",
+    "correct": false
+   },
+   {
+    "text": "16",
+    "correct": true
+   },
+   {
+    "text": "18",
+    "correct": false
+   },
+   {
+    "text": "20",
+    "correct": false
+   }
+  ],
+  "note": "ET3099g_Alter_Kommunalwahlen_Niedersachsen",
+  "id": "17525"
+ },
+ {
+  "num": 305,
+  "answers": [
+   {
+    "text": "weiß-blau",
+    "correct": false
+   },
+   {
+    "text": "schwarz-rot-gold",
+    "correct": true
+   },
+   {
+    "text": "schwarz-gelb",
+    "correct": false
+   },
+   {
+    "text": "blau-weiß-rot",
+    "correct": false
+   }
+  ],
+  "note": "ET4081i_Flagge_Niedersachsen",
+  "id": "17303"
+ },
+ {
+  "num": 306,
+  "answers": [
+   {
+    "text": "bei der Landeszentrale für politische Bildung",
+    "correct": true
+   },
+   {
+    "text": "beim Ordnungsamt der Gemeinde",
+    "correct": false
+   },
+   {
+    "text": "bei der Verbraucherzentrale",
+    "correct": false
+   },
+   {
+    "text": "bei den Kirchen",
+    "correct": false
+   }
+  ],
+  "note": "ET4082i_lpb_Niedersachsen",
+  "id": "17561"
+ },
+ {
+  "num": 307,
+  "answers": [
+   {
+    "text": "Hannover.",
+    "correct": true
+   },
+   {
+    "text": "Braunschweig.",
+    "correct": false
+   },
+   {
+    "text": "Wolfsburg.",
+    "correct": false
+   },
+   {
+    "text": "Osnabrück.",
+    "correct": false
+   }
+  ],
+  "note": "ET5049a_Hannover_Hauptstadt",
+  "id": "17385"
+ },
+ {
+  "num": 308,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5077a_BL_Niedersachsen_Karte",
+  "id": "17322"
+ },
+ {
+  "num": 309,
+  "answers": [
+   {
+    "text": "Erster Minister/ Erste Ministerin",
+    "correct": false
+   },
+   {
+    "text": "Premierminister/ Premierministerin",
+    "correct": false
+   },
+   {
+    "text": "Bürgermeister/ Bürgermeisterin",
+    "correct": false
+   },
+   {
+    "text": "Ministerpräsident/ Ministerpräsidentin",
+    "correct": true
+   }
+  ],
+  "note": "ET5086a_Regierungschef_Niedersachsen",
+  "id": "17417"
+ },
+ {
+  "num": 310,
+  "answers": [
+   {
+    "text": "Justizminister/ Justizministerin",
+    "correct": false
+   },
+   {
+    "text": "Außenminister/ Außenministerin",
+    "correct": true
+   },
+   {
+    "text": "Finanzminister/ Finanzministerin",
+    "correct": false
+   },
+   {
+    "text": "Innenminister/ Innenministerin",
+    "correct": false
+   }
+  ],
+  "note": "ET5099k_Niedersachsen_Minister",
+  "id": "17245"
+ }
+]

@@ -1,0 +1,301 @@
+[
+ {
+  "num": 1,
+  "answers": [
+   {
+    "text": "hier Religionsfreiheit gilt.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen Steuern zahlen.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen das Wahlrecht haben.",
+    "correct": false
+   },
+   {
+    "text": "hier Meinungsfreiheit gilt.",
+    "correct": true
+   }
+  ],
+  "note": "ET5024a_Meinungsfreiheit",
+  "id": "17412"
+ },
+ {
+  "num": 130,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5700b_Erststimme_Wahlen",
+  "id": "17617"
+ },
+ {
+  "num": 300,
+  "answers": [
+   {
+    "text": "Italien",
+    "correct": true
+   },
+   {
+    "text": "Spanien",
+    "correct": false
+   },
+   {
+    "text": "Portugal",
+    "correct": false
+   },
+   {
+    "text": "Türkei",
+    "correct": false
+   }
+  ],
+  "note": "ET5009a_Erste_Gastarbeiter",
+  "id": "17288"
+ },
+ {
+  "num": 301,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET2046a_Hessen_Wappen",
+  "id": "17353"
+ },
+ {
+  "num": 302,
+  "answers": [
+   {
+    "text": "Ammerland",
+    "correct": false
+   },
+   {
+    "text": "Altötting",
+    "correct": false
+   },
+   {
+    "text": "Prignitz",
+    "correct": false
+   },
+   {
+    "text": "Main-Taunus-Kreis",
+    "correct": true
+   }
+  ],
+  "note": "ET3096k_Landkreis_Hessen",
+  "id": "17392"
+ },
+ {
+  "num": 303,
+  "answers": [
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   },
+   {
+    "text": "5",
+    "correct": true
+   },
+   {
+    "text": "6",
+    "correct": false
+   }
+  ],
+  "note": "ET3097g_Wahlperiode_Landtag_Hessen",
+  "id": "17476"
+ },
+ {
+  "num": 304,
+  "answers": [
+   {
+    "text": "14",
+    "correct": false
+   },
+   {
+    "text": "16",
+    "correct": false
+   },
+   {
+    "text": "18",
+    "correct": true
+   },
+   {
+    "text": "20",
+    "correct": false
+   }
+  ],
+  "note": "ET3099e_Alter_Kommunalwahlen_Hessen",
+  "id": "17404"
+ },
+ {
+  "num": 305,
+  "answers": [
+   {
+    "text": "blau-weiß-rot",
+    "correct": false
+   },
+   {
+    "text": "rot-weiß",
+    "correct": true
+   },
+   {
+    "text": "schwarz-gold",
+    "correct": false
+   },
+   {
+    "text": "grün-weiß-rot",
+    "correct": false
+   }
+  ],
+  "note": "ET4081g_Flagge_Hessen",
+  "id": "17324"
+ },
+ {
+  "num": 306,
+  "answers": [
+   {
+    "text": "bei der Landeszentrale für politische Bildung",
+    "correct": true
+   },
+   {
+    "text": "bei der Verbraucherzentrale",
+    "correct": false
+   },
+   {
+    "text": "beim Ordnungsamt der Gemeinde",
+    "correct": false
+   },
+   {
+    "text": "bei den Kirchen",
+    "correct": false
+   }
+  ],
+  "note": "ET4082g_lpb_Hessen",
+  "id": "17318"
+ },
+ {
+  "num": 307,
+  "answers": [
+   {
+    "text": "Kassel.",
+    "correct": false
+   },
+   {
+    "text": "Darmstadt.",
+    "correct": false
+   },
+   {
+    "text": "Frankfurt.",
+    "correct": false
+   },
+   {
+    "text": "Wiesbaden.",
+    "correct": true
+   }
+  ],
+  "note": "ET5052a_Wiesbaden_Hauptstadt",
+  "id": "17559"
+ },
+ {
+  "num": 308,
+  "answers": [
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": true
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5071a_BL_Hessen_Karte",
+  "id": "17342"
+ },
+ {
+  "num": 309,
+  "answers": [
+   {
+    "text": "Erster Minister/ Erste Ministerin",
+    "correct": false
+   },
+   {
+    "text": "Premierminister/ Premierministerin",
+    "correct": false
+   },
+   {
+    "text": "Bürgermeister/ Bürgermeisterin",
+    "correct": false
+   },
+   {
+    "text": "Ministerpräsident/ Ministerpräsidentin",
+    "correct": true
+   }
+  ],
+  "note": "ET5091a_Regierungschef_Hessen",
+  "id": "17439"
+ },
+ {
+  "num": 310,
+  "answers": [
+   {
+    "text": "Justizminister/ Justizministerin",
+    "correct": false
+   },
+   {
+    "text": "Außenminister/ Außenministerin",
+    "correct": true
+   },
+   {
+    "text": "Finanzminister/ Finanzministerin",
+    "correct": false
+   },
+   {
+    "text": "Innenminister/ Innenministerin",
+    "correct": false
+   }
+  ],
+  "note": "ET5099o_Hessen_Minister",
+  "id": "17253"
+ }
+]

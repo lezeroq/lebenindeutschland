@@ -1,0 +1,301 @@
+[
+ {
+  "num": 1,
+  "answers": [
+   {
+    "text": "hier Religionsfreiheit gilt.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen Steuern zahlen.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen das Wahlrecht haben.",
+    "correct": false
+   },
+   {
+    "text": "hier Meinungsfreiheit gilt.",
+    "correct": true
+   }
+  ],
+  "note": "ET5024a_Meinungsfreiheit",
+  "id": "17412"
+ },
+ {
+  "num": 130,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5700b_Erststimme_Wahlen",
+  "id": "17617"
+ },
+ {
+  "num": 300,
+  "answers": [
+   {
+    "text": "Italien",
+    "correct": true
+   },
+   {
+    "text": "Spanien",
+    "correct": false
+   },
+   {
+    "text": "Portugal",
+    "correct": false
+   },
+   {
+    "text": "Türkei",
+    "correct": false
+   }
+  ],
+  "note": "ET5009a_Erste_Gastarbeiter",
+  "id": "17288"
+ },
+ {
+  "num": 301,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET2043a_Brandenburg_Wappen",
+  "id": "17369"
+ },
+ {
+  "num": 302,
+  "answers": [
+   {
+    "text": "Prignitz",
+    "correct": true
+   },
+   {
+    "text": "Rhein-Sieg-Kreis",
+    "correct": false
+   },
+   {
+    "text": "Vogtlandkreis",
+    "correct": false
+   },
+   {
+    "text": "Amberg-Sulzbach",
+    "correct": false
+   }
+  ],
+  "note": "ET3096a_Landkreis_Brandenburg",
+  "id": "17512"
+ },
+ {
+  "num": 303,
+  "answers": [
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   },
+   {
+    "text": "5",
+    "correct": true
+   },
+   {
+    "text": "6",
+    "correct": false
+   }
+  ],
+  "note": "ET3097d_Wahlperiode_Landtag_Brandenburg",
+  "id": "17494"
+ },
+ {
+  "num": 304,
+  "answers": [
+   {
+    "text": "14",
+    "correct": false
+   },
+   {
+    "text": "16",
+    "correct": true
+   },
+   {
+    "text": "18",
+    "correct": false
+   },
+   {
+    "text": "20",
+    "correct": false
+   }
+  ],
+  "note": "ET3099c_Alter_Kommunalwahlen_Brandenburg",
+  "id": "17440"
+ },
+ {
+  "num": 305,
+  "answers": [
+   {
+    "text": "blau-weiß-rot",
+    "correct": false
+   },
+   {
+    "text": "rot-weiß",
+    "correct": true
+   },
+   {
+    "text": "grün-weiß-rot",
+    "correct": false
+   },
+   {
+    "text": "schwarz-gelb",
+    "correct": false
+   }
+  ],
+  "note": "ET4081d_Flagge_Brandenburg",
+  "id": "17471"
+ },
+ {
+  "num": 306,
+  "answers": [
+   {
+    "text": "bei den Kirchen",
+    "correct": false
+   },
+   {
+    "text": "beim Ordnungsamt der Gemeinde",
+    "correct": false
+   },
+   {
+    "text": "bei der Landeszentrale für politische Bildung",
+    "correct": true
+   },
+   {
+    "text": "bei der Verbraucherzentrale",
+    "correct": false
+   }
+  ],
+  "note": "ET4082d_lpb_Brandenburg",
+  "id": "17543"
+ },
+ {
+  "num": 307,
+  "answers": [
+   {
+    "text": "Potsdam.",
+    "correct": true
+   },
+   {
+    "text": "Cottbus.",
+    "correct": false
+   },
+   {
+    "text": "Brandenburg.",
+    "correct": false
+   },
+   {
+    "text": "Frankfurt/Oder.",
+    "correct": false
+   }
+  ],
+  "note": "ET5056a_Potsdam_Hauptstadt",
+  "id": "17363"
+ },
+ {
+  "num": 308,
+  "answers": [
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": true
+   }
+  ],
+  "note": "ET5075a_BL_Brandenburg_Karte",
+  "id": "17323"
+ },
+ {
+  "num": 309,
+  "answers": [
+   {
+    "text": "Erster Minister/ Erste Ministerin",
+    "correct": false
+   },
+   {
+    "text": "Premierminister/ Premierministerin",
+    "correct": false
+   },
+   {
+    "text": "Bürgermeister/ Bürgermeisterin",
+    "correct": false
+   },
+   {
+    "text": "Ministerpräsident/ Ministerpräsidentin",
+    "correct": true
+   }
+  ],
+  "note": "ET5093a_Regierungschef_Brandenburg",
+  "id": "17400"
+ },
+ {
+  "num": 310,
+  "answers": [
+   {
+    "text": "Justizminister/ Justizministerin",
+    "correct": false
+   },
+   {
+    "text": "Außenminister/ Außenministerin",
+    "correct": true
+   },
+   {
+    "text": "Finanzminister/ Finanzministerin",
+    "correct": false
+   },
+   {
+    "text": "Innenminister/ Innenministerin",
+    "correct": false
+   }
+  ],
+  "note": "ET5099e_Brandenburg_Minister",
+  "id": "17249"
+ }
+]

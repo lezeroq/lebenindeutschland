@@ -1,0 +1,902 @@
+{
+ "g201": {
+  "q": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
+  "o": [
+   "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+   "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+   "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+   "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+  ]
+ },
+ "g202": {
+  "q": "Zu wem gehörte die DDR im \"Kalten Krieg\"?",
+  "o": [
+   "zu den Westmächten",
+   "zum Warschauer Pakt",
+   "zur NATO",
+   "zu den blockfreien Staaten"
+  ]
+ },
+ "g203": {
+  "q": "Wie hieß das Wirtschaftssystem der DDR?",
+  "o": [
+   "Marktwirtschaft",
+   "Planwirtschaft",
+   "Angebot und Nachfrage",
+   "Kapitalismus"
+  ]
+ },
+ "g204": {
+  "q": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+  "o": [
+   "Die Bundesrepublik hat die DDR besetzt.",
+   "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+   "Die westlichen Bundesländer sind der DDR beigetreten.",
+   "Die DDR hat die Bundesrepublik Deutschland besetzt."
+  ]
+ },
+ "g205": {
+  "q": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …",
+  "o": [
+   "zur Europäischen Union.",
+   "zum Warschauer Pakt.",
+   "zur OPEC.",
+   "zur Europäischen Verteidigungsgemeinschaft."
+  ]
+ },
+ "g206": {
+  "q": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+  "o": [
+   "an berühmte deutsche Politikerinnen und Politiker",
+   "an die Opfer des Nationalsozialismus",
+   "an Verkehrstote",
+   "an bekannte jüdische Musiker"
+  ]
+ },
+ "g207": {
+  "q": "In welchem Militärbündnis war die DDR Mitglied?",
+  "o": [
+   "in der NATO",
+   "im Rheinbund",
+   "im Warschauer Pakt",
+   "im Europabündnis"
+  ]
+ },
+ "g208": {
+  "q": "Was war die \"Stasi\"?",
+  "o": [
+   "der Geheimdienst im \"Dritten Reich\"",
+   "eine berühmte deutsche Gedenkstätte",
+   "der Geheimdienst der DDR",
+   "ein deutscher Sportverein während des Zweiten Weltkrieges"
+  ]
+ },
+ "g209": {
+  "q": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "g210": {
+  "q": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+  "o": [
+   "der feierliche Beitritt zum Warschauer Pakt",
+   "landesweite Streiks und ein Volksaufstand",
+   "der 1. SED-Parteitag",
+   "der erste Besuch Fidel Castros"
+  ]
+ },
+ "g211": {
+  "q": "Welcher Politiker steht für die \"Ostverträge\"?",
+  "o": [
+   "Helmut Kohl",
+   "Willy Brandt",
+   "Michail Gorbatschow",
+   "Ludwig Erhard"
+  ]
+ },
+ "g212": {
+  "q": "Wie heißt Deutschland mit vollem Namen?",
+  "o": [
+   "Bundesstaat Deutschland",
+   "Bundesländer Deutschland",
+   "Bundesrepublik Deutschland",
+   "Bundesbezirk Deutschland"
+  ]
+ },
+ "g213": {
+  "q": "Wie viele Einwohner hat Deutschland?",
+  "o": [
+   "70 Millionen",
+   "78 Millionen",
+   "84 Millionen",
+   "90 Millionen"
+  ]
+ },
+ "g214": {
+  "q": "Welche Farben hat die deutsche Flagge?",
+  "o": [
+   "schwarz-rot-gold",
+   "rot-weiß-schwarz",
+   "schwarz-rot-grün",
+   "schwarz-gelb-rot"
+  ]
+ },
+ "g215": {
+  "q": "Wer wird als \"Kanzler der Deutschen Einheit\" bezeichnet?",
+  "o": [
+   "Gerhard Schröder",
+   "Helmut Kohl",
+   "Konrad Adenauer",
+   "Helmut Schmidt"
+  ]
+ },
+ "g216": {
+  "q": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
+  "o": [
+   "der Bundesadler",
+   "die Fahne der Stadt Berlin",
+   "der Reichsadler",
+   "die Reichskrone"
+  ]
+ },
+ "g217": {
+  "q": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+  "o": [
+   "1919 bis 1927",
+   "1933 bis 1945",
+   "1945 bis 1961",
+   "1949 bis 1990"
+  ]
+ },
+ "g218": {
+  "q": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+  "o": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ]
+ },
+ "g219": {
+  "q": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit …",
+  "o": [
+   "1933",
+   "1949",
+   "1971",
+   "1990"
+  ]
+ },
+ "g220": {
+  "q": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+  "o": [
+   "an das Ende des Zweiten Weltkrieges",
+   "an die Verabschiedung des Grundgesetzes",
+   "an die Wiedervereinigung Deutschlands",
+   "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)"
+  ]
+ },
+ "g221": {
+  "q": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+  "o": [
+   "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+   "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+   "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+   "Deutsche können in jedem Land mit dem Euro bezahlen."
+  ]
+ },
+ "g222": {
+  "q": "Welches Land ist ein Nachbarland von Deutschland?",
+  "o": [
+   "Ungarn",
+   "Portugal",
+   "Spanien",
+   "Schweiz"
+  ]
+ },
+ "g223": {
+  "q": "Welches Land ist ein Nachbarland von Deutschland?",
+  "o": [
+   "Rumänien",
+   "Bulgarien",
+   "Polen",
+   "Griechenland"
+  ]
+ },
+ "g224": {
+  "q": "Was bedeutet die Abkürzung EU?",
+  "o": [
+   "Europäische Unternehmen",
+   "Europäische Union",
+   "Einheitliche Union",
+   "Euro Union"
+  ]
+ },
+ "g225": {
+  "q": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+  "o": [
+   "Tschechien",
+   "Norwegen",
+   "Spanien",
+   "Österreich"
+  ]
+ },
+ "g226": {
+  "q": "Welche ist die Flagge der Europäischen Union?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "g227": {
+  "q": "Welches Land ist ein Nachbarland von Deutschland?",
+  "o": [
+   "Finnland",
+   "Dänemark",
+   "Norwegen",
+   "Schweden"
+  ]
+ },
+ "g228": {
+  "q": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+  "o": [
+   "NATO-Osterweiterung",
+   "EU-Osterweiterung",
+   "Deutsche Wiedervereinigung",
+   "Europäische Gemeinschaft"
+  ]
+ },
+ "g229": {
+  "q": "Welches Land ist ein Nachbarland von Deutschland?",
+  "o": [
+   "Spanien",
+   "Bulgarien",
+   "Norwegen",
+   "Luxemburg"
+  ]
+ },
+ "g230": {
+  "q": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …",
+  "o": [
+   "5 Jahre.",
+   "6 Jahre.",
+   "7 Jahre.",
+   "8 Jahre."
+  ]
+ },
+ "g231": {
+  "q": "Was bedeutet der Begriff \"europäische Integration\"?",
+  "o": [
+   "Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.",
+   "Der Begriff meint den Einwanderungsstopp nach Europa.",
+   "Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.",
+   "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+  ]
+ },
+ "g232": {
+  "q": "Wer wird bei der Europawahl gewählt?",
+  "o": [
+   "die Europäische Kommission",
+   "die Länder, die in die EU eintreten dürfen",
+   "die Abgeordneten des Europäischen Parlaments",
+   "die europäische Verfassung"
+  ]
+ },
+ "g233": {
+  "q": "Welches Land ist ein Nachbarland von Deutschland?",
+  "o": [
+   "Tschechien",
+   "Bulgarien",
+   "Griechenland",
+   "Portugal"
+  ]
+ },
+ "g234": {
+  "q": "Wo ist ein Sitz des Europäischen Parlaments?",
+  "o": [
+   "London",
+   "Paris",
+   "Berlin",
+   "Straßburg"
+  ]
+ },
+ "g235": {
+  "q": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?",
+  "o": [
+   "Freundschaft zwischen England und Deutschland",
+   "Reisefreiheit in alle Länder der EU",
+   "Frieden und Sicherheit in den Ländern der EU",
+   "einheitliche Feiertage in den Ländern der EU"
+  ]
+ },
+ "g236": {
+  "q": "Wie viele Mitgliedstaaten hat die EU heute?",
+  "o": [
+   "21",
+   "23",
+   "25",
+   "27"
+  ]
+ },
+ "g237": {
+  "q": "2007 wurde das 50-jährige Jubiläum der \"Römischen Verträge\" gefeiert. Was war der Inhalt der Verträge?",
+  "o": [
+   "Beitritt Deutschlands zur NATO",
+   "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+   "Verpflichtung Deutschlands zu Reparationsleistungen",
+   "Festlegung der Oder-Neiße-Linie als Ostgrenze"
+  ]
+ },
+ "g238": {
+  "q": "An welchen Orten arbeitet das Europäische Parlament?",
+  "o": [
+   "Paris, London und Den Haag",
+   "Straßburg, Luxemburg und Brüssel",
+   "Rom, Bern und Wien",
+   "Bonn, Zürich und Mailand"
+  ]
+ },
+ "g239": {
+  "q": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+  "o": [
+   "durch die \"Hamburger Verträge\"",
+   "durch die \"Römischen Verträge\"",
+   "durch die \"Pariser Verträge\"",
+   "durch die \"Londoner Verträge\""
+  ]
+ },
+ "g240": {
+  "q": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+  "o": [
+   "1995",
+   "1998",
+   "2002",
+   "2005"
+  ]
+ },
+ "g241": {
+  "q": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+  "o": [
+   "Sie muss an ihre Krankenkasse schreiben.",
+   "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+   "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+   "Sie muss das Arbeitsamt um Erlaubnis bitten."
+  ]
+ },
+ "g242": {
+  "q": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+  "o": [
+   "der Staat",
+   "die Bundesländer",
+   "die Eltern/die Erziehungsberechtigten",
+   "die Schulen"
+  ]
+ },
+ "g243": {
+  "q": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+  "o": [
+   "Sie müssen die Demonstration anmelden.",
+   "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+   "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+   "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+  ]
+ },
+ "g244": {
+  "q": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+  "o": [
+   "das Abitur",
+   "ein Diplom",
+   "die Prokura",
+   "eine Gesellenprüfung"
+  ]
+ },
+ "g245": {
+  "q": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+  "o": [
+   "Hans (20 Jahre) und Marie (19 Jahre)",
+   "Tom (20 Jahre) und Klaus (45 Jahre)",
+   "Sofie (35 Jahre) und Lisa (40 Jahre)",
+   "Anne (13 Jahre) und Tim (25 Jahre)"
+  ]
+ },
+ "g246": {
+  "q": "Ab welchem Alter ist man in Deutschland volljährig?",
+  "o": [
+   "16",
+   "18",
+   "19",
+   "21"
+  ]
+ },
+ "g247": {
+  "q": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+  "o": [
+   "Elternzeit",
+   "Mutterschutz",
+   "Geburtsvorbereitung",
+   "Wochenbett"
+  ]
+ },
+ "g248": {
+  "q": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …",
+  "o": [
+   "des Staates.",
+   "der Eltern.",
+   "der Großeltern.",
+   "der Schulen."
+  ]
+ },
+ "g249": {
+  "q": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+  "o": [
+   "der Staat",
+   "die Eltern",
+   "die Verwandten",
+   "die Schulen"
+  ]
+ },
+ "g250": {
+  "q": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …",
+  "o": [
+   "katholisch ist.",
+   "gut ausgebildet ist.",
+   "eine Frau ist.",
+   "Mitglied einer Partei ist."
+  ]
+ },
+ "g251": {
+  "q": "Wenn man in Deutschland ein Kind schlägt, …",
+  "o": [
+   "geht das niemanden etwas an.",
+   "geht das nur die Familie etwas an.",
+   "kann man dafür nicht bestraft werden.",
+   "kann man dafür bestraft werden."
+  ]
+ },
+ "g252": {
+  "q": "In Deutschland …",
+  "o": [
+   "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+   "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.",
+   "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+   "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+  ]
+ },
+ "g253": {
+  "q": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+  "o": [
+   "beim Einwohnermeldeamt",
+   "beim Standesamt",
+   "beim Ordnungsamt",
+   "beim Gewerbeamt"
+  ]
+ },
+ "g254": {
+  "q": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?",
+  "o": [
+   "Der Scheidungsprozess dauert ein Jahr.",
+   "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+   "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+   "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+  ]
+ },
+ "g255": {
+  "q": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
+  "o": [
+   "Ordnungsamt.",
+   "Schulamt.",
+   "Jugendamt.",
+   "Gesundheitsamt."
+  ]
+ },
+ "g256": {
+  "q": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+  "o": [
+   "eine Erlaubnis der Polizei",
+   "eine Genehmigung einer Partei",
+   "eine Genehmigung des Einwohnermeldeamts",
+   "eine Gaststättenerlaubnis von der zuständigen Behörde"
+  ]
+ },
+ "g257": {
+  "q": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
+  "o": [
+   "einer Hochschule.",
+   "einem Abendgymnasium.",
+   "einer Hauptschule.",
+   "einer Privatuniversität."
+  ]
+ },
+ "g258": {
+  "q": "Was darf das Jugendamt in Deutschland?",
+  "o": [
+   "Es entscheidet, welche Schule das Kind besucht.",
+   "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+   "Es bezahlt das Kindergeld an die Eltern.",
+   "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+  ]
+ },
+ "g259": {
+  "q": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
+  "o": [
+   "Rentenberechnung.",
+   "Lehrstellensuche.",
+   "Steuererklärung.",
+   "Krankenversicherung."
+  ]
+ },
+ "g260": {
+  "q": "In Deutschland hat ein Kind in der Schule …",
+  "o": [
+   "Recht auf unbegrenzte Freizeit.",
+   "Wahlfreiheit für alle Fächer.",
+   "Anspruch auf Schulgeld.",
+   "Anwesenheitspflicht."
+  ]
+ },
+ "g261": {
+  "q": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …",
+  "o": [
+   "einer Hochschule.",
+   "einem Abendgymnasium.",
+   "einer Hauptschule.",
+   "einer Privatuniversität."
+  ]
+ },
+ "g262": {
+  "q": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+  "o": [
+   "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+   "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+   "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+   "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+  ]
+ },
+ "g263": {
+  "q": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …",
+  "o": [
+   "werden bestraft.",
+   "werden wie Erwachsene behandelt.",
+   "teilen die Strafe mit ihren Eltern.",
+   "werden nicht bestraft."
+  ]
+ },
+ "g264": {
+  "q": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+  "o": [
+   "am Rosenmontag",
+   "am Maifeiertag",
+   "beim Oktoberfest",
+   "an Pfingsten"
+  ]
+ },
+ "g265": {
+  "q": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+  "o": [
+   "zum Einwohnermeldeamt",
+   "zum Ordnungsamt",
+   "zur Agentur für Arbeit",
+   "zum Standesamt"
+  ]
+ },
+ "g266": {
+  "q": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+  "o": [
+   "wenn die Sonne untergeht",
+   "wenn die Nachbarn schlafen gehen",
+   "um 0 Uhr, Mitternacht",
+   "um 22 Uhr"
+  ]
+ },
+ "g267": {
+  "q": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+  "o": [
+   "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+   "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+   "Sie können zur Polizei gehen und die Tochter anzeigen.",
+   "Sie suchen einen anderen Mann für die Tochter."
+  ]
+ },
+ "g268": {
+  "q": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+  "o": [
+   "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+   "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+   "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+   "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+  ]
+ },
+ "g269": {
+  "q": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
+  "o": [
+   "monatliches Taschengeld.",
+   "einen Platz in einem Sportverein.",
+   "einen Kindergartenplatz.",
+   "einen Ferienpass."
+  ]
+ },
+ "g270": {
+  "q": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
+  "o": [
+   "für den Religionsunterricht.",
+   "nur für Jugendliche.",
+   "zur Weiterbildung.",
+   "nur für Rentnerinnen und Rentner."
+  ]
+ },
+ "g271": {
+  "q": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+  "o": [
+   "bunte Eier verstecken",
+   "einen Tannenbaum schmücken",
+   "sich mit Masken und Kostümen verkleiden",
+   "Kürbisse vor die Tür stellen"
+  ]
+ },
+ "g272": {
+  "q": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+  "o": [
+   "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+   "Zwei Frauen leben zusammen.",
+   "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+   "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+  ]
+ },
+ "g273": {
+  "q": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
+  "o": [
+   "zur Ärztin/zum Arzt.",
+   "zum Gesundheitsamt.",
+   "zum Einwohnermeldeamt.",
+   "zum Jugendamt."
+  ]
+ },
+ "g274": {
+  "q": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+  "o": [
+   "das Schweigerecht",
+   "das Briefgeheimnis",
+   "die Schweigepflicht",
+   "die Meinungsfreiheit"
+  ]
+ },
+ "g275": {
+  "q": "Was braucht man in Deutschland für eine Ehescheidung?",
+  "o": [
+   "die Einwilligung der Eltern",
+   "ein Attest einer Ärztin/eines Arztes",
+   "die Einwilligung der Kinder",
+   "die Unterstützung einer Anwältin/eines Anwalts"
+  ]
+ },
+ "g276": {
+  "q": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+  "o": [
+   "Ich kann nichts tun.",
+   "Ich muss mir diese Behandlung gefallen lassen.",
+   "Ich drohe der Person.",
+   "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren."
+  ]
+ },
+ "g277": {
+  "q": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …",
+  "o": [
+   "kein Englisch spricht.",
+   "zu hohe Gehaltsvorstellungen hat.",
+   "keine Erfahrungen in diesem Beruf hat.",
+   "Mutter ist."
+  ]
+ },
+ "g278": {
+  "q": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …",
+  "o": [
+   "im Rollstuhl sitzt.",
+   "keine Erfahrung hat.",
+   "zu hohe Gehaltsvorstellungen hat.",
+   "kein Englisch spricht."
+  ]
+ },
+ "g279": {
+  "q": "In den meisten Mietshäusern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer solchen \"Hausordnung\"? Sie nennt …",
+  "o": [
+   "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+   "alle Mieterinnen und Mieter im Haus.",
+   "Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",
+   "die Adresse des nächsten Ordnungsamtes."
+  ]
+ },
+ "g280": {
+  "q": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …",
+  "o": [
+   "nichts machen.",
+   "den Bescheid wegwerfen.",
+   "Einspruch einlegen.",
+   "warten, bis ein anderer Bescheid kommt."
+  ]
+ },
+ "g281": {
+  "q": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …",
+  "o": [
+   "Meinungsfreiheit",
+   "Gleichbehandlung",
+   "Versammlungsfreiheit",
+   "Freizügigkeit"
+  ]
+ },
+ "g282": {
+  "q": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
+  "o": [
+   "Vereinstrainerin/Vereinstrainer",
+   "Wahlhelferin/Wahlhelfer",
+   "Bibliotheksaufsicht",
+   "Lehrerin/Lehrer"
+  ]
+ },
+ "g283": {
+  "q": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+  "o": [
+   "Ich lasse die Rechnung liegen.",
+   "Ich lege Widerspruch bei der Behörde ein.",
+   "Ich schicke die Rechnung an die Behörde zurück.",
+   "Ich gehe mit der Rechnung zum Finanzamt."
+  ]
+ },
+ "g284": {
+  "q": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
+  "o": [
+   "Es ist egal, was man lernt.",
+   "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+   "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+   "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+  ]
+ },
+ "g285": {
+  "q": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+  "o": [
+   "Lohnsteuer",
+   "Beiträge zur Arbeitslosenversicherung",
+   "Beiträge zur Renten- und Krankenversicherung",
+   "Umsatzsteuer"
+  ]
+ },
+ "g286": {
+  "q": "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+  "o": [
+   "der Betriebsrat",
+   "die Betriebsprüferin/der Betriebsprüfer",
+   "die Betriebsgruppe",
+   "das Betriebsmanagement"
+  ]
+ },
+ "g287": {
+  "q": "Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+  "o": [
+   "die Gehaltszahlungen",
+   "die Arbeitszeit",
+   "die Kündigungsfrist",
+   "die Versicherungspflicht"
+  ]
+ },
+ "g288": {
+  "q": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+  "o": [
+   "aus der Mitgliedschaft in der Europäischen Union (EU)",
+   "aus den nationalsozialistischen Verbrechen gegen Juden",
+   "aus dem Grundgesetz der Bundesrepublik Deutschland",
+   "aus der christlichen Tradition"
+  ]
+ },
+ "g289": {
+  "q": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …",
+  "o": [
+   "seine Deutschkenntnisse zu gering sind.",
+   "er zu hohe Gehaltsvorstellungen hat.",
+   "er eine dunkle Haut hat.",
+   "er keine Erfahrungen im Beruf hat."
+  ]
+ },
+ "g290": {
+  "q": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+  "o": [
+   "eine Anzeige schreiben",
+   "den Fernseher reklamieren",
+   "das Gerät ungefragt austauschen",
+   "die Garantie verlängern"
+  ]
+ },
+ "g291": {
+  "q": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …",
+  "o": [
+   "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+   "das für die Statistik in Deutschland wichtig ist.",
+   "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+   "die Kirche für die Steuererklärung verantwortlich ist."
+  ]
+ },
+ "g292": {
+  "q": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+  "o": [
+   "Es dürfen keine Moscheen gebaut werden.",
+   "Alle Menschen glauben an Gott.",
+   "Jeder kann glauben, was er möchte.",
+   "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+  ]
+ },
+ "g293": {
+  "q": "Was ist in Deutschland ein Brauch zu Ostern?",
+  "o": [
+   "Kürbisse vor die Tür stellen",
+   "einen Tannenbaum schmücken",
+   "Eier bemalen",
+   "Raketen in die Luft schießen"
+  ]
+ },
+ "g294": {
+  "q": "Pfingsten ist ein …",
+  "o": [
+   "christlicher Feiertag.",
+   "deutscher Gedenktag.",
+   "internationaler Trauertag.",
+   "bayerischer Brauch."
+  ]
+ },
+ "g295": {
+  "q": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+  "o": [
+   "der Hinduismus",
+   "das Christentum",
+   "der Buddhismus",
+   "der Islam"
+  ]
+ },
+ "g296": {
+  "q": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …",
+  "o": [
+   "den Buß- und Bettag.",
+   "das Erntedankfest.",
+   "die Adventszeit.",
+   "Allerheiligen."
+  ]
+ },
+ "g297": {
+  "q": "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?",
+  "o": [
+   "Italien",
+   "Polen",
+   "Marokko",
+   "Türkei"
+  ]
+ },
+ "g298": {
+  "q": "In der DDR lebten vor allem Migrantinnen und Migranten aus …",
+  "o": [
+   "Vietnam, Polen, Mosambik.",
+   "Frankreich, Rumänien, Somalia.",
+   "Chile, Ungarn, Simbabwe.",
+   "Nordkorea, Mexiko, Ägypten."
+  ]
+ },
+ "g299": {
+  "q": "Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …",
+  "o": [
+   "Schwarzarbeiterinnen/Schwarzarbeiter.",
+   "Gastarbeiterinnen/Gastarbeiter.",
+   "Zeitarbeiterinnen/Zeitarbeiter.",
+   "Schichtarbeiterinnen/Schichtarbeiter."
+  ]
+ },
+ "g300": {
+  "q": "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?",
+  "o": [
+   "Italien",
+   "Spanien",
+   "Portugal",
+   "Türkei"
+  ]
+ }
+}

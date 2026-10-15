@@ -1,0 +1,2002 @@
+{
+ "g1": {
+  "en": {
+   "q": "In Germany, people may openly say things against the government because …",
+   "o": [
+    "freedom of religion applies here.",
+    "people pay taxes.",
+    "people have the right to vote.",
+    "freedom of expression applies here."
+   ]
+  },
+  "ru": {
+   "q": "В Германии люди могут открыто высказываться против правительства, потому что …",
+   "o": [
+    "здесь действует свобода вероисповедания.",
+    "люди платят налоги.",
+    "у людей есть избирательное право.",
+    "здесь действует свобода выражения мнений."
+   ]
+  }
+ },
+ "g2": {
+  "en": {
+   "q": "In Germany, until their child turns 14, parents can decide whether the child takes part at school in …",
+   "o": [
+    "history lessons.",
+    "religion lessons.",
+    "politics lessons.",
+    "language lessons."
+   ]
+  },
+  "ru": {
+   "q": "В Германии, пока ребёнку не исполнится 14 лет, родители могут решать, будет ли он посещать в школе …",
+   "o": [
+    "уроки истории.",
+    "уроки религии.",
+    "уроки политики.",
+    "уроки языка."
+   ]
+  }
+ },
+ "g3": {
+  "en": {
+   "q": "Germany is a state governed by the rule of law (Rechtsstaat). What does this mean?",
+   "o": [
+    "All inhabitants and the state must abide by the laws.",
+    "The state does not have to abide by the laws.",
+    "Only Germans have to obey the laws.",
+    "The courts make the laws."
+   ]
+  },
+  "ru": {
+   "q": "Германия — правовое государство (Rechtsstaat). Что под этим подразумевается?",
+   "o": [
+    "Все жители и государство обязаны соблюдать законы.",
+    "Государство не обязано соблюдать законы.",
+    "Только немцы обязаны соблюдать законы.",
+    "Суды создают законы."
+   ]
+  }
+ },
+ "g4": {
+  "en": {
+   "q": "Which right is one of the fundamental rights (Grundrechte) in Germany?",
+   "o": [
+    "Possession of weapons",
+    "Rule of force",
+    "Freedom of expression",
+    "Vigilante justice"
+   ]
+  },
+  "ru": {
+   "q": "Какое право относится к основным правам (Grundrechte) в Германии?",
+   "o": [
+    "Владение оружием",
+    "Право сильного",
+    "Свобода выражения мнений",
+    "Самосуд"
+   ]
+  }
+ },
+ "g5": {
+  "en": {
+   "q": "Elections in Germany are free. What does that mean?",
+   "o": [
+    "You may accept money if in return you vote for a particular candidate.",
+    "Only people who have never been in prison may vote.",
+    "Voters may neither be influenced nor forced to vote in a particular way in the election, and must not suffer any disadvantage as a result of voting.",
+    "All people entitled to vote must vote."
+   ]
+  },
+  "ru": {
+   "q": "Выборы в Германии свободные. Что это означает?",
+   "o": [
+    "Можно принимать деньги, если взамен голосуешь за определённого кандидата.",
+    "Голосовать могут только те, кто никогда не был в тюрьме.",
+    "На избирателя нельзя ни оказывать влияние при голосовании, ни принуждать его голосовать определённым образом, и голосование не должно повлечь для него никаких неблагоприятных последствий.",
+    "Все, кто имеет право голоса, обязаны голосовать."
+   ]
+  }
+ },
+ "g6": {
+  "en": {
+   "q": "What is the German constitution called?",
+   "o": [
+    "People's Law (Volksgesetz)",
+    "Federal Law (Bundesgesetz)",
+    "German Law (Deutsches Gesetz)",
+    "Basic Law (Grundgesetz)"
+   ]
+  },
+  "ru": {
+   "q": "Как называется конституция Германии?",
+   "o": [
+    "Народный закон (Volksgesetz)",
+    "Федеральный закон (Bundesgesetz)",
+    "Немецкий закон (Deutsches Gesetz)",
+    "Основной закон (Grundgesetz)"
+   ]
+  }
+ },
+ "g7": {
+  "en": {
+   "q": "Which right is one of the fundamental rights (Grundrechte) guaranteed by the German constitution? The right to …",
+   "o": [
+    "freedom of faith and conscience",
+    "entertainment",
+    "work",
+    "housing"
+   ]
+  },
+  "ru": {
+   "q": "Какое право относится к основным правам (Grundrechte), гарантированным конституцией Германии? Право на …",
+   "o": [
+    "свободу вероисповедания и совести",
+    "развлечения",
+    "труд",
+    "жильё"
+   ]
+  }
+ },
+ "g8": {
+  "en": {
+   "q": "What is not in the German Basic Law (Grundgesetz)?",
+   "o": [
+    "Human dignity is inviolable.",
+    "Everyone should have the same amount of money.",
+    "Every person may state their opinion.",
+    "All people are equal before the law."
+   ]
+  },
+  "ru": {
+   "q": "Чего нет в Основном законе (Grundgesetz) Германии?",
+   "o": [
+    "Достоинство человека неприкосновенно.",
+    "У всех должно быть одинаковое количество денег.",
+    "Каждый человек может высказывать своё мнение.",
+    "Все равны перед законом."
+   ]
+  }
+ },
+ "g9": {
+  "en": {
+   "q": "Which fundamental right (Grundrecht) applies in Germany only to foreigners? The fundamental right to …",
+   "o": [
+    "protection of the family",
+    "human dignity",
+    "asylum",
+    "freedom of expression"
+   ]
+  },
+  "ru": {
+   "q": "Какое основное право (Grundrecht) в Германии действует только для иностранцев? Основное право на …",
+   "o": [
+    "защиту семьи",
+    "человеческое достоинство",
+    "убежище",
+    "свободу выражения мнений"
+   ]
+  }
+ },
+ "g10": {
+  "en": {
+   "q": "What is compatible with the German Basic Law (Grundgesetz)?",
+   "o": [
+    "corporal punishment",
+    "torture",
+    "the death penalty",
+    "a fine"
+   ]
+  },
+  "ru": {
+   "q": "Что совместимо с Основным законом (Grundgesetz) Германии?",
+   "o": [
+    "телесное наказание",
+    "пытки",
+    "смертная казнь",
+    "денежный штраф"
+   ]
+  }
+ },
+ "g11": {
+  "en": {
+   "q": "What is the constitution of the Federal Republic of Germany called?",
+   "o": [
+    "Basic Law (Grundgesetz)",
+    "Federal Constitution (Bundesverfassung)",
+    "Code of Law (Gesetzbuch)",
+    "Constitutional Treaty (Verfassungsvertrag)"
+   ]
+  },
+  "ru": {
+   "q": "Как называется конституция Федеративной Республики Германия?",
+   "o": [
+    "Основной закон (Grundgesetz)",
+    "Федеральная конституция (Bundesverfassung)",
+    "Свод законов (Gesetzbuch)",
+    "Конституционный договор (Verfassungsvertrag)"
+   ]
+  }
+ },
+ "g12": {
+  "en": {
+   "q": "A party in the German Bundestag wants to abolish freedom of the press. Is that possible?",
+   "o": [
+    "Yes, if more than half of the members of the Bundestag are in favour.",
+    "Yes, but for that two thirds of the members of the Bundestag must be in favour.",
+    "No, because freedom of the press is a fundamental right (Grundrecht). It cannot be abolished.",
+    "No, because only the Bundesrat can abolish freedom of the press."
+   ]
+  },
+  "ru": {
+   "q": "Партия в немецком бундестаге (Bundestag) хочет отменить свободу печати. Возможно ли это?",
+   "o": [
+    "Да, если более половины депутатов бундестага (Bundestag) выступают за это.",
+    "Да, но для этого две трети депутатов бундестага (Bundestag) должны выступить за.",
+    "Нет, потому что свобода печати — основное право (Grundrecht). Её нельзя отменить.",
+    "Нет, потому что только бундесрат (Bundesrat) может отменить свободу печати."
+   ]
+  }
+ },
+ "g13": {
+  "en": {
+   "q": "In parliament, the term “opposition” refers to …",
+   "o": [
+    "the governing parties.",
+    "the parliamentary group (Fraktion) with the most members.",
+    "all parties that managed to clear the 5% threshold in the last election.",
+    "all members of parliament who do not belong to the governing party/parties."
+   ]
+  },
+  "ru": {
+   "q": "В парламенте понятие «оппозиция» означает …",
+   "o": [
+    "правящие партии.",
+    "фракцию (Fraktion) с наибольшим числом депутатов.",
+    "все партии, которым удалось преодолеть 5-процентный барьер на последних выборах.",
+    "всех депутатов, которые не принадлежат к правящей партии/правящим партиям."
+   ]
+  }
+ },
+ "g14": {
+  "en": {
+   "q": "Freedom of expression in Germany means that I …",
+   "o": [
+    "may insult passers-by on the street.",
+    "can express my opinion on the internet.",
+    "may publicly wear Nazi, Hamas or Islamic State symbols.",
+    "may express my opinion only as long as I do not contradict the government."
+   ]
+  },
+  "ru": {
+   "q": "Свобода выражения мнений в Германии означает, что я …",
+   "o": [
+    "имею право оскорблять прохожих на улице.",
+    "могу высказывать своё мнение в интернете.",
+    "имею право публично носить символику нацистов, ХАМАС или «Исламского государства».",
+    "имею право высказывать своё мнение только до тех пор, пока не противоречу правительству."
+   ]
+  }
+ },
+ "g15": {
+  "en": {
+   "q": "What does the German Basic Law (Grundgesetz) prohibit?",
+   "o": [
+    "military service",
+    "forced labour",
+    "free choice of occupation",
+    "working abroad"
+   ]
+  },
+  "ru": {
+   "q": "Что запрещает Основной закон (Grundgesetz) Германии?",
+   "o": [
+    "военную службу",
+    "принудительный труд",
+    "свободный выбор профессии",
+    "работу за границей"
+   ]
+  }
+ },
+ "g16": {
+  "en": {
+   "q": "When is freedom of expression restricted in Germany?",
+   "o": [
+    "when false claims about individual people are spread publicly",
+    "when opinions are expressed about the Federal Government",
+    "in discussions about religions",
+    "when the state is criticised"
+   ]
+  },
+  "ru": {
+   "q": "Когда в Германии ограничивается свобода выражения мнений?",
+   "o": [
+    "при публичном распространении ложных утверждений об отдельных людях",
+    "при высказывании мнений о федеральном правительстве",
+    "при обсуждении религий",
+    "при критике государства"
+   ]
+  }
+ },
+ "g17": {
+  "en": {
+   "q": "German laws prohibit …",
+   "o": [
+    "the inhabitants' freedom of expression.",
+    "petitions from citizens.",
+    "the inhabitants' freedom of assembly.",
+    "unequal treatment of citizens by the state."
+   ]
+  },
+  "ru": {
+   "q": "Немецкие законы запрещают …",
+   "o": [
+    "свободу выражения мнений жителей.",
+    "петиции граждан.",
+    "свободу собраний жителей.",
+    "неравное обращение государства с гражданами."
+   ]
+  }
+ },
+ "g18": {
+  "en": {
+   "q": "Which fundamental right (Grundrecht) is guaranteed in Article 1 of the Basic Law (Grundgesetz) of the Federal Republic of Germany?",
+   "o": [
+    "the inviolability of human dignity",
+    "the right to life",
+    "freedom of religion",
+    "freedom of expression"
+   ]
+  },
+  "ru": {
+   "q": "Какое основное право (Grundrecht) гарантировано статьёй 1 Основного закона (Grundgesetz) Федеративной Республики Германия?",
+   "o": [
+    "неприкосновенность человеческого достоинства",
+    "право на жизнь",
+    "свобода вероисповедания",
+    "свобода выражения мнений"
+   ]
+  }
+ },
+ "g19": {
+  "en": {
+   "q": "What is meant by the right of “freedom of movement” (Freizügigkeit) in Germany?",
+   "o": [
+    "You may choose your place of residence yourself.",
+    "You can change your occupation.",
+    "You may decide on a different religion.",
+    "You may only move about in public lightly dressed."
+   ]
+  },
+  "ru": {
+   "q": "Что понимается под правом на «свободу передвижения» (Freizügigkeit) в Германии?",
+   "o": [
+    "Можно самому выбирать себе место жительства.",
+    "Можно сменить профессию.",
+    "Можно выбрать другую религию.",
+    "Передвигаться в общественных местах можно только в лёгкой одежде."
+   ]
+  }
+ },
+ "g20": {
+  "en": {
+   "q": "A party in Germany pursues the goal of establishing a dictatorship. It is then …",
+   "o": [
+    "tolerant.",
+    "oriented towards the rule of law.",
+    "law-abiding.",
+    "unconstitutional."
+   ]
+  },
+  "ru": {
+   "q": "Партия в Германии преследует цель установить диктатуру. Тогда она …",
+   "o": [
+    "толерантна.",
+    "ориентирована на принципы правового государства.",
+    "законопослушна.",
+    "антиконституционна."
+   ]
+  }
+ },
+ "g21": {
+  "en": {
+   "q": "Which is the coat of arms of the Federal Republic of Germany?",
+   "o": [
+    "Picture 1",
+    "Picture 2",
+    "Picture 3",
+    "Picture 4"
+   ]
+  },
+  "ru": {
+   "q": "Какой герб является гербом Федеративной Республики Германия?",
+   "o": [
+    "Изображение 1",
+    "Изображение 2",
+    "Изображение 3",
+    "Изображение 4"
+   ]
+  }
+ },
+ "g22": {
+  "en": {
+   "q": "What form of government does Germany have?",
+   "o": [
+    "Monarchy",
+    "Dictatorship",
+    "Republic",
+    "Principality"
+   ]
+  },
+  "ru": {
+   "q": "Какая форма правления в Германии?",
+   "o": [
+    "Монархия",
+    "Диктатура",
+    "Республика",
+    "Княжество"
+   ]
+  }
+ },
+ "g23": {
+  "en": {
+   "q": "In Germany, most people in work are …",
+   "o": [
+    "employed in small family businesses.",
+    "working on a voluntary basis for a federal state.",
+    "self-employed with their own company.",
+    "employed by a company or a public authority."
+   ]
+  },
+  "ru": {
+   "q": "В Германии большинство работающих людей …",
+   "o": [
+    "заняты на небольших семейных предприятиях.",
+    "безвозмездно работают на федеральную землю.",
+    "работают на себя, имея собственную фирму.",
+    "работают в фирме или в государственном учреждении."
+   ]
+  }
+ },
+ "g24": {
+  "en": {
+   "q": "How many federal states does the Federal Republic of Germany have?",
+   "o": [
+    "14",
+    "15",
+    "16",
+    "17"
+   ]
+  },
+  "ru": {
+   "q": "Сколько федеральных земель в Федеративной Республике Германия?",
+   "o": [
+    "14",
+    "15",
+    "16",
+    "17"
+   ]
+  }
+ },
+ "g25": {
+  "en": {
+   "q": "What is not a federal state of the Federal Republic of Germany?",
+   "o": [
+    "Alsace-Lorraine (Elsass-Lothringen)",
+    "North Rhine-Westphalia (Nordrhein-Westfalen)",
+    "Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)",
+    "Saxony-Anhalt (Sachsen-Anhalt)"
+   ]
+  },
+  "ru": {
+   "q": "Что не является федеральной землёй Федеративной Республики Германия?",
+   "o": [
+    "Эльзас-Лотарингия (Elsass-Lothringen)",
+    "Северный Рейн-Вестфалия (Nordrhein-Westfalen)",
+    "Мекленбург-Передняя Померания (Mecklenburg-Vorpommern)",
+    "Саксония-Анхальт (Sachsen-Anhalt)"
+   ]
+  }
+ },
+ "g26": {
+  "en": {
+   "q": "Germany is …",
+   "o": [
+    "a communist republic.",
+    "a democratic and social federal state.",
+    "a capitalist and social monarchy.",
+    "a social and socialist federal state."
+   ]
+  },
+  "ru": {
+   "q": "Германия — это …",
+   "o": [
+    "коммунистическая республика.",
+    "демократическое и социальное федеративное государство.",
+    "капиталистическая и социальная монархия.",
+    "социальное и социалистическое федеративное государство."
+   ]
+  }
+ },
+ "g27": {
+  "en": {
+   "q": "Germany is …",
+   "o": [
+    "a socialist state.",
+    "a federal state.",
+    "a dictatorship.",
+    "a monarchy."
+   ]
+  },
+  "ru": {
+   "q": "Германия — это …",
+   "o": [
+    "социалистическое государство.",
+    "федеративное государство.",
+    "диктатура.",
+    "монархия."
+   ]
+  }
+ },
+ "g28": {
+  "en": {
+   "q": "Who elects the members of the Bundestag in Germany?",
+   "o": [
+    "the military",
+    "the business sector",
+    "the people entitled to vote",
+    "the administration"
+   ]
+  },
+  "ru": {
+   "q": "Кто в Германии избирает депутатов бундестага (Bundestag)?",
+   "o": [
+    "военные",
+    "бизнес",
+    "народ, обладающий избирательным правом",
+    "администрация"
+   ]
+  }
+ },
+ "g29": {
+  "en": {
+   "q": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+   "o": [
+    "Lion",
+    "Eagle",
+    "Bear",
+    "Horse"
+   ]
+  },
+  "ru": {
+   "q": "Какое животное изображено на гербе Федеративной Республики Германия?",
+   "o": [
+    "Лев",
+    "Орёл",
+    "Медведь",
+    "Лошадь"
+   ]
+  }
+ },
+ "g30": {
+  "en": {
+   "q": "What is not a feature of our democracy?",
+   "o": [
+    "regular elections",
+    "press censorship",
+    "freedom of expression",
+    "different parties"
+   ]
+  },
+  "ru": {
+   "q": "Что не является признаком нашей демократии?",
+   "o": [
+    "регулярные выборы",
+    "цензура печати",
+    "свобода выражения мнений",
+    "различные партии"
+   ]
+  }
+ },
+ "g31": {
+  "en": {
+   "q": "In Germany, cooperation between parties to form a government is called …",
+   "o": [
+    "unity (Einheit).",
+    "coalition (Koalition).",
+    "ministry (Ministerium).",
+    "parliamentary group (Fraktion)."
+   ]
+  },
+  "ru": {
+   "q": "Сотрудничество партий для формирования правительства в Германии называется …",
+   "o": [
+    "единство (Einheit).",
+    "коалиция (Koalition).",
+    "министерство (Ministerium).",
+    "фракция (Fraktion)."
+   ]
+  }
+ },
+ "g32": {
+  "en": {
+   "q": "What is not a branch of state power in Germany?",
+   "o": [
+    "Legislation",
+    "Government",
+    "Press",
+    "Administration of justice"
+   ]
+  },
+  "ru": {
+   "q": "Что не является ветвью государственной власти в Германии?",
+   "o": [
+    "Законодательство",
+    "Правительство",
+    "Пресса",
+    "Правосудие"
+   ]
+  }
+ },
+ "g33": {
+  "en": {
+   "q": "Which statement is correct? In Germany …",
+   "o": [
+    "the state and religious communities are separate from each other.",
+    "religious communities form the state.",
+    "the state is dependent on religious communities.",
+    "the state and religious communities form a single entity."
+   ]
+  },
+  "ru": {
+   "q": "Какое утверждение верно? В Германии …",
+   "o": [
+    "государство и религиозные общины отделены друг от друга.",
+    "религиозные общины образуют государство.",
+    "государство зависит от религиозных общин.",
+    "государство и религиозные общины образуют единое целое."
+   ]
+  }
+ },
+ "g34": {
+  "en": {
+   "q": "What is Germany not?",
+   "o": [
+    "a democracy",
+    "a state governed by the rule of law (Rechtsstaat)",
+    "a monarchy",
+    "a welfare state (Sozialstaat)"
+   ]
+  },
+  "ru": {
+   "q": "Чем Германия не является?",
+   "o": [
+    "демократией",
+    "правовым государством (Rechtsstaat)",
+    "монархией",
+    "социальным государством (Sozialstaat)"
+   ]
+  }
+ },
+ "g35": {
+  "en": {
+   "q": "What does the German state use to finance social insurance?",
+   "o": [
+    "Church tax (Kirchensteuer)",
+    "Social security contributions",
+    "Donations",
+    "Club membership fees"
+   ]
+  },
+  "ru": {
+   "q": "За счёт чего немецкое государство финансирует социальное страхование?",
+   "o": [
+    "Церковный налог (Kirchensteuer)",
+    "Социальные взносы",
+    "Пожертвования",
+    "Членские взносы в объединения"
+   ]
+  }
+ },
+ "g36": {
+  "en": {
+   "q": "Which measure provides social security in Germany?",
+   "o": [
+    "health insurance",
+    "car insurance",
+    "building insurance",
+    "liability insurance"
+   ]
+  },
+  "ru": {
+   "q": "Какая мера обеспечивает социальную защищённость в Германии?",
+   "o": [
+    "медицинское страхование",
+    "автострахование",
+    "страхование зданий",
+    "страхование гражданской ответственности"
+   ]
+  }
+ },
+ "g37": {
+  "en": {
+   "q": "What are the heads of government of most federal states in Germany called?",
+   "o": [
+    "First Minister (Erster Minister)",
+    "Prime Minister (Premierminister)",
+    "Senator",
+    "Minister-President (Ministerpräsident)"
+   ]
+  },
+  "ru": {
+   "q": "Как называются главы правительств большинства федеральных земель Германии?",
+   "o": [
+    "Первый министр (Erster Minister)",
+    "Премьер-министр (Premierminister)",
+    "Сенатор (Senator)",
+    "Министр-президент (Ministerpräsident)"
+   ]
+  }
+ },
+ "g38": {
+  "en": {
+   "q": "The Federal Republic of Germany is a democratic and social …",
+   "o": [
+    "association of states (Staatenverbund).",
+    "federal state (Bundesstaat).",
+    "confederation of states (Staatenbund).",
+    "centralised state (Zentralstaat)."
+   ]
+  },
+  "ru": {
+   "q": "Федеративная Республика Германия является демократическим и социальным …",
+   "o": [
+    "объединением государств (Staatenverbund).",
+    "федеративным государством (Bundesstaat).",
+    "союзом государств (Staatenbund).",
+    "централизованным государством (Zentralstaat)."
+   ]
+  }
+ },
+ "g39": {
+  "en": {
+   "q": "What does every German federal state have?",
+   "o": [
+    "its own foreign minister",
+    "its own currency",
+    "its own army",
+    "its own government"
+   ]
+  },
+  "ru": {
+   "q": "Что есть у каждой федеральной земли Германии?",
+   "o": [
+    "собственный министр иностранных дел",
+    "собственная валюта",
+    "собственная армия",
+    "собственное правительство"
+   ]
+  }
+ },
+ "g40": {
+  "en": {
+   "q": "With which words does the German national anthem begin?",
+   "o": [
+    "Peoples, hear the signals …",
+    "Unity and justice and freedom …",
+    "Joy, beautiful spark of the gods …",
+    "Germany, united fatherland …"
+   ]
+  },
+  "ru": {
+   "q": "Какими словами начинается национальный гимн Германии?",
+   "o": [
+    "Народы, слушайте сигналы …",
+    "Единство, право и свобода …",
+    "Радость, прекрасная искра богов …",
+    "Германия, единое отечество …"
+   ]
+  }
+ },
+ "g41": {
+  "en": {
+   "q": "Why is there more than one party in a democracy?",
+   "o": [
+    "because this means the different opinions of citizens are represented",
+    "so that bribery in politics is limited",
+    "to prevent political demonstrations",
+    "to stimulate economic competition"
+   ]
+  },
+  "ru": {
+   "q": "Почему при демократии существует более одной партии?",
+   "o": [
+    "потому что благодаря этому представлены различные мнения граждан",
+    "чтобы ограничить взяточничество в политике",
+    "чтобы предотвращать политические демонстрации",
+    "чтобы стимулировать экономическую конкуренцию"
+   ]
+  }
+ },
+ "g42": {
+  "en": {
+   "q": "Who passes a new law in Germany?",
+   "o": [
+    "the government",
+    "the parliament",
+    "the courts",
+    "the police"
+   ]
+  },
+  "ru": {
+   "q": "Кто в Германии принимает новый закон?",
+   "o": [
+    "правительство",
+    "парламент",
+    "суды",
+    "полиция"
+   ]
+  }
+ },
+ "g43": {
+  "en": {
+   "q": "When can a party be banned in Germany?",
+   "o": [
+    "if its election campaign is too expensive",
+    "if it fights against the constitution",
+    "if it criticises the head of state",
+    "if its programme proposes a new direction"
+   ]
+  },
+  "ru": {
+   "q": "Когда в Германии партия может быть запрещена?",
+   "o": [
+    "если её предвыборная кампания слишком дорогая",
+    "если она борется против конституции",
+    "если она критикует главу государства",
+    "если её программа предлагает новое направление"
+   ]
+  }
+ },
+ "g44": {
+  "en": {
+   "q": "As a citizen in Germany, whom can you not elect directly?",
+   "o": [
+    "Members of the EU Parliament",
+    "The Federal President (Bundespräsident)",
+    "Members of the state parliament (Landtag)",
+    "Members of the Bundestag"
+   ]
+  },
+  "ru": {
+   "q": "Кого гражданин в Германии не может избрать напрямую?",
+   "o": [
+    "Депутатов Европарламента",
+    "Федерального президента (Bundespräsident)",
+    "Депутатов ландтага (Landtag)",
+    "Депутатов бундестага (Bundestag)"
+   ]
+  }
+ },
+ "g45": {
+  "en": {
+   "q": "Which type of insurance does long-term care insurance (Pflegeversicherung) belong to?",
+   "o": [
+    "Social insurance",
+    "Accident insurance",
+    "Household contents insurance",
+    "Liability and fire insurance"
+   ]
+  },
+  "ru": {
+   "q": "К какому виду страхования относится страхование по уходу (Pflegeversicherung)?",
+   "o": [
+    "Социальное страхование",
+    "Страхование от несчастных случаев",
+    "Страхование домашнего имущества",
+    "Страхование гражданской ответственности и от пожара"
+   ]
+  }
+ },
+ "g46": {
+  "en": {
+   "q": "The German state has many tasks. Which task is one of them?",
+   "o": [
+    "It builds roads and schools.",
+    "It sells food and clothing.",
+    "It provides all inhabitants with newspapers free of charge.",
+    "It produces cars and buses."
+   ]
+  },
+  "ru": {
+   "q": "У немецкого государства много задач. Какая задача к ним относится?",
+   "o": [
+    "Оно строит дороги и школы.",
+    "Оно продаёт продукты питания и одежду.",
+    "Оно бесплатно обеспечивает всех жителей газетами.",
+    "Оно производит автомобили и автобусы."
+   ]
+  }
+ },
+ "g47": {
+  "en": {
+   "q": "The German state has many tasks. Which task is not one of them?",
+   "o": [
+    "It pays for holiday trips for all its citizens.",
+    "It pays child benefit (Kindergeld).",
+    "It supports museums.",
+    "It sponsors athletes."
+   ]
+  },
+  "ru": {
+   "q": "У немецкого государства много задач. Какая задача к ним не относится?",
+   "o": [
+    "Оно оплачивает всем гражданам поездки в отпуск.",
+    "Оно выплачивает детское пособие (Kindergeld).",
+    "Оно поддерживает музеи.",
+    "Оно оказывает содействие спортсменам."
+   ]
+  }
+ },
+ "g48": {
+  "en": {
+   "q": "Which body is not one of Germany's constitutional bodies (Verfassungsorgane)?",
+   "o": [
+    "the Bundesrat",
+    "the Federal President (Bundespräsident)",
+    "the citizens' assembly",
+    "the government"
+   ]
+  },
+  "ru": {
+   "q": "Какой орган не относится к конституционным органам (Verfassungsorgane) Германии?",
+   "o": [
+    "бундесрат (Bundesrat)",
+    "федеральный президент (Bundespräsident)",
+    "собрание граждан",
+    "правительство"
+   ]
+  }
+ },
+ "g49": {
+  "en": {
+   "q": "Who determines school policy in Germany?",
+   "o": [
+    "the teachers",
+    "the federal states",
+    "the Ministry of Family Affairs",
+    "the universities"
+   ]
+  },
+  "ru": {
+   "q": "Кто в Германии определяет школьную политику?",
+   "o": [
+    "учителя",
+    "федеральные земли",
+    "министерство по делам семьи",
+    "университеты"
+   ]
+  }
+ },
+ "g50": {
+  "en": {
+   "q": "The economic system in Germany is called …",
+   "o": [
+    "free central economy (freie Zentralwirtschaft).",
+    "social market economy (soziale Marktwirtschaft).",
+    "directed central economy (gelenkte Zentralwirtschaft).",
+    "planned economy (Planwirtschaft)."
+   ]
+  },
+  "ru": {
+   "q": "Экономическую систему в Германии называют …",
+   "o": [
+    "свободной централизованной экономикой (freie Zentralwirtschaft).",
+    "социальной рыночной экономикой (soziale Marktwirtschaft).",
+    "управляемой централизованной экономикой (gelenkte Zentralwirtschaft).",
+    "плановой экономикой (Planwirtschaft)."
+   ]
+  }
+ },
+ "g51": {
+  "en": {
+   "q": "It is not part of a democratic state governed by the rule of law (Rechtsstaat) that …",
+   "o": [
+    "people can express criticism of the government.",
+    "citizens are allowed to go on peaceful demonstrations.",
+    "people are arrested by a private police force without reason.",
+    "someone commits a crime and is arrested for it."
+   ]
+  },
+  "ru": {
+   "q": "К демократическому правовому государству (Rechtsstaat) не относится то, что …",
+   "o": [
+    "люди могут критически высказываться о правительстве.",
+    "граждане имеют право выходить на мирные демонстрации.",
+    "людей без причины арестовывает частная полиция.",
+    "кто-то совершает преступление и поэтому его арестовывают."
+   ]
+  }
+ },
+ "g52": {
+  "en": {
+   "q": "What does “popular sovereignty” (Volkssouveränität) mean? All state authority is derived from the ...",
+   "o": [
+    "people.",
+    "Bundestag.",
+    "Prussian king.",
+    "Federal Constitutional Court (Bundesverfassungsgericht)."
+   ]
+  },
+  "ru": {
+   "q": "Что означает «народный суверенитет» (Volkssouveränität)? Вся государственная власть исходит от ...",
+   "o": [
+    "народа.",
+    "бундестага (Bundestag).",
+    "прусского короля.",
+    "Федерального конституционного суда (Bundesverfassungsgericht)."
+   ]
+  }
+ },
+ "g53": {
+  "en": {
+   "q": "What does “state governed by the rule of law” (Rechtsstaat) mean in Germany?",
+   "o": [
+    "The state is right.",
+    "There are only right-wing parties.",
+    "The citizens decide on laws.",
+    "The state must abide by the laws."
+   ]
+  },
+  "ru": {
+   "q": "Что означает «правовое государство» (Rechtsstaat) в Германии?",
+   "o": [
+    "Правота на стороне государства.",
+    "Существуют только правые партии.",
+    "Граждане принимают решения о законах.",
+    "Государство обязано соблюдать законы."
+   ]
+  }
+ },
+ "g54": {
+  "en": {
+   "q": "What is not a branch of state power in Germany?",
+   "o": [
+    "Legislature (Legislative)",
+    "Judiciary (Judikative)",
+    "Executive (Exekutive)",
+    "Directive (Direktive)"
+   ]
+  },
+  "ru": {
+   "q": "Что не является ветвью государственной власти в Германии?",
+   "o": [
+    "Законодательная власть (Legislative)",
+    "Судебная власть (Judikative)",
+    "Исполнительная власть (Exekutive)",
+    "Директивная власть (Direktive)"
+   ]
+  }
+ },
+ "g55": {
+  "en": {
+   "q": "What does this picture show?",
+   "o": [
+    "the seat of the Bundestag in Berlin",
+    "the Federal Constitutional Court (Bundesverfassungsgericht) in Karlsruhe",
+    "the Bundesrat building in Berlin",
+    "the Federal Chancellery (Bundeskanzleramt) in Berlin"
+   ]
+  },
+  "ru": {
+   "q": "Что показано на этом изображении?",
+   "o": [
+    "резиденция бундестага (Bundestag) в Берлине (Berlin)",
+    "Федеральный конституционный суд (Bundesverfassungsgericht) в Карлсруэ (Karlsruhe)",
+    "здание бундесрата (Bundesrat) в Берлине (Berlin)",
+    "Ведомство федерального канцлера (Bundeskanzleramt) в Берлине (Berlin)"
+   ]
+  }
+ },
+ "g56": {
+  "en": {
+   "q": "Which office in Germany is part of the municipal administration (Gemeindeverwaltung)?",
+   "o": [
+    "Parish office (Pfarramt)",
+    "Public order office (Ordnungsamt)",
+    "Tax office (Finanzamt)",
+    "Federal Foreign Office (Auswärtiges Amt)"
+   ]
+  },
+  "ru": {
+   "q": "Какое ведомство в Германии относится к муниципальной администрации (Gemeindeverwaltung)?",
+   "o": [
+    "Приходская канцелярия (Pfarramt)",
+    "Ведомство общественного порядка (Ordnungsamt)",
+    "Налоговая инспекция (Finanzamt)",
+    "Министерство иностранных дел (Auswärtiges Amt)"
+   ]
+  }
+ },
+ "g57": {
+  "en": {
+   "q": "Who is usually elected President of the German Bundestag?",
+   "o": [
+    "the oldest member of parliament",
+    "the Minister-President (Ministerpräsident) of the largest federal state",
+    "a former Federal Chancellor (Bundeskanzler)",
+    "a member of the largest parliamentary group (Fraktion)"
+   ]
+  },
+  "ru": {
+   "q": "Кого чаще всего избирают председателем бундестага (Bundestag) Германии?",
+   "o": [
+    "самого старшего депутата парламента",
+    "министра-президента (Ministerpräsident) самой большой федеральной земли",
+    "бывшего федерального канцлера (Bundeskanzler)",
+    "депутата от крупнейшей фракции (Fraktion)"
+   ]
+  }
+ },
+ "g58": {
+  "en": {
+   "q": "Who appoints the ministers of the Federal Government in Germany?",
+   "o": [
+    "the President of the Federal Constitutional Court (Bundesverfassungsgericht)",
+    "the Federal President (Bundespräsident)",
+    "the President of the Bundesrat (Bundesratspräsident)",
+    "the President of the Bundestag (Bundestagspräsident)"
+   ]
+  },
+  "ru": {
+   "q": "Кто в Германии назначает министров федерального правительства?",
+   "o": [
+    "председатель Федерального конституционного суда (Bundesverfassungsgericht)",
+    "федеральный президент (Bundespräsident)",
+    "председатель бундесрата (Bundesratspräsident)",
+    "председатель бундестага (Bundestagspräsident)"
+   ]
+  }
+ },
+ "g59": {
+  "en": {
+   "q": "How many years ago was there a Jewish community on the territory of present-day Germany for the first time?",
+   "o": [
+    "about 300 years ago",
+    "about 700 years ago",
+    "about 1150 years ago",
+    "about 1700 years ago"
+   ]
+  },
+  "ru": {
+   "q": "Сколько лет назад на территории современной Германии впервые появилась еврейская община?",
+   "o": [
+    "около 300 лет назад",
+    "около 700 лет назад",
+    "около 1150 лет назад",
+    "около 1700 лет назад"
+   ]
+  }
+ },
+ "g60": {
+  "en": {
+   "q": "In Germany, the Bundestag and the Bundesrat belong to the …",
+   "o": [
+    "executive (Exekutive).",
+    "legislature (Legislative).",
+    "directive (Direktive).",
+    "judiciary (Judikative)."
+   ]
+  },
+  "ru": {
+   "q": "В Германии бундестаг (Bundestag) и бундесрат (Bundesrat) относятся к …",
+   "o": [
+    "исполнительной власти (Exekutive).",
+    "законодательной власти (Legislative).",
+    "директивной власти (Direktive).",
+    "судебной власти (Judikative)."
+   ]
+  }
+ },
+ "g61": {
+  "en": {
+   "q": "What does “popular sovereignty” (Volkssouveränität) mean?",
+   "o": [
+    "The monarch rules over the people.",
+    "The Federal Constitutional Court (Bundesverfassungsgericht) stands above the constitution.",
+    "Interest groups exercise sovereignty together with the government.",
+    "State authority is derived from the people."
+   ]
+  },
+  "ru": {
+   "q": "Что означает «народный суверенитет» (Volkssouveränität)?",
+   "o": [
+    "Король правит народом.",
+    "Федеральный конституционный суд (Bundesverfassungsgericht) стоит выше конституции.",
+    "Группы интересов осуществляют суверенитет вместе с правительством.",
+    "Государственная власть исходит от народа."
+   ]
+  }
+ },
+ "g62": {
+  "en": {
+   "q": "When the parliament of a German federal state is elected, this is called …",
+   "o": [
+    "municipal election (Kommunalwahl)",
+    "state election (Landtagswahl)",
+    "European election (Europawahl)",
+    "federal election (Bundestagswahl)"
+   ]
+  },
+  "ru": {
+   "q": "Когда избирается парламент федеральной земли Германии, это называется …",
+   "o": [
+    "муниципальные выборы (Kommunalwahl)",
+    "выборы в ландтаг (Landtagswahl)",
+    "выборы в Европарламент (Europawahl)",
+    "выборы в бундестаг (Bundestagswahl)"
+   ]
+  }
+ },
+ "g63": {
+  "en": {
+   "q": "What is not part of the executive (Exekutive) in Germany?",
+   "o": [
+    "the police",
+    "the courts",
+    "the tax office (Finanzamt)",
+    "the ministries"
+   ]
+  },
+  "ru": {
+   "q": "Что в Германии не относится к исполнительной власти (Exekutive)?",
+   "o": [
+    "полиция",
+    "суды",
+    "налоговая инспекция (Finanzamt)",
+    "министерства"
+   ]
+  }
+ },
+ "g64": {
+  "en": {
+   "q": "Today, the Federal Republic of Germany is divided into …",
+   "o": [
+    "four occupation zones.",
+    "an eastern state and a western state.",
+    "16 cantons.",
+    "the Federation (Bund), the federal states (Länder) and the municipalities (Kommunen)."
+   ]
+  },
+  "ru": {
+   "q": "Сегодня Федеративная Республика Германия подразделяется на …",
+   "o": [
+    "четыре оккупационные зоны.",
+    "восточное государство и западное государство.",
+    "16 кантонов.",
+    "федерацию (Bund), земли (Länder) и муниципалитеты (Kommunen)."
+   ]
+  }
+ },
+ "g65": {
+  "en": {
+   "q": "It is not one of the tasks of the German Bundestag to …",
+   "o": [
+    "draft laws.",
+    "control the Federal Government.",
+    "elect the Federal Chancellor (Bundeskanzler).",
+    "form the Federal Cabinet (Bundeskabinett)."
+   ]
+  },
+  "ru": {
+   "q": "В задачи бундестага (Bundestag) Германии не входит …",
+   "o": [
+    "разрабатывать законы.",
+    "контролировать федеральное правительство.",
+    "избирать федерального канцлера (Bundeskanzler).",
+    "формировать федеральный кабинет (Bundeskabinett)."
+   ]
+  }
+ },
+ "g66": {
+  "en": {
+   "q": "Which cities have the largest Jewish communities in Germany?",
+   "o": [
+    "Berlin and Munich (München)",
+    "Hamburg and Essen",
+    "Nuremberg (Nürnberg) and Stuttgart",
+    "Worms and Speyer"
+   ]
+  },
+  "ru": {
+   "q": "В каких городах Германии самые большие еврейские общины?",
+   "o": [
+    "Берлин (Berlin) и Мюнхен (München)",
+    "Гамбург (Hamburg) и Эссен (Essen)",
+    "Нюрнберг (Nürnberg) и Штутгарт (Stuttgart)",
+    "Вормс (Worms) и Шпайер (Speyer)"
+   ]
+  }
+ },
+ "g67": {
+  "en": {
+   "q": "In Germany, what is primarily a task of the federal states?",
+   "o": [
+    "Defence policy",
+    "Foreign policy",
+    "Economic policy",
+    "School policy"
+   ]
+  },
+  "ru": {
+   "q": "Что в Германии является прежде всего задачей федеральных земель?",
+   "o": [
+    "Оборонная политика",
+    "Внешняя политика",
+    "Экономическая политика",
+    "Школьная политика"
+   ]
+  }
+ },
+ "g68": {
+  "en": {
+   "q": "Why does the state supervise the school system in Germany?",
+   "o": [
+    "because there are only state schools in Germany",
+    "because all pupils must have a school-leaving qualification",
+    "because there are different schools in the federal states",
+    "because this is its task under the Basic Law (Grundgesetz)"
+   ]
+  },
+  "ru": {
+   "q": "Почему в Германии государство контролирует систему школьного образования?",
+   "o": [
+    "потому что в Германии есть только государственные школы",
+    "потому что все школьники должны иметь аттестат об окончании школы",
+    "потому что в федеральных землях разные школы",
+    "потому что по Основному закону (Grundgesetz) это его задача"
+   ]
+  }
+ },
+ "g69": {
+  "en": {
+   "q": "The Federal Republic of Germany has a three-tier administrative structure. What is the lowest political tier called?",
+   "o": [
+    "City councils (Stadträte)",
+    "District administrators (Landräte)",
+    "Municipalities (Gemeinden)",
+    "District offices (Bezirksämter)"
+   ]
+  },
+  "ru": {
+   "q": "Федеративная Республика Германия имеет трёхуровневую структуру управления. Как называется низший политический уровень?",
+   "o": [
+    "Городские советы (Stadträte)",
+    "Главы районов (Landräte)",
+    "Общины (Gemeinden)",
+    "Районные управы (Bezirksämter)"
+   ]
+  }
+ },
+ "g70": {
+  "en": {
+   "q": "German Federal President (Bundespräsident) Gustav Heinemann hands Helmut Schmidt his certificate of appointment as German Federal Chancellor (Bundeskanzler) in 1974. Which of these is one of the duties of the German Federal President?",
+   "o": [
+    "He or she conducts the business of government.",
+    "He or she controls the governing party.",
+    "He or she selects the ministers.",
+    "He or she proposes the Chancellor (Kanzler) for election."
+   ]
+  },
+  "ru": {
+   "q": "Федеральный президент (Bundespräsident) Германии Густав Хайнеман в 1974 году вручает Гельмуту Шмидту грамоту о назначении федеральным канцлером (Bundeskanzler) Германии. Что входит в обязанности федерального президента Германии?",
+   "o": [
+    "Он руководит делами правительства.",
+    "Он контролирует правящую партию.",
+    "Он выбирает министров.",
+    "Он предлагает кандидатуру канцлера (Kanzler) для избрания."
+   ]
+  }
+ },
+ "g71": {
+  "en": {
+   "q": "Where is the German Federal Chancellor (Bundeskanzler) most often found? He or she is most often …",
+   "o": [
+    "in Bonn, because the Federal Chancellery (Bundeskanzleramt) and the Bundestag are located there.",
+    "at Meseberg Palace (Schloss Meseberg), the Federal Government's guest house, to receive state guests.",
+    "at Bellevue Palace (Schloss Bellevue), the official residence of the Federal President (Bundespräsident), to receive state guests.",
+    "in Berlin, because the Federal Chancellery (Bundeskanzleramt) and the Bundestag are located there."
+   ]
+  },
+  "ru": {
+   "q": "Где чаще всего находится федеральный канцлер (Bundeskanzler) Германии? Чаще всего он находится …",
+   "o": [
+    "в Бонне (Bonn), потому что там расположены Ведомство федерального канцлера (Bundeskanzleramt) и бундестаг (Bundestag).",
+    "во дворце Мезеберг (Schloss Meseberg), гостевой резиденции федерального правительства, чтобы принимать государственных гостей.",
+    "во дворце Бельвю (Schloss Bellevue), официальной резиденции федерального президента (Bundespräsident), чтобы принимать государственных гостей.",
+    "в Берлине (Berlin), потому что там расположены Ведомство федерального канцлера (Bundeskanzleramt) и бундестаг (Bundestag)."
+   ]
+  }
+ },
+ "g72": {
+  "en": {
+   "q": "What is the name of the current Federal Chancellor (Bundeskanzler) of Germany?",
+   "o": [
+    "Gerhard Schröder",
+    "Angela Merkel",
+    "Ursula von der Leyen",
+    "Friedrich Merz"
+   ]
+  },
+  "ru": {
+   "q": "Как зовут нынешнего федерального канцлера (Bundeskanzler) Германии?",
+   "o": [
+    "Герхард Шрёдер",
+    "Ангела Меркель",
+    "Урсула фон дер Ляйен",
+    "Фридрих Мерц"
+   ]
+  }
+ },
+ "g73": {
+  "en": {
+   "q": "The two largest parliamentary groups (Fraktionen) in the German Bundestag are currently …",
+   "o": [
+    "CDU/CSU and AfD.",
+    "Die Linke and Bündnis 90/Die Grünen.",
+    "Bündnis 90/Die Grünen and SPD.",
+    "Die Linke and CDU/CSU."
+   ]
+  },
+  "ru": {
+   "q": "Две крупнейшие фракции (Fraktionen) в бундестаге (Bundestag) Германии в настоящее время — это …",
+   "o": [
+    "CDU/CSU и AfD.",
+    "Die Linke и Bündnis 90/Die Grünen.",
+    "Bündnis 90/Die Grünen и SPD.",
+    "Die Linke и CDU/CSU."
+   ]
+  }
+ },
+ "g74": {
+  "en": {
+   "q": "What is the parliament for the whole of Germany called?",
+   "o": [
+    "Federal Convention (Bundesversammlung)",
+    "People's Chamber (Volkskammer)",
+    "Bundestag",
+    "Federal Court of Justice (Bundesgerichtshof)"
+   ]
+  },
+  "ru": {
+   "q": "Как называется парламент всей Германии?",
+   "o": [
+    "Федеральное собрание (Bundesversammlung)",
+    "Народная палата (Volkskammer)",
+    "Бундестаг (Bundestag)",
+    "Федеральный верховный суд (Bundesgerichtshof)"
+   ]
+  }
+ },
+ "g75": {
+  "en": {
+   "q": "What is the name of Germany's current head of state?",
+   "o": [
+    "Frank-Walter Steinmeier",
+    "Bärbel Bas",
+    "Bodo Ramelow",
+    "Joachim Gauck"
+   ]
+  },
+  "ru": {
+   "q": "Как зовут нынешнего главу государства Германии?",
+   "o": [
+    "Франк-Вальтер Штайнмайер",
+    "Бербель Бас",
+    "Бодо Рамелов",
+    "Йоахим Гаук"
+   ]
+  }
+ },
+ "g76": {
+  "en": {
+   "q": "What does the abbreviation CDU stand for in Germany?",
+   "o": [
+    "Christian German Union",
+    "Club of German Entrepreneurs",
+    "Christian German Environmental Protection",
+    "Christian Democratic Union"
+   ]
+  },
+  "ru": {
+   "q": "Что означает аббревиатура CDU в Германии?",
+   "o": [
+    "Христианский немецкий союз",
+    "Клуб немецких предпринимателей",
+    "Христианская немецкая защита окружающей среды",
+    "Христианско-демократический союз"
+   ]
+  }
+ },
+ "g77": {
+  "en": {
+   "q": "What is the Bundeswehr?",
+   "o": [
+    "the German police",
+    "a German port",
+    "a German citizens' initiative",
+    "the German army"
+   ]
+  },
+  "ru": {
+   "q": "Что такое бундесвер (Bundeswehr)?",
+   "o": [
+    "немецкая полиция",
+    "немецкий порт",
+    "немецкая гражданская инициатива",
+    "немецкая армия"
+   ]
+  }
+ },
+ "g78": {
+  "en": {
+   "q": "What does the abbreviation SPD stand for?",
+   "o": [
+    "Socialist Party of Germany",
+    "Social Policy Party of Germany",
+    "Social Democratic Party of Germany",
+    "Socially Just Party of Germany"
+   ]
+  },
+  "ru": {
+   "q": "Что означает аббревиатура SPD?",
+   "o": [
+    "Социалистическая партия Германии",
+    "Социально-политическая партия Германии",
+    "Социал-демократическая партия Германии",
+    "Социально справедливая партия Германии"
+   ]
+  }
+ },
+ "g79": {
+  "en": {
+   "q": "What does the abbreviation FDP stand for in Germany?",
+   "o": [
+    "Peaceful Demonstrative Party",
+    "Free Germany Party",
+    "Leading Democratic Party",
+    "Free Democratic Party"
+   ]
+  },
+  "ru": {
+   "q": "Что означает аббревиатура FDP в Германии?",
+   "o": [
+    "Мирная демонстративная партия",
+    "Партия «Свободная Германия»",
+    "Ведущая демократическая партия",
+    "Свободная демократическая партия"
+   ]
+  }
+ },
+ "g80": {
+  "en": {
+   "q": "Which court in Germany is responsible for interpreting the Basic Law (Grundgesetz)?",
+   "o": [
+    "Higher Regional Court (Oberlandesgericht)",
+    "Local Court (Amtsgericht)",
+    "Federal Constitutional Court (Bundesverfassungsgericht)",
+    "Administrative Court (Verwaltungsgericht)"
+   ]
+  },
+  "ru": {
+   "q": "Какой суд в Германии отвечает за толкование Основного закона (Grundgesetz)?",
+   "o": [
+    "Высший земельный суд (Oberlandesgericht)",
+    "Участковый суд (Amtsgericht)",
+    "Федеральный конституционный суд (Bundesverfassungsgericht)",
+    "Административный суд (Verwaltungsgericht)"
+   ]
+  }
+ },
+ "g81": {
+  "en": {
+   "q": "Who elects the Federal Chancellor (Bundeskanzler) in Germany?",
+   "o": [
+    "the Bundesrat",
+    "the Federal Convention (Bundesversammlung)",
+    "the people",
+    "the Bundestag"
+   ]
+  },
+  "ru": {
+   "q": "Кто избирает федерального канцлера (Bundeskanzler) в Германии?",
+   "o": [
+    "бундесрат (Bundesrat)",
+    "Федеральное собрание (Bundesversammlung)",
+    "народ",
+    "бундестаг (Bundestag)"
+   ]
+  }
+ },
+ "g82": {
+  "en": {
+   "q": "Who heads the German Federal Cabinet (Bundeskabinett)?",
+   "o": [
+    "the President of the Bundestag (Bundestagspräsident)",
+    "the Federal President (Bundespräsident)",
+    "the President of the Bundesrat (Bundesratspräsident)",
+    "the Federal Chancellor (Bundeskanzler)"
+   ]
+  },
+  "ru": {
+   "q": "Кто возглавляет федеральный кабинет (Bundeskabinett) Германии?",
+   "o": [
+    "председатель бундестага (Bundestagspräsident)",
+    "федеральный президент (Bundespräsident)",
+    "председатель бундесрата (Bundesratspräsident)",
+    "федеральный канцлер (Bundeskanzler)"
+   ]
+  }
+ },
+ "g83": {
+  "en": {
+   "q": "Who elects the German Federal Chancellor (Bundeskanzler)?",
+   "o": [
+    "the people",
+    "the Federal Convention (Bundesversammlung)",
+    "the Bundestag",
+    "the Federal Government"
+   ]
+  },
+  "ru": {
+   "q": "Кто избирает федерального канцлера (Bundeskanzler) Германии?",
+   "o": [
+    "народ",
+    "Федеральное собрание (Bundesversammlung)",
+    "бундестаг (Bundestag)",
+    "федеральное правительство"
+   ]
+  }
+ },
+ "g84": {
+  "en": {
+   "q": "What is the main task of the German Federal President (Bundespräsident)? He or she …",
+   "o": [
+    "governs the country.",
+    "drafts the laws.",
+    "represents the country.",
+    "monitors compliance with the laws."
+   ]
+  },
+  "ru": {
+   "q": "Какова главная задача федерального президента (Bundespräsident) Германии? Он …",
+   "o": [
+    "управляет страной.",
+    "разрабатывает законы.",
+    "представляет страну.",
+    "следит за соблюдением законов."
+   ]
+  }
+ },
+ "g85": {
+  "en": {
+   "q": "Who makes up the German Bundesrat?",
+   "o": [
+    "the members of the Bundestag",
+    "the ministers of the Federal Government",
+    "the government representatives of the federal states",
+    "the party members"
+   ]
+  },
+  "ru": {
+   "q": "Кто входит в состав бундесрата (Bundesrat) Германии?",
+   "o": [
+    "депутаты бундестага (Bundestag)",
+    "министры федерального правительства",
+    "представители правительств федеральных земель",
+    "члены партий"
+   ]
+  }
+ },
+ "g86": {
+  "en": {
+   "q": "Who elects the Federal President (Bundespräsident) in Germany?",
+   "o": [
+    "the Federal Convention (Bundesversammlung)",
+    "the Bundesrat",
+    "the federal parliament",
+    "the Federal Constitutional Court (Bundesverfassungsgericht)"
+   ]
+  },
+  "ru": {
+   "q": "Кто в Германии избирает федерального президента (Bundespräsident)?",
+   "o": [
+    "Федеральное собрание (Bundesversammlung)",
+    "бундесрат (Bundesrat)",
+    "федеральный парламент",
+    "Федеральный конституционный суд (Bundesverfassungsgericht)"
+   ]
+  }
+ },
+ "g87": {
+  "en": {
+   "q": "Who is the head of state of the Federal Republic of Germany?",
+   "o": [
+    "the Federal Chancellor (Bundeskanzler)",
+    "the Federal President (Bundespräsident)",
+    "the President of the Bundesrat (Bundesratspräsident)",
+    "the President of the Bundestag (Bundestagspräsident)"
+   ]
+  },
+  "ru": {
+   "q": "Кто является главой государства Федеративной Республики Германия?",
+   "o": [
+    "федеральный канцлер (Bundeskanzler)",
+    "федеральный президент (Bundespräsident)",
+    "председатель бундесрата (Bundesratspräsident)",
+    "председатель бундестага (Bundestagspräsident)"
+   ]
+  }
+ },
+ "g88": {
+  "en": {
+   "q": "The parliamentary opposition in the German Bundestag …",
+   "o": [
+    "controls the government.",
+    "decides who becomes a federal minister.",
+    "determines who sits in the Bundesrat.",
+    "proposes the heads of government of the federal states."
+   ]
+  },
+  "ru": {
+   "q": "Парламентская оппозиция в бундестаге (Bundestag) Германии …",
+   "o": [
+    "контролирует правительство.",
+    "решает, кто станет федеральным министром.",
+    "определяет, кто заседает в бундесрате (Bundesrat).",
+    "предлагает кандидатуры глав правительств федеральных земель."
+   ]
+  }
+ },
+ "g89": {
+  "en": {
+   "q": "In Germany, what is the association of members of parliament from one party called?",
+   "o": [
+    "Association (Verband)",
+    "Council of Elders (Ältestenrat)",
+    "Parliamentary group (Fraktion)",
+    "Opposition"
+   ]
+  },
+  "ru": {
+   "q": "Как в Германии называется объединение депутатов одной партии в парламенте?",
+   "o": [
+    "Ассоциация (Verband)",
+    "Совет старейшин (Ältestenrat)",
+    "Фракция (Fraktion)",
+    "Оппозиция (Opposition)"
+   ]
+  }
+ },
+ "g90": {
+  "en": {
+   "q": "The German federal states participate in federal legislation through …",
+   "o": [
+    "the Bundesrat.",
+    "the Federal Convention (Bundesversammlung).",
+    "the Bundestag.",
+    "the Federal Government."
+   ]
+  },
+  "ru": {
+   "q": "Федеральные земли Германии участвуют в федеральном законотворчестве через …",
+   "o": [
+    "бундесрат (Bundesrat).",
+    "Федеральное собрание (Bundesversammlung).",
+    "бундестаг (Bundestag).",
+    "федеральное правительство."
+   ]
+  }
+ },
+ "g91": {
+  "en": {
+   "q": "In Germany, a change of government in a federal state can have an impact on federal politics. Governing becomes …",
+   "o": [
+    "more difficult if this changes the majority in the Bundestag.",
+    "easier if this brings new parties into the Bundesrat.",
+    "more difficult if this changes the majority in the Bundesrat.",
+    "easier if it is a wealthy federal state."
+   ]
+  },
+  "ru": {
+   "q": "В Германии смена правительства в федеральной земле может повлиять на федеральную политику. Управлять становится …",
+   "o": [
+    "сложнее, если в результате меняется большинство в бундестаге (Bundestag).",
+    "легче, если в результате в бундесрат (Bundesrat) приходят новые партии.",
+    "сложнее, если в результате меняется большинство в бундесрате (Bundesrat).",
+    "легче, если речь идёт о богатой федеральной земле."
+   ]
+  }
+ },
+ "g92": {
+  "en": {
+   "q": "What does the abbreviation CSU stand for in Germany?",
+   "o": [
+    "Christian Safe Union",
+    "Christian South German Union",
+    "Christian Social Entrepreneurs' Association",
+    "Christian Social Union"
+   ]
+  },
+  "ru": {
+   "q": "Что означает аббревиатура CSU в Германии?",
+   "o": [
+    "Христианский безопасный союз",
+    "Христианский южногерманский союз",
+    "Христианско-социальная ассоциация предпринимателей",
+    "Христианско-социальный союз"
+   ]
+  }
+ },
+ "g93": {
+  "en": {
+   "q": "The more “second votes” (Zweitstimmen) a party receives in a federal election (Bundestagswahl), the …",
+   "o": [
+    "fewer first votes (Erststimmen) it can have.",
+    "more of the party's direct candidates (Direktkandidaten) enter parliament.",
+    "greater the risk of having to form a coalition.",
+    "more seats the party receives in parliament."
+   ]
+  },
+  "ru": {
+   "q": "Чем больше «вторых голосов» (Zweitstimmen) партия получает на выборах в бундестаг (Bundestagswahl), тем …",
+   "o": [
+    "меньше «первых голосов» (Erststimmen) у неё может быть.",
+    "больше прямых кандидатов (Direktkandidaten) партии проходит в парламент.",
+    "выше риск того, что придётся формировать коалицию.",
+    "больше мест партия получает в парламенте."
+   ]
+  }
+ },
+ "g94": {
+  "en": {
+   "q": "From what age are you allowed to take part in elections to the German Bundestag?",
+   "o": [
+    "16",
+    "18",
+    "21",
+    "23"
+   ]
+  },
+  "ru": {
+   "q": "С какого возраста в Германии можно участвовать в выборах в бундестаг (Bundestag)?",
+   "o": [
+    "16",
+    "18",
+    "21",
+    "23"
+   ]
+  }
+ },
+ "g95": {
+  "en": {
+   "q": "What applies to most children in Germany?",
+   "o": [
+    "Compulsory voting",
+    "Compulsory schooling",
+    "Duty of confidentiality",
+    "Compulsory religion"
+   ]
+  },
+  "ru": {
+   "q": "Что распространяется на большинство детей в Германии?",
+   "o": [
+    "Обязательное участие в выборах",
+    "Обязательное школьное обучение",
+    "Обязанность хранить тайну",
+    "Обязательная религия"
+   ]
+  }
+ },
+ "g96": {
+  "en": {
+   "q": "How can someone who denies the Holocaust be punished?",
+   "o": [
+    "reduction of social benefits",
+    "up to 100 hours of community service",
+    "not at all, Holocaust denial is allowed",
+    "with imprisonment of up to five years or a fine"
+   ]
+  },
+  "ru": {
+   "q": "Как может быть наказан человек, отрицающий Холокост?",
+   "o": [
+    "сокращением социальных выплат",
+    "общественными работами до 100 часов",
+    "никак, отрицание Холокоста разрешено",
+    "лишением свободы на срок до пяти лет или денежным штрафом"
+   ]
+  }
+ },
+ "g97": {
+  "en": {
+   "q": "What do you pay automatically in Germany if you are permanently employed?",
+   "o": [
+    "Social insurance (Sozialversicherung)",
+    "Social assistance (Sozialhilfe)",
+    "Child benefit (Kindergeld)",
+    "Housing benefit (Wohngeld)"
+   ]
+  },
+  "ru": {
+   "q": "Что человек в Германии автоматически платит, если у него постоянная работа по найму?",
+   "o": [
+    "Социальное страхование (Sozialversicherung)",
+    "Социальная помощь (Sozialhilfe)",
+    "Детское пособие (Kindergeld)",
+    "Пособие на жильё (Wohngeld)"
+   ]
+  }
+ },
+ "g98": {
+  "en": {
+   "q": "If members of the German Bundestag switch their parliamentary group (Fraktion), …",
+   "o": [
+    "they may no longer take part in the sessions of parliament.",
+    "the government can lose its majority.",
+    "the Federal President (Bundespräsident) must give his or her consent beforehand.",
+    "the voters of these members may vote again."
+   ]
+  },
+  "ru": {
+   "q": "Если депутаты бундестага (Bundestag) Германии меняют фракцию (Fraktion), …",
+   "o": [
+    "они больше не могут участвовать в заседаниях парламента.",
+    "правительство может потерять большинство.",
+    "федеральный президент (Bundespräsident) должен заранее дать своё согласие.",
+    "избиратели этих депутатов могут проголосовать ещё раз."
+   ]
+  }
+ },
+ "g99": {
+  "en": {
+   "q": "Who pays for social insurance in Germany?",
+   "o": [
+    "employers and employees",
+    "only employees",
+    "all citizens",
+    "only employers"
+   ]
+  },
+  "ru": {
+   "q": "Кто в Германии платит за социальное страхование?",
+   "o": [
+    "работодатели и работники",
+    "только работники",
+    "все граждане",
+    "только работодатели"
+   ]
+  }
+ },
+ "g100": {
+  "en": {
+   "q": "What is not part of statutory social insurance?",
+   "o": [
+    "life insurance",
+    "statutory pension insurance",
+    "unemployment insurance",
+    "long-term care insurance (Pflegeversicherung)"
+   ]
+  },
+  "ru": {
+   "q": "Что не относится к обязательному социальному страхованию?",
+   "o": [
+    "страхование жизни",
+    "обязательное пенсионное страхование",
+    "страхование по безработице",
+    "страхование по уходу (Pflegeversicherung)"
+   ]
+  }
+ }
+}

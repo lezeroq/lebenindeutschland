@@ -1,0 +1,301 @@
+[
+ {
+  "num": 1,
+  "answers": [
+   {
+    "text": "hier Religionsfreiheit gilt.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen Steuern zahlen.",
+    "correct": false
+   },
+   {
+    "text": "die Menschen das Wahlrecht haben.",
+    "correct": false
+   },
+   {
+    "text": "hier Meinungsfreiheit gilt.",
+    "correct": true
+   }
+  ],
+  "note": "ET5024a_Meinungsfreiheit",
+  "id": "17412"
+ },
+ {
+  "num": 130,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5700b_Erststimme_Wahlen",
+  "id": "17617"
+ },
+ {
+  "num": 300,
+  "answers": [
+   {
+    "text": "Italien",
+    "correct": true
+   },
+   {
+    "text": "Spanien",
+    "correct": false
+   },
+   {
+    "text": "Portugal",
+    "correct": false
+   },
+   {
+    "text": "Türkei",
+    "correct": false
+   }
+  ],
+  "note": "ET5009a_Erste_Gastarbeiter",
+  "id": "17288"
+ },
+ {
+  "num": 301,
+  "answers": [
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": true
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET2044a_Bremen_Wappen",
+  "id": "17368"
+ },
+ {
+  "num": 302,
+  "answers": [
+   {
+    "text": "Altona",
+    "correct": false
+   },
+   {
+    "text": "Hemelingen",
+    "correct": true
+   },
+   {
+    "text": "Pankow",
+    "correct": false
+   },
+   {
+    "text": "Babelsberg",
+    "correct": false
+   }
+  ],
+  "note": "ET3096i_Stadtteil_Bremen",
+  "id": "17420"
+ },
+ {
+  "num": 303,
+  "answers": [
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": true
+   },
+   {
+    "text": "5",
+    "correct": false
+   },
+   {
+    "text": "6",
+    "correct": false
+   }
+  ],
+  "note": "ET3097e_Wahlperiode_Landtag_Bremen",
+  "id": "17493"
+ },
+ {
+  "num": 304,
+  "answers": [
+   {
+    "text": "14",
+    "correct": false
+   },
+   {
+    "text": "16",
+    "correct": true
+   },
+   {
+    "text": "18",
+    "correct": false
+   },
+   {
+    "text": "20",
+    "correct": false
+   }
+  ],
+  "note": "ET3099d_Alter_Kommunalwahlen_Bremen",
+  "id": "17443"
+ },
+ {
+  "num": 305,
+  "answers": [
+   {
+    "text": "blau-weiß-rot",
+    "correct": false
+   },
+   {
+    "text": "rot-weiß",
+    "correct": true
+   },
+   {
+    "text": "grün-weiß-rot",
+    "correct": false
+   },
+   {
+    "text": "schwarz-gold",
+    "correct": false
+   }
+  ],
+  "note": "ET4081e_Flagge_Bremen",
+  "id": "17325"
+ },
+ {
+  "num": 306,
+  "answers": [
+   {
+    "text": "beim Ordnungsamt der Gemeinde",
+    "correct": false
+   },
+   {
+    "text": "bei der Landeszentrale für politische Bildung",
+    "correct": true
+   },
+   {
+    "text": "bei den Kirchen",
+    "correct": false
+   },
+   {
+    "text": "bei der Verbraucherzentrale",
+    "correct": false
+   }
+  ],
+  "note": "ET4082e_lpb_Bremen",
+  "id": "17542"
+ },
+ {
+  "num": 307,
+  "answers": [
+   {
+    "text": "Bremen",
+    "correct": true
+   },
+   {
+    "text": "München",
+    "correct": false
+   },
+   {
+    "text": "Frankfurt",
+    "correct": false
+   },
+   {
+    "text": "Erfurt",
+    "correct": false
+   }
+  ],
+  "note": "ET3060a_Stadtstaat_Bremen",
+  "id": "17513"
+ },
+ {
+  "num": 308,
+  "answers": [
+   {
+    "text": "1",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   },
+   {
+    "text": "4",
+    "correct": false
+   }
+  ],
+  "note": "ET5102a_BL_Bremen_Karte",
+  "id": "17558"
+ },
+ {
+  "num": 309,
+  "answers": [
+   {
+    "text": "Ministerpräsident/ Ministerpräsidentin",
+    "correct": false
+   },
+   {
+    "text": "Erster Bürgermeister/ Erste Bürgermeisterin",
+    "correct": false
+   },
+   {
+    "text": "Präsident/ Präsidentin des Senats",
+    "correct": true
+   },
+   {
+    "text": "Regierender Bürgermeister/ Regierende Bürgermeisterin",
+    "correct": false
+   }
+  ],
+  "note": "ET5064a_Bremen_Bgm",
+  "id": "17435"
+ },
+ {
+  "num": 310,
+  "answers": [
+   {
+    "text": "Senator / Senatorin für Außenbeziehungen",
+    "correct": true
+   },
+   {
+    "text": "Finanzsenator / Finanzsenatorin",
+    "correct": false
+   },
+   {
+    "text": "Justizsenator / Justizsenatorin",
+    "correct": false
+   },
+   {
+    "text": "Innensenator / Innensenatorin",
+    "correct": false
+   }
+  ],
+  "note": "ET5099b_Bremen_Minister",
+  "id": "17251"
+ }
+]

@@ -1,0 +1,722 @@
+{
+ "BW1": {
+  "q": "Welches Wappen gehört zum Bundesland Baden-Württemberg?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "BW2": {
+  "q": "Welches ist ein Landkreis in Baden-Württemberg?",
+  "o": [
+   "Mecklenburgische Seenplatte",
+   "Neckar-Odenwald-Kreis",
+   "Nordfriesland",
+   "Altötting"
+  ]
+ },
+ "BW3": {
+  "q": "Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "BW4": {
+  "q": "Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?",
+  "o": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ]
+ },
+ "BW5": {
+  "q": "Welche Farben hat die Landesflagge von Baden-Württemberg?",
+  "o": [
+   "blau-weiß-rot",
+   "schwarz-gold",
+   "weiß-blau",
+   "grün-weiß-rot"
+  ]
+ },
+ "BW6": {
+  "q": "Wo können Sie sich in Baden-Württemberg über politische Themen informieren?",
+  "o": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale",
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen"
+  ]
+ },
+ "BW7": {
+  "q": "Die Landeshauptstadt von Baden-Württemberg heißt …",
+  "o": [
+   "Heidelberg.",
+   "Stuttgart.",
+   "Karlsruhe.",
+   "Mannheim."
+  ]
+ },
+ "BW8": {
+  "q": "Welches Bundesland ist Baden-Württemberg?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "BW9": {
+  "q": "Wie nennt man die Regierungschefin/den Regierungschef in Baden-Württemberg?",
+  "o": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ]
+ },
+ "BW10": {
+  "q": "Welche Ministerin/welchen Minister hat Baden-Württemberg nicht?",
+  "o": [
+   "Finanzministerin/Finanzminister",
+   "Justizministerin/Justizminister",
+   "Innenministerin/Innenminister",
+   "Außenministerin/Außenminister"
+  ]
+ },
+ "BY1": {
+  "q": "Welches Wappen gehört zum Freistaat Bayern?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "BY2": {
+  "q": "Welches ist ein Landkreis in Bayern?",
+  "o": [
+   "Prignitz",
+   "Rhein-Sieg-Kreis",
+   "Nordfriesland",
+   "Altötting"
+  ]
+ },
+ "BY3": {
+  "q": "Für wie viele Jahre wird der Landtag in Bayern gewählt?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "BY4": {
+  "q": "Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?",
+  "o": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ]
+ },
+ "BY5": {
+  "q": "Welche Farben hat die Landesflagge von Bayern?",
+  "o": [
+   "blau-weiß-rot",
+   "weiß-blau",
+   "grün-weiß-rot",
+   "schwarz-gelb"
+  ]
+ },
+ "BY6": {
+  "q": "Wo können Sie sich in Bayern über politische Themen informieren?",
+  "o": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale",
+   "bei den Kirchen"
+  ]
+ },
+ "BY7": {
+  "q": "Die Landeshauptstadt von Bayern heißt …",
+  "o": [
+   "Ingolstadt.",
+   "Regensburg.",
+   "Nürnberg.",
+   "München."
+  ]
+ },
+ "BY8": {
+  "q": "Welches Bundesland ist Bayern?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "BY9": {
+  "q": "Wie nennt man die Regierungschefin/den Regierungschef in Bayern?",
+  "o": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ]
+ },
+ "BY10": {
+  "q": "Welche Ministerin/welchen Minister hat Bayern nicht?",
+  "o": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ]
+ },
+ "BE1": {
+  "q": "Welches Wappen gehört zum Bundesland Berlin?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "BE2": {
+  "q": "Welches ist ein Bezirk von Berlin?",
+  "o": [
+   "Altona",
+   "Prignitz",
+   "Pankow",
+   "Mecklenburgische Seenplatte"
+  ]
+ },
+ "BE3": {
+  "q": "Für wie viele Jahre wird das Landesparlament in Berlin gewählt?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "BE4": {
+  "q": "Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?",
+  "o": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ]
+ },
+ "BE5": {
+  "q": "Welche Farben hat die Landesflagge von Berlin?",
+  "o": [
+   "blau-weiß-rot",
+   "weiß-rot",
+   "grün-weiß-rot",
+   "schwarz-gold"
+  ]
+ },
+ "BE6": {
+  "q": "Wo können Sie sich in Berlin über politische Themen informieren?",
+  "o": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei den Kirchen",
+   "bei der Verbraucherzentrale",
+   "bei der Landeszentrale für politische Bildung"
+  ]
+ },
+ "BE7": {
+  "q": "Welches Bundesland ist ein Stadtstaat?",
+  "o": [
+   "Berlin",
+   "Saarland",
+   "Brandenburg",
+   "Hessen"
+  ]
+ },
+ "BE8": {
+  "q": "Welches Bundesland ist Berlin?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "BE9": {
+  "q": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Berlin?",
+  "o": [
+   "Ministerpräsidentin/Ministerpräsident",
+   "Oberbürgermeisterin/Oberbürgermeister",
+   "Präsidentin/Präsident des Senates",
+   "Regierende Bürgermeisterin/Regierender Bürgermeister"
+  ]
+ },
+ "BE10": {
+  "q": "Welche Senatorin/welchen Senator hat Berlin nicht?",
+  "o": [
+   "Finanzsenatorin/Finanzsenator",
+   "Innensenatorin/Innensenator",
+   "Senatorin/Senator für Außenbeziehungen",
+   "Justizsenatorin/Justizsenator"
+  ]
+ },
+ "BB1": {
+  "q": "Welches Wappen gehört zum Bundesland Brandenburg?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "BB2": {
+  "q": "Welches ist ein Landkreis in Brandenburg?",
+  "o": [
+   "Prignitz",
+   "Rhein-Sieg-Kreis",
+   "Vogtlandkreis",
+   "Amberg-Sulzbach"
+  ]
+ },
+ "BB3": {
+  "q": "Für wie viele Jahre wird der Landtag in Brandenburg gewählt?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "BB4": {
+  "q": "Ab welchem Alter darf man in Brandenburg bei Kommunalwahlen wählen?",
+  "o": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ]
+ },
+ "BB5": {
+  "q": "Welche Farben hat die Landesflagge von Brandenburg?",
+  "o": [
+   "blau-weiß-rot",
+   "rot-weiß",
+   "grün-weiß-rot",
+   "schwarz-gelb"
+  ]
+ },
+ "BB6": {
+  "q": "Wo können Sie sich in Brandenburg über politische Themen informieren?",
+  "o": [
+   "bei den Kirchen",
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale"
+  ]
+ },
+ "BB7": {
+  "q": "Die Landeshauptstadt von Brandenburg heißt …",
+  "o": [
+   "Potsdam.",
+   "Cottbus.",
+   "Brandenburg.",
+   "Frankfurt/Oder."
+  ]
+ },
+ "BB8": {
+  "q": "Welches Bundesland ist Brandenburg?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "BB9": {
+  "q": "Wie nennt man die Regierungschefin/den Regierungschef in Brandenburg?",
+  "o": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ]
+ },
+ "BB10": {
+  "q": "Welche Ministerin/welchen Minister hat Brandenburg nicht?",
+  "o": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ]
+ },
+ "HB1": {
+  "q": "Welches Wappen gehört zur Freien Hansestadt Bremen?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "HB2": {
+  "q": "Welches ist ein Stadtteil von Bremen?",
+  "o": [
+   "Altona",
+   "Hemelingen",
+   "Pankow",
+   "Babelsberg"
+  ]
+ },
+ "HB3": {
+  "q": "Für wie viele Jahre wird das Landesparlament in Bremen gewählt?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "HB4": {
+  "q": "Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?",
+  "o": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ]
+ },
+ "HB5": {
+  "q": "Welche Farben hat die Landesflagge von Bremen?",
+  "o": [
+   "blau-weiß-rot",
+   "rot-weiß",
+   "grün-weiß-rot",
+   "schwarz-gold"
+  ]
+ },
+ "HB6": {
+  "q": "Wo können Sie sich in Bremen über politische Themen informieren?",
+  "o": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen",
+   "bei der Verbraucherzentrale"
+  ]
+ },
+ "HB7": {
+  "q": "Was ist ein deutscher Stadtstaat?",
+  "o": [
+   "Bremen",
+   "München",
+   "Frankfurt",
+   "Erfurt"
+  ]
+ },
+ "HB8": {
+  "q": "Welches Bundesland ist Bremen?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "HB9": {
+  "q": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Bremen?",
+  "o": [
+   "Ministerpräsidentin/Ministerpräsident",
+   "Erste Bürgermeisterin/Erster Bürgermeister",
+   "Präsidentin/Präsident des Senates",
+   "Regierende Bürgermeisterin/Regierender Bürgermeister"
+  ]
+ },
+ "HB10": {
+  "q": "Welche Senatorin/welchen Senator hat Bremen nicht?",
+  "o": [
+   "Senatorin/Senator für Außenbeziehungen",
+   "Finanzsenatorin/Finanzsenator",
+   "Justizsenatorin/Justizsenator",
+   "Innensenatorin/Innensenator"
+  ]
+ },
+ "HH1": {
+  "q": "Welches Wappen gehört zur Freien und Hansestadt Hamburg?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "HH2": {
+  "q": "Welches ist ein Bezirk von Hamburg?",
+  "o": [
+   "Altona",
+   "Hemelingen",
+   "Pankow",
+   "Mecklenburgische Seenplatte"
+  ]
+ },
+ "HH3": {
+  "q": "Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "HH4": {
+  "q": "Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?",
+  "o": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ]
+ },
+ "HH5": {
+  "q": "Welche Farben hat die Landesflagge von Hamburg?",
+  "o": [
+   "blau-weiß-rot",
+   "weiß-rot",
+   "grün-weiß-rot",
+   "schwarz-gelb"
+  ]
+ },
+ "HH6": {
+  "q": "Wo können Sie sich in Hamburg über politische Themen informieren?",
+  "o": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale",
+   "bei den Kirchen",
+   "bei der Landeszentrale für politische Bildung"
+  ]
+ },
+ "HH7": {
+  "q": "Welches Bundesland ist ein Stadtstaat?",
+  "o": [
+   "Hamburg",
+   "Sachsen",
+   "Bayern",
+   "Thüringen"
+  ]
+ },
+ "HH8": {
+  "q": "Welches Bundesland ist Hamburg?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "HH9": {
+  "q": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Hamburg?",
+  "o": [
+   "Ministerpräsidentin/Ministerpräsident",
+   "Erste Bürgermeisterin/Erster Bürgermeister",
+   "Regierende Senatorin/Regierender Senator",
+   "Oberbürgermeisterin/Oberbürgermeister"
+  ]
+ },
+ "HH10": {
+  "q": "Welche Senatorin/welchen Senator hat Hamburg nicht?",
+  "o": [
+   "Justizsenatorin/Justizsenator",
+   "Senatorin/Senator für Außenbeziehungen",
+   "Finanzsenatorin/Finanzsenator",
+   "Innensenatorin/Innensenator"
+  ]
+ },
+ "HE1": {
+  "q": "Welches Wappen gehört zum Bundesland Hessen?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "HE2": {
+  "q": "Welches ist ein Landkreis in Hessen?",
+  "o": [
+   "Ammerland",
+   "Altötting",
+   "Prignitz",
+   "Main-Taunus-Kreis"
+  ]
+ },
+ "HE3": {
+  "q": "Für wie viele Jahre wird der Landtag in Hessen gewählt?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "HE4": {
+  "q": "Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?",
+  "o": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ]
+ },
+ "HE5": {
+  "q": "Welche Farben hat die Landesflagge von Hessen?",
+  "o": [
+   "blau-weiß-rot",
+   "rot-weiß",
+   "schwarz-gold",
+   "grün-weiß-rot"
+  ]
+ },
+ "HE6": {
+  "q": "Wo können Sie sich in Hessen über politische Themen informieren?",
+  "o": [
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale",
+   "beim Ordnungsamt der Gemeinde",
+   "bei den Kirchen"
+  ]
+ },
+ "HE7": {
+  "q": "Die Landeshauptstadt von Hessen heißt …",
+  "o": [
+   "Kassel.",
+   "Darmstadt.",
+   "Frankfurt.",
+   "Wiesbaden."
+  ]
+ },
+ "HE8": {
+  "q": "Welches Bundesland ist Hessen?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "HE9": {
+  "q": "Wie nennt man die Regierungschefin/den Regierungschef in Hessen?",
+  "o": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ]
+ },
+ "HE10": {
+  "q": "Welche Ministerin/welchen Minister hat Hessen nicht?",
+  "o": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ]
+ },
+ "MV1": {
+  "q": "Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?",
+  "o": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ]
+ },
+ "MV2": {
+  "q": "Welches ist ein Landkreis in Mecklenburg-Vorpommern?",
+  "o": [
+   "Prignitz",
+   "Mecklenburgische Seenplatte",
+   "Vogtlandkreis",
+   "Rhein-Sieg-Kreis"
+  ]
+ },
+ "MV3": {
+  "q": "Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "MV4": {
+  "q": "Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?",
+  "o": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ]
+ },
+ "MV5": {
+  "q": "Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?",
+  "o": [
+   "schwarz-rot-gold",
+   "blau-weiß-gelb-rot",
+   "grün-weiß-rot",
+   "schwarz-gelb"
+  ]
+ },
+ "MV6": {
+  "q": "Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?",
+  "o": [
+   "bei der Landeszentrale für politische Bildung",
+   "bei den Kirchen",
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale"
+  ]
+ },
+ "MV7": {
+  "q": "Die Landeshauptstadt von Mecklenburg-Vorpommern heißt …",
+  "o": [
+   "Greifswald.",
+   "Schwerin.",
+   "Rostock.",
+   "Wismar."
+  ]
+ },
+ "MV8": {
+  "q": "Welches Bundesland ist Mecklenburg-Vorpommern?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "MV9": {
+  "q": "Wie nennt man die Regierungschefin/den Regierungschef in Mecklenburg-Vorpommern?",
+  "o": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ]
+ },
+ "MV10": {
+  "q": "Welche Ministerin/welchen Minister hat Mecklenburg-Vorpommern nicht?",
+  "o": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ]
+ }
+}

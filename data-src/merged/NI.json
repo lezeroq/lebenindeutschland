@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Niedersachsen",
+  "num": 1,
+  "page": 152,
+  "question": "Welches Wappen gehört zum Bundesland Niedersachsen?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 2,
+  "web_correct_text": "3",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2048a_Niedersachsen_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Niedersachsen",
+  "num": 2,
+  "page": 152,
+  "question": "Welches ist ein Landkreis in Niedersachsen?",
+  "credit": "",
+  "options": [
+   "Ammerland",
+   "Rhein-Sieg-Kreis",
+   "Nordfriesland",
+   "Vogtlandkreis"
+  ],
+  "correct": 0,
+  "web_correct_text": "Ammerland",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.545,
+  "web_options": [
+   "Ammerland",
+   "Rhein-Sieg-Kreis",
+   "Nordfriesland",
+   "Vogtlandkreis"
+  ],
+  "note": "ET3096e_Landkreis_Niedersachsen"
+ },
+ {
+  "n": 303,
+  "section": "Niedersachsen",
+  "num": 3,
+  "page": 153,
+  "question": "Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "web_correct_text": "5",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097i_Wahlperiode_Landtag_Niedersachsen"
+ },
+ {
+  "n": 304,
+  "section": "Niedersachsen",
+  "num": 4,
+  "page": 153,
+  "question": "Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 1,
+  "web_correct_text": "16",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099g_Alter_Kommunalwahlen_Niedersachsen"
+ },
+ {
+  "n": 305,
+  "section": "Niedersachsen",
+  "num": 5,
+  "page": 153,
+  "question": "Welche Farben hat die Landesflagge von Niedersachsen?",
+  "credit": "",
+  "options": [
+   "weiß-blau",
+   "schwarz-rot-gold",
+   "schwarz-gelb",
+   "blau-weiß-rot"
+  ],
+  "correct": 1,
+  "web_correct_text": "schwarz-rot-gold",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.286,
+  "web_options": [
+   "weiß-blau",
+   "schwarz-rot-gold",
+   "schwarz-gelb",
+   "blau-weiß-rot"
+  ],
+  "note": "ET4081i_Flagge_Niedersachsen"
+ },
+ {
+  "n": 306,
+  "section": "Niedersachsen",
+  "num": 6,
+  "page": 154,
+  "question": "Wo können Sie sich in Niedersachsen über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "bei der Landeszentrale für politische Bildung",
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale",
+   "bei den Kirchen"
+  ],
+  "correct": 0,
+  "web_correct_text": "bei der Landeszentrale für politische Bildung",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.472,
+  "web_options": [
+   "bei der Landeszentrale für politische Bildung",
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Verbraucherzentrale",
+   "bei den Kirchen"
+  ],
+  "note": "ET4082i_lpb_Niedersachsen"
+ },
+ {
+  "n": 307,
+  "section": "Niedersachsen",
+  "num": 7,
+  "page": 154,
+  "question": "Die Landeshauptstadt von Niedersachsen heißt …",
+  "credit": "",
+  "options": [
+   "Hannover.",
+   "Braunschweig.",
+   "Wolfsburg.",
+   "Osnabrück."
+  ],
+  "correct": 0,
+  "web_correct_text": "Hannover.",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.765,
+  "web_options": [
+   "Hannover.",
+   "Braunschweig.",
+   "Wolfsburg.",
+   "Osnabrück."
+  ],
+  "note": "ET5049a_Hannover_Hauptstadt"
+ },
+ {
+  "n": 308,
+  "section": "Niedersachsen",
+  "num": 8,
+  "page": 155,
+  "question": "Welches Bundesland ist Niedersachsen?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 0,
+  "web_correct_text": "1",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5077a_BL_Niedersachsen_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Niedersachsen",
+  "num": 9,
+  "page": 156,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef in Niedersachsen?",
+  "credit": "",
+  "options": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ],
+  "correct": 3,
+  "web_correct_text": "Ministerpräsident/ Ministerpräsidentin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.371,
+  "web_options": [
+   "Erster Minister/ Erste Ministerin",
+   "Premierminister/ Premierministerin",
+   "Bürgermeister/ Bürgermeisterin",
+   "Ministerpräsident/ Ministerpräsidentin"
+  ],
+  "note": "ET5086a_Regierungschef_Niedersachsen"
+ },
+ {
+  "n": 310,
+  "section": "Niedersachsen",
+  "num": 10,
+  "page": 156,
+  "question": "Welche Ministerin/welchen Minister hat Niedersachsen nicht?",
+  "credit": "",
+  "options": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ],
+  "correct": 1,
+  "web_correct_text": "Außenminister/ Außenministerin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.207,
+  "web_options": [
+   "Justizminister/ Justizministerin",
+   "Außenminister/ Außenministerin",
+   "Finanzminister/ Finanzministerin",
+   "Innenminister/ Innenministerin"
+  ],
+  "note": "ET5099k_Niedersachsen_Minister"
+ }
+]

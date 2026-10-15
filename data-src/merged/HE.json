@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Hessen",
+  "num": 1,
+  "page": 142,
+  "question": "Welches Wappen gehört zum Bundesland Hessen?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 0,
+  "web_correct_text": "1",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2046a_Hessen_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Hessen",
+  "num": 2,
+  "page": 142,
+  "question": "Welches ist ein Landkreis in Hessen?",
+  "credit": "",
+  "options": [
+   "Ammerland",
+   "Altötting",
+   "Prignitz",
+   "Main-Taunus-Kreis"
+  ],
+  "correct": 3,
+  "web_correct_text": "Main-Taunus-Kreis",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.68,
+  "web_options": [
+   "Ammerland",
+   "Altötting",
+   "Prignitz",
+   "Main-Taunus-Kreis"
+  ],
+  "note": "ET3096k_Landkreis_Hessen"
+ },
+ {
+  "n": 303,
+  "section": "Hessen",
+  "num": 3,
+  "page": 143,
+  "question": "Für wie viele Jahre wird der Landtag in Hessen gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "web_correct_text": "5",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097g_Wahlperiode_Landtag_Hessen"
+ },
+ {
+  "n": 304,
+  "section": "Hessen",
+  "num": 4,
+  "page": 143,
+  "question": "Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 2,
+  "web_correct_text": "18",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099e_Alter_Kommunalwahlen_Hessen"
+ },
+ {
+  "n": 305,
+  "section": "Hessen",
+  "num": 5,
+  "page": 143,
+  "question": "Welche Farben hat die Landesflagge von Hessen?",
+  "credit": "",
+  "options": [
+   "blau-weiß-rot",
+   "rot-weiß",
+   "schwarz-gold",
+   "grün-weiß-rot"
+  ],
+  "correct": 1,
+  "web_correct_text": "rot-weiß",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.238,
+  "web_options": [
+   "blau-weiß-rot",
+   "rot-weiß",
+   "schwarz-gold",
+   "grün-weiß-rot"
+  ],
+  "note": "ET4081g_Flagge_Hessen"
+ },
+ {
+  "n": 306,
+  "section": "Hessen",
+  "num": 6,
+  "page": 144,
+  "question": "Wo können Sie sich in Hessen über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale",
+   "beim Ordnungsamt der Gemeinde",
+   "bei den Kirchen"
+  ],
+  "correct": 0,
+  "web_correct_text": "bei der Landeszentrale für politische Bildung",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.472,
+  "web_options": [
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale",
+   "beim Ordnungsamt der Gemeinde",
+   "bei den Kirchen"
+  ],
+  "note": "ET4082g_lpb_Hessen"
+ },
+ {
+  "n": 307,
+  "section": "Hessen",
+  "num": 7,
+  "page": 144,
+  "question": "Die Landeshauptstadt von Hessen heißt …",
+  "credit": "",
+  "options": [
+   "Kassel.",
+   "Darmstadt.",
+   "Frankfurt.",
+   "Wiesbaden."
+  ],
+  "correct": 3,
+  "web_correct_text": "Wiesbaden.",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.667,
+  "web_options": [
+   "Kassel.",
+   "Darmstadt.",
+   "Frankfurt.",
+   "Wiesbaden."
+  ],
+  "note": "ET5052a_Wiesbaden_Hauptstadt"
+ },
+ {
+  "n": 308,
+  "section": "Hessen",
+  "num": 8,
+  "page": 145,
+  "question": "Welches Bundesland ist Hessen?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 2,
+  "web_correct_text": "3",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5071a_BL_Hessen_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Hessen",
+  "num": 9,
+  "page": 146,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef in Hessen?",
+  "credit": "",
+  "options": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ],
+  "correct": 3,
+  "web_correct_text": "Ministerpräsident/ Ministerpräsidentin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.371,
+  "web_options": [
+   "Erster Minister/ Erste Ministerin",
+   "Premierminister/ Premierministerin",
+   "Bürgermeister/ Bürgermeisterin",
+   "Ministerpräsident/ Ministerpräsidentin"
+  ],
+  "note": "ET5091a_Regierungschef_Hessen"
+ },
+ {
+  "n": 310,
+  "section": "Hessen",
+  "num": 10,
+  "page": 146,
+  "question": "Welche Ministerin/welchen Minister hat Hessen nicht?",
+  "credit": "",
+  "options": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ],
+  "correct": 1,
+  "web_correct_text": "Außenminister/ Außenministerin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.207,
+  "web_options": [
+   "Justizminister/ Justizministerin",
+   "Außenminister/ Außenministerin",
+   "Finanzminister/ Finanzministerin",
+   "Innenminister/ Innenministerin"
+  ],
+  "note": "ET5099o_Hessen_Minister"
+ }
+]

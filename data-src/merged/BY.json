@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Bayern",
+  "num": 1,
+  "page": 117,
+  "question": "Welches Wappen gehört zum Freistaat Bayern?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 1,
+  "web_correct_text": "2",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2041a_Bayern_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Bayern",
+  "num": 2,
+  "page": 117,
+  "question": "Welches ist ein Landkreis in Bayern?",
+  "credit": "",
+  "options": [
+   "Prignitz",
+   "Rhein-Sieg-Kreis",
+   "Nordfriesland",
+   "Altötting"
+  ],
+  "correct": 3,
+  "web_correct_text": "Altötting",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.76,
+  "web_options": [
+   "Prignitz",
+   "Rhein-Sieg-Kreis",
+   "Nordfriesland",
+   "Altötting"
+  ],
+  "note": "ET3096f_Regierungsbezirk_Bayern"
+ },
+ {
+  "n": 303,
+  "section": "Bayern",
+  "num": 3,
+  "page": 118,
+  "question": "Für wie viele Jahre wird der Landtag in Bayern gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "web_correct_text": "5",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097b_Wahlperiode_Landtag_Bayern"
+ },
+ {
+  "n": 304,
+  "section": "Bayern",
+  "num": 4,
+  "page": 118,
+  "question": "Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 2,
+  "web_correct_text": "18",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099b_Alter_Kommunalwahlen_Bayern"
+ },
+ {
+  "n": 305,
+  "section": "Bayern",
+  "num": 5,
+  "page": 118,
+  "question": "Welche Farben hat die Landesflagge von Bayern?",
+  "credit": "",
+  "options": [
+   "blau-weiß-rot",
+   "weiß-blau",
+   "grün-weiß-rot",
+   "schwarz-gelb"
+  ],
+  "correct": 1,
+  "web_correct_text": "weiß-blau",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.182,
+  "web_options": [
+   "blau-weiß-rot",
+   "weiß-blau",
+   "grün-weiß-rot",
+   "schwarz-gelb"
+  ],
+  "note": "ET4081b_Flagge_Bayern"
+ },
+ {
+  "n": 306,
+  "section": "Bayern",
+  "num": 6,
+  "page": 119,
+  "question": "Wo können Sie sich in Bayern über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale",
+   "bei den Kirchen"
+  ],
+  "correct": 1,
+  "web_correct_text": "bei der Landeszentrale für politische Bildung",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.472,
+  "web_options": [
+   "beim Ordnungsamt der Gemeinde",
+   "bei der Landeszentrale für politische Bildung",
+   "bei der Verbraucherzentrale",
+   "bei den Kirchen"
+  ],
+  "note": "ET4082b_lpb_Bayern"
+ },
+ {
+  "n": 307,
+  "section": "Bayern",
+  "num": 7,
+  "page": 119,
+  "question": "Die Landeshauptstadt von Bayern heißt …",
+  "credit": "",
+  "options": [
+   "Ingolstadt.",
+   "Regensburg.",
+   "Nürnberg.",
+   "München."
+  ],
+  "correct": 3,
+  "web_correct_text": "München.",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.6,
+  "web_options": [
+   "Ingolstadt.",
+   "Regensburg.",
+   "Nürnberg.",
+   "München."
+  ],
+  "note": "ET5046a_Muenchen_Hauptstadt"
+ },
+ {
+  "n": 308,
+  "section": "Bayern",
+  "num": 8,
+  "page": 120,
+  "question": "Welches Bundesland ist Bayern?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 3,
+  "web_correct_text": "4",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5074a_BL_Bayern_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Bayern",
+  "num": 9,
+  "page": 121,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef in Bayern?",
+  "credit": "",
+  "options": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ],
+  "correct": 3,
+  "web_correct_text": "Ministerpräsident/ Ministerpräsidentin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.371,
+  "web_options": [
+   "Erster Minister/ Erste Ministerin",
+   "Premierminister/ Premierministerin",
+   "Bürgermeister/ Bürgermeisterin",
+   "Ministerpräsident/ Ministerpräsidentin"
+  ],
+  "note": "ET5088a_Regierungschef_Bayern"
+ },
+ {
+  "n": 310,
+  "section": "Bayern",
+  "num": 10,
+  "page": 121,
+  "question": "Welche Ministerin/welchen Minister hat Bayern nicht?",
+  "credit": "",
+  "options": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ],
+  "correct": 1,
+  "web_correct_text": "Außenminister/ Außenministerin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.207,
+  "web_options": [
+   "Justizminister/ Justizministerin",
+   "Außenminister/ Außenministerin",
+   "Finanzminister/ Finanzministerin",
+   "Innenminister/ Innenministerin"
+  ],
+  "note": "ET5099c_Bayern_Minister"
+ }
+]

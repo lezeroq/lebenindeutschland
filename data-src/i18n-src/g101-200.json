@@ -1,0 +1,902 @@
+{
+ "g101": {
+  "q": "Gewerkschaften sind Interessenverbände der …",
+  "o": [
+   "Jugendlichen.",
+   "Arbeitnehmerinnen und Arbeitnehmer.",
+   "Rentnerinnen und Rentner.",
+   "Arbeitgeberinnen und Arbeitgeber."
+  ]
+ },
+ "g102": {
+  "q": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+  "o": [
+   "Bundesverdienstkreuz",
+   "Bundesadler",
+   "Vaterländischen Verdienstorden",
+   "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
+  ]
+ },
+ "g103": {
+  "q": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit …",
+  "o": [
+   "der Bundestagsfraktionen von CDU und CSU",
+   "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+   "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+   "der Bundestagsfraktionen von CDU und SPD"
+  ]
+ },
+ "g104": {
+  "q": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+  "o": [
+   "Die Frau ist lange krank und arbeitsunfähig.",
+   "Die Frau kam oft zu spät zur Arbeit.",
+   "Die Frau erledigt private Sachen während der Arbeitszeit.",
+   "Die Frau bekommt ein Kind und ihr Chef weiß das."
+  ]
+ },
+ "g105": {
+  "q": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
+  "o": [
+   "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+   "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+   "Sie geben Zwischenergebnisse an die Medien weiter.",
+   "Sie zählen die Stimmen nach dem Ende der Wahl."
+  ]
+ },
+ "g106": {
+  "q": "In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?",
+  "o": [
+   "Sie helfen Kindern und alten Menschen beim Wählen.",
+   "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+   "Sie geben Zwischenergebnisse an Journalisten weiter.",
+   "Sie zählen die Stimmen nach dem Ende der Wahl."
+  ]
+ },
+ "g107": {
+  "q": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+  "o": [
+   "2 Jahre",
+   "4 Jahre",
+   "6 Jahre",
+   "8 Jahre"
+  ]
+ },
+ "g108": {
+  "q": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …",
+  "o": [
+   "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+   "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+   "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+   "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+  ]
+ },
+ "g109": {
+  "q": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+  "o": [
+   "alle drei Jahre",
+   "alle vier Jahre",
+   "alle fünf Jahre",
+   "alle sechs Jahre"
+  ]
+ },
+ "g110": {
+  "q": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+  "o": [
+   "2 Jahre",
+   "3 Jahre",
+   "4 Jahre",
+   "5 Jahre"
+  ]
+ },
+ "g111": {
+  "q": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+  "o": [
+   "die Politik Israels öffentlich kritisieren",
+   "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+   "eine Diskussion über die Politik Israels",
+   "der öffentliche Aufruf zur Vernichtung Israels"
+  ]
+ },
+ "g112": {
+  "q": "Die Wahlen in Deutschland sind …",
+  "o": [
+   "speziell.",
+   "geheim.",
+   "berufsbezogen.",
+   "geschlechtsabhängig."
+  ]
+ },
+ "g113": {
+  "q": "Wahlen in Deutschland gewinnt die Partei, die …",
+  "o": [
+   "die meisten Stimmen bekommt.",
+   "die meisten Männer mehrheitlich gewählt haben.",
+   "die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.",
+   "die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat."
+  ]
+ },
+ "g114": {
+  "q": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+  "o": [
+   "eine Pflicht.",
+   "ein Recht.",
+   "ein Zwang.",
+   "eine Last."
+  ]
+ },
+ "g115": {
+  "q": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+  "o": [
+   "Man kann gewählt werden.",
+   "Man muss wählen gehen.",
+   "Man kann wählen.",
+   "Man muss zur Auszählung der Stimmen gehen."
+  ]
+ },
+ "g116": {
+  "q": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+  "o": [
+   "aktive Wahlkampagne.",
+   "aktives Wahlverfahren.",
+   "aktiver Wahlkampf.",
+   "aktives Wahlrecht."
+  ]
+ },
+ "g117": {
+  "q": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+  "o": [
+   "3%",
+   "4%",
+   "5%",
+   "6%"
+  ]
+ },
+ "g118": {
+  "q": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+  "o": [
+   "nur Deutsche",
+   "nur Israelis",
+   "nur religiöse Menschen",
+   "alle Menschen"
+  ]
+ },
+ "g119": {
+  "q": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+  "o": [
+   "Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.",
+   "Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.",
+   "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+   "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+  ]
+ },
+ "g120": {
+  "q": "Das Wahlsystem in Deutschland ist ein …",
+  "o": [
+   "Zensuswahlrecht.",
+   "Dreiklassenwahlrecht.",
+   "Mehrheits- und Verhältniswahlrecht.",
+   "allgemeines Männerwahlrecht."
+  ]
+ },
+ "g121": {
+  "q": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+  "o": [
+   "5%-Hürde.",
+   "Zulassungsgrenze.",
+   "Basiswert.",
+   "Richtlinie."
+  ]
+ },
+ "g122": {
+  "q": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+  "o": [
+   "frei, gleich, geheim.",
+   "offen, sicher, frei.",
+   "geschlossen, gleich, sicher.",
+   "sicher, offen, freiwillig."
+  ]
+ },
+ "g123": {
+  "q": "Was ist in Deutschland die \"5%-Hürde\"?",
+  "o": [
+   "Abstimmungsregelung im Bundestag für kleine Parteien",
+   "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+   "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+   "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+  ]
+ },
+ "g124": {
+  "q": "Die Bundestagswahl in Deutschland ist die Wahl …",
+  "o": [
+   "der Bundeskanzlerin/des Bundeskanzlers.",
+   "der Parlamente der Länder.",
+   "des Parlaments für Deutschland.",
+   "der Bundespräsidentin/des Bundespräsidenten."
+  ]
+ },
+ "g125": {
+  "q": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
+  "o": [
+   "die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.",
+   "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+   "im Land bestehende Gesetze beizubehalten.",
+   "den Armen mehr Macht zu geben."
+  ]
+ },
+ "g126": {
+  "q": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+  "o": [
+   "eine Wahlbenachrichtigung von der Gemeinde",
+   "eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten",
+   "eine Benachrichtigung von der Bundesversammlung",
+   "eine Benachrichtigung vom Pfarramt"
+  ]
+ },
+ "g127": {
+  "q": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
+  "o": [
+   "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+   "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.",
+   "viele kleine Parteien die Regierungsbildung erschweren.",
+   "die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen."
+  ]
+ },
+ "g128": {
+  "q": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …",
+  "o": [
+   "Abgeordnete.",
+   "Kanzlerinnen/Kanzler.",
+   "Botschafterinnen/Botschafter.",
+   "Ministerpräsidentinnen/Ministerpräsidenten."
+  ]
+ },
+ "g129": {
+  "q": "Vom Volk gewählt wird in Deutschland …",
+  "o": [
+   "die Bundeskanzlerin/der Bundeskanzler.",
+   "die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.",
+   "der Bundestag.",
+   "die Bundespräsidentin/der Bundespräsident."
+  ]
+ },
+ "g130": {
+  "q": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ "g131": {
+  "q": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …",
+  "o": [
+   "die Leiterin/der Leiter einer Schule.",
+   "die Chefin/der Chef einer Bank.",
+   "das Oberhaupt einer Gemeinde.",
+   "die/der Vorsitzende einer Partei."
+  ]
+ },
+ "g132": {
+  "q": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+  "o": [
+   "Sie arbeiten als Soldatinnen/Soldaten.",
+   "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+   "Sie arbeiten in der Bundesregierung.",
+   "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+  ]
+ },
+ "g133": {
+  "q": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+  "o": [
+   "Der Ehemann wählt für seine Frau mit.",
+   "Man kann durch Briefwahl seine Stimme abgeben.",
+   "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+   "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+  ]
+ },
+ "g134": {
+  "q": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+  "o": [
+   "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+   "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+   "Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.",
+   "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+  ]
+ },
+ "g135": {
+  "q": "Wen vertreten die Gewerkschaften in Deutschland?",
+  "o": [
+   "große Unternehmen",
+   "kleine Unternehmen",
+   "Selbstständige",
+   "Arbeitnehmerinnen und Arbeitnehmer"
+  ]
+ },
+ "g136": {
+  "q": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+  "o": [
+   "falscher Nebenkostenabrechnung.",
+   "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+   "Problemen mit den Nachbarinnen/Nachbarn.",
+   "Schwierigkeiten nach einem Verkehrsunfall."
+  ]
+ },
+ "g137": {
+  "q": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+  "o": [
+   "das Familiengericht",
+   "das Strafgericht",
+   "das Arbeitsgericht",
+   "das Amtsgericht"
+  ]
+ },
+ "g138": {
+  "q": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+  "o": [
+   "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
+   "ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen",
+   "Kündigungsschutzklage erheben",
+   "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen"
+  ]
+ },
+ "g139": {
+  "q": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …",
+  "o": [
+   "zu einer anderen Religion übertritt.",
+   "eine Straftat begangen hat und angeklagt wird.",
+   "eine andere Meinung als die der Regierung vertritt.",
+   "sein Auto falsch geparkt hat und es abgeschleppt wird."
+  ]
+ },
+ "g140": {
+  "q": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …",
+  "o": [
+   "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+   "gibt Bürgerinnen/Bürgern rechtlichen Rat.",
+   "stellt Urkunden aus.",
+   "verteidigt die Angeklagte/den Angeklagten."
+  ]
+ },
+ "g141": {
+  "q": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+  "o": [
+   "eine Rechtsanwältin/ein Rechtsanwalt",
+   "eine Richterin/ein Richter",
+   "eine Schöffin/ein Schöffe",
+   "eine Staatsanwältin/ein Staatsanwalt"
+  ]
+ },
+ "g142": {
+  "q": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …",
+  "o": [
+   "vertritt Bürgerinnen und Bürger vor einem Gericht.",
+   "arbeitet an einem Gericht und spricht Urteile.",
+   "ändert Gesetze.",
+   "betreut Jugendliche vor Gericht."
+  ]
+ },
+ "g143": {
+  "q": "Eine Richterin/ein Richter in Deutschland gehört zur …",
+  "o": [
+   "Judikative.",
+   "Exekutive.",
+   "Operative.",
+   "Legislative."
+  ]
+ },
+ "g144": {
+  "q": "Eine Richterin/ein Richter gehört in Deutschland zur …",
+  "o": [
+   "vollziehenden Gewalt.",
+   "rechtsprechenden Gewalt.",
+   "planenden Gewalt.",
+   "gesetzgebenden Gewalt."
+  ]
+ },
+ "g145": {
+  "q": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …",
+  "o": [
+   "Judikative",
+   "Exekutive",
+   "Presse",
+   "Legislative"
+  ]
+ },
+ "g146": {
+  "q": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+  "o": [
+   "Programm",
+   "Prozedur",
+   "Protokoll",
+   "Prozess"
+  ]
+ },
+ "g147": {
+  "q": "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+  "o": [
+   "Deutschland regieren",
+   "Recht sprechen",
+   "Pläne erstellen",
+   "Gesetze erlassen"
+  ]
+ },
+ "g148": {
+  "q": "Was ist eine Aufgabe der Polizei in Deutschland?",
+  "o": [
+   "das Land zu verteidigen",
+   "die Bürgerinnen und Bürger abzuhören",
+   "die Gesetze zu beschließen",
+   "die Einhaltung von Gesetzen zu überwachen"
+  ]
+ },
+ "g149": {
+  "q": "Was ist ein Beispiel für antisemitisches Verhalten?",
+  "o": [
+   "ein jüdisches Fest besuchen",
+   "die israelische Regierung kritisieren",
+   "den Holocaust leugnen",
+   "gegen Juden Fußball spielen."
+  ]
+ },
+ "g150": {
+  "q": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …",
+  "o": [
+   "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.",
+   "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+   "ein Mitglied eines Gemeinderats.",
+   "eine Person, die Jura studiert hat."
+  ]
+ },
+ "g151": {
+  "q": "Wer baute die Mauer in Berlin?",
+  "o": [
+   "Großbritannien",
+   "die DDR",
+   "die Bundesrepublik Deutschland",
+   "die USA"
+  ]
+ },
+ "g152": {
+  "q": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+  "o": [
+   "1918 bis 1923",
+   "1932 bis 1950",
+   "1933 bis 1945",
+   "1945 bis 1989"
+  ]
+ },
+ "g153": {
+  "q": "Was war am 8. Mai 1945?",
+  "o": [
+   "Tod Adolf Hitlers",
+   "Beginn des Berliner Mauerbaus",
+   "Wahl von Konrad Adenauer zum Bundeskanzler",
+   "Ende des Zweiten Weltkriegs in Europa"
+  ]
+ },
+ "g154": {
+  "q": "Wann war der Zweite Weltkrieg zu Ende?",
+  "o": [
+   "1933",
+   "1945",
+   "1949",
+   "1961"
+  ]
+ },
+ "g155": {
+  "q": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+  "o": [
+   "1888 bis 1918",
+   "1921 bis 1934",
+   "1933 bis 1945",
+   "1949 bis 1963"
+  ]
+ },
+ "g156": {
+  "q": "In welchem Jahr wurde Hitler Reichskanzler?",
+  "o": [
+   "1923",
+   "1927",
+   "1933",
+   "1936"
+  ]
+ },
+ "g157": {
+  "q": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+  "o": [
+   "eine Diktatur.",
+   "einen demokratischen Staat.",
+   "eine Monarchie.",
+   "ein Fürstentum."
+  ]
+ },
+ "g158": {
+  "q": "Das \"Dritte Reich\" war eine …",
+  "o": [
+   "Diktatur.",
+   "Demokratie.",
+   "Monarchie.",
+   "Räterepublik."
+  ]
+ },
+ "g159": {
+  "q": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+  "o": [
+   "freie Wahlen",
+   "Pressezensur",
+   "willkürliche Verhaftungen",
+   "Verfolgung von Juden"
+  ]
+ },
+ "g160": {
+  "q": "Welcher Krieg dauerte von 1939 bis 1945?",
+  "o": [
+   "der Erste Weltkrieg",
+   "der Zweite Weltkrieg",
+   "der Vietnamkrieg",
+   "der Golfkrieg"
+  ]
+ },
+ "g161": {
+  "q": "Was kennzeichnete den NS-Staat? Eine Politik …",
+  "o": [
+   "des staatlichen Rassismus",
+   "der Meinungsfreiheit",
+   "der allgemeinen Religionsfreiheit",
+   "der Entwicklung der Demokratie"
+  ]
+ },
+ "g162": {
+  "q": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+  "o": [
+   "eine Goldmedaille bei den Olympischen Spielen 1936.",
+   "den Bau des Reichstagsgebäudes.",
+   "den Aufbau der Wehrmacht.",
+   "das Attentat auf Hitler am 20. Juli 1944."
+  ]
+ },
+ "g163": {
+  "q": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+  "o": [
+   "1925",
+   "1930",
+   "1938",
+   "1945"
+  ]
+ },
+ "g164": {
+  "q": "Was passierte am 9. November 1938 in Deutschland?",
+  "o": [
+   "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+   "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+   "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+   "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+  ]
+ },
+ "g165": {
+  "q": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+  "o": [
+   "Konrad Adenauer",
+   "Kurt Georg Kiesinger",
+   "Helmut Schmidt",
+   "Willy Brandt"
+  ]
+ },
+ "g166": {
+  "q": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
+  "o": [
+   "beim Arbeiteraufstand 1953 in der DDR",
+   "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+   "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+   "bei den Montagsdemonstrationen 1989 in der DDR"
+  ]
+ },
+ "g167": {
+  "q": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
+  "o": [
+   "Sowjetunion, Großbritannien, Polen, Schweden",
+   "Frankreich, Sowjetunion, Italien, Japan",
+   "USA, Sowjetunion, Spanien, Portugal",
+   "USA, Sowjetunion, Großbritannien, Frankreich"
+  ]
+ },
+ "g168": {
+  "q": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+  "o": [
+   "USA",
+   "Sowjetunion",
+   "Frankreich",
+   "Japan"
+  ]
+ },
+ "g169": {
+  "q": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+  "o": [
+   "1939",
+   "1945",
+   "1949",
+   "1951"
+  ]
+ },
+ "g170": {
+  "q": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+  "o": [
+   "das Verbot von Parteien",
+   "das Recht zur freien Entfaltung der Persönlichkeit",
+   "Pressefreiheit",
+   "den Schutz der Menschenwürde"
+  ]
+ },
+ "g171": {
+  "q": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
+  "o": [
+   "steuert sich allein nach Angebot und Nachfrage.",
+   "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+   "richtet sich nach der Nachfrage im Ausland.",
+   "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+  ]
+ },
+ "g172": {
+  "q": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+  "o": [
+   "amerikanischen Besatzungszone",
+   "französischen Besatzungszone",
+   "britischen Besatzungszone",
+   "sowjetischen Besatzungszone"
+  ]
+ },
+ "g173": {
+  "q": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
+  "o": [
+   "des Nordatlantikpakts (NATO).",
+   "der Vereinten Nationen (VN).",
+   "der Europäischen Union (EU).",
+   "des Warschauer Pakts."
+  ]
+ },
+ "g174": {
+  "q": "Wann wurde die DDR gegründet?",
+  "o": [
+   "1947",
+   "1949",
+   "1953",
+   "1956"
+  ]
+ },
+ "g175": {
+  "q": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ]
+ },
+ "g176": {
+  "q": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+  "o": [
+   "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+   "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+   "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+   "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+  ]
+ },
+ "g177": {
+  "q": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+  "o": [
+   "München",
+   "Berlin",
+   "Dresden",
+   "Frankfurt/Oder"
+  ]
+ },
+ "g178": {
+  "q": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+  "o": [
+   "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+   "Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.",
+   "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+   "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+  ]
+ },
+ "g179": {
+  "q": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+  "o": [
+   "mit dem Tod Adolf Hitlers",
+   "durch die bedingungslose Kapitulation Deutschlands",
+   "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+   "durch eine Revolution in Deutschland"
+  ]
+ },
+ "g180": {
+  "q": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+  "o": [
+   "Ludwig Erhard.",
+   "Willy Brandt.",
+   "Konrad Adenauer.",
+   "Gerhard Schröder."
+  ]
+ },
+ "g181": {
+  "q": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+  "o": [
+   "Er hat sich den ehemaligen Alliierten unterworfen.",
+   "Er bat Polen und die polnischen Juden um Vergebung.",
+   "Er zeigte seine Demut vor dem Warschauer Pakt.",
+   "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+  ]
+ },
+ "g182": {
+  "q": "Wie heißt das jüdische Gebetshaus?",
+  "o": [
+   "Basilika",
+   "Moschee",
+   "Synagoge",
+   "Kirche"
+  ]
+ },
+ "g183": {
+  "q": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+  "o": [
+   "40er Jahre",
+   "50er Jahre",
+   "70er Jahre",
+   "80er Jahre"
+  ]
+ },
+ "g184": {
+  "q": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+  "o": [
+   "eine Resolution der Vereinten Nationen",
+   "ein Beschluss des Zionistenkongresses",
+   "ein Vorschlag der Bundesregierung",
+   "ein Vorschlag der UdSSR"
+  ]
+ },
+ "g185": {
+  "q": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung …",
+  "o": [
+   "des Warschauer Pakts gegen den Westen",
+   "Norddeutschlands gegen Süddeutschland",
+   "Nazi-Deutschlands gegen die Alliierten",
+   "Europas gegen die USA"
+  ]
+ },
+ "g186": {
+  "q": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+  "o": [
+   "1. Mai",
+   "17. Juni",
+   "20. Juli",
+   "9. November"
+  ]
+ },
+ "g187": {
+  "q": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+  "o": [
+   "Preußen",
+   "Bundesrepublik Deutschland",
+   "\"Drittes Reich\"",
+   "DDR"
+  ]
+ },
+ "g188": {
+  "q": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+  "o": [
+   "1953",
+   "1956",
+   "1959",
+   "1961"
+  ]
+ },
+ "g189": {
+  "q": "Wann baute die DDR die Mauer in Berlin?",
+  "o": [
+   "1919",
+   "1933",
+   "1961",
+   "1990"
+  ]
+ },
+ "g190": {
+  "q": "Was bedeutet die Abkürzung DDR?",
+  "o": [
+   "Dritter Deutscher Rundfunk",
+   "Die Deutsche Republik",
+   "Dritte Deutsche Republik",
+   "Deutsche Demokratische Republik"
+  ]
+ },
+ "g191": {
+  "q": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+  "o": [
+   "1987",
+   "1989",
+   "1992",
+   "1995"
+  ]
+ },
+ "g192": {
+  "q": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "o": [
+   "Brandenburg",
+   "Bayern",
+   "Saarland",
+   "Hessen"
+  ]
+ },
+ "g193": {
+  "q": "Von 1961 bis 1989 war Berlin …",
+  "o": [
+   "ohne Bürgermeister.",
+   "ein eigener Staat.",
+   "durch eine Mauer geteilt.",
+   "nur mit dem Flugzeug erreichbar."
+  ]
+ },
+ "g194": {
+  "q": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …",
+  "o": [
+   "Einheit.",
+   "Nation.",
+   "Bundesländer.",
+   "Städte."
+  ]
+ },
+ "g195": {
+  "q": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "o": [
+   "Hessen",
+   "Sachsen-Anhalt",
+   "Nordrhein-Westfalen",
+   "Saarland"
+  ]
+ },
+ "g196": {
+  "q": "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit veränderte sich die DDR politisch …",
+  "o": [
+   "von einer Diktatur zur Demokratie.",
+   "von einer liberalen Marktwirtschaft zum Sozialismus.",
+   "von einer Monarchie zur Sozialdemokratie.",
+   "von einem religiösen Staat zu einem kommunistischen Staat."
+  ]
+ },
+ "g197": {
+  "q": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "o": [
+   "Thüringen",
+   "Hessen",
+   "Bayern",
+   "Bremen"
+  ]
+ },
+ "g198": {
+  "q": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "o": [
+   "Bayern",
+   "Niedersachsen",
+   "Sachsen",
+   "Baden-Württemberg"
+  ]
+ },
+ "g199": {
+  "q": "Mit der Abkürzung \"Stasi\" meinte man in der DDR …",
+  "o": [
+   "das Parlament.",
+   "das Ministerium für Staatssicherheit.",
+   "eine regierende Partei.",
+   "das Ministerium für Volksbildung."
+  ]
+ },
+ "g200": {
+  "q": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+  "o": [
+   "Hessen",
+   "Schleswig-Holstein",
+   "Mecklenburg-Vorpommern",
+   "Saarland"
+  ]
+ }
+}

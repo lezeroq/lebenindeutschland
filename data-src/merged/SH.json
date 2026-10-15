@@ -1,0 +1,262 @@
+[
+ {
+  "n": 301,
+  "section": "Schleswig-Holstein",
+  "num": 1,
+  "page": 182,
+  "question": "Welches Wappen gehört zum Bundesland Schleswig-Holstein?",
+  "credit": "",
+  "options": [
+   "Bild 1",
+   "Bild 2",
+   "Bild 3",
+   "Bild 4"
+  ],
+  "correct": 2,
+  "web_correct_text": "3",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET2054a_Schleswig-Holstein_Wappen"
+ },
+ {
+  "n": 302,
+  "section": "Schleswig-Holstein",
+  "num": 2,
+  "page": 182,
+  "question": "Welches ist ein Landkreis in Schleswig-Holstein?",
+  "credit": "",
+  "options": [
+   "Ammerland",
+   "Mecklenburgische Seenplatte",
+   "Nordfriesland",
+   "Rhein-Sieg-Kreis"
+  ],
+  "correct": 2,
+  "web_correct_text": "Nordfriesland",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.545,
+  "web_options": [
+   "Ammerland",
+   "Mecklenburgische Seenplatte",
+   "Nordfriesland",
+   "Rhein-Sieg-Kreis"
+  ],
+  "note": "ET3096c_Landkreis_Schleswig-Holstein"
+ },
+ {
+  "n": 303,
+  "section": "Schleswig-Holstein",
+  "num": 3,
+  "page": 183,
+  "question": "Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?",
+  "credit": "",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "web_correct_text": "5",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "note": "ET3097n_Wahlperiode_Landtag_Schleswig-Holstein"
+ },
+ {
+  "n": 304,
+  "section": "Schleswig-Holstein",
+  "num": 4,
+  "page": 183,
+  "question": "Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen wählen?",
+  "credit": "",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "correct": 1,
+  "web_correct_text": "16",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.5,
+  "web_options": [
+   "14",
+   "16",
+   "18",
+   "20"
+  ],
+  "note": "ET3099m_Alter_Kommunalwahlen_Schleswig-Holstein"
+ },
+ {
+  "n": 305,
+  "section": "Schleswig-Holstein",
+  "num": 5,
+  "page": 183,
+  "question": "Welche Farben hat die Landesflagge von Schleswig-Holstein?",
+  "credit": "",
+  "options": [
+   "weiß-blau",
+   "blau-weiß-rot",
+   "weiß-rot",
+   "grün-weiß-rot"
+  ],
+  "correct": 1,
+  "web_correct_text": "blau-weiß-rot",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.182,
+  "web_options": [
+   "weiß-blau",
+   "blau-weiß-rot",
+   "weiß-rot",
+   "grün-weiß-rot"
+  ],
+  "note": "ET4081n_Flagge_Schleswig_Holstein"
+ },
+ {
+  "n": 306,
+  "section": "Schleswig-Holstein",
+  "num": 6,
+  "page": 184,
+  "question": "Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?",
+  "credit": "",
+  "options": [
+   "bei der Verbraucherzentrale",
+   "beim Ordnungsamt der Gemeinde",
+   "beim / bei der Landesbeauftragten für politische Bildung",
+   "bei den Kirchen"
+  ],
+  "correct": 2,
+  "web_correct_text": "beim Landesbeauftragten für politische Bildung",
+  "identity_order": true,
+  "min_score": 0.92,
+  "margin": 0.509,
+  "web_options": [
+   "bei der Verbraucherzentrale",
+   "beim Ordnungsamt der Gemeinde",
+   "beim Landesbeauftragten für politische Bildung",
+   "bei den Kirchen"
+  ],
+  "note": "ET4082o_lpb_Schleswig_Holstein"
+ },
+ {
+  "n": 307,
+  "section": "Schleswig-Holstein",
+  "num": 7,
+  "page": 184,
+  "question": "Die Landeshauptstadt von Schleswig-Holstein heißt …",
+  "credit": "",
+  "options": [
+   "Husum.",
+   "Flensburg.",
+   "Lübeck.",
+   "Kiel."
+  ],
+  "correct": 3,
+  "web_correct_text": "Kiel.",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.8,
+  "web_options": [
+   "Husum.",
+   "Flensburg.",
+   "Lübeck.",
+   "Kiel."
+  ],
+  "note": "ET5055a_Kiel_Hauptstadt"
+ },
+ {
+  "n": 308,
+  "section": "Schleswig-Holstein",
+  "num": 8,
+  "page": 185,
+  "question": "Welches Bundesland ist Schleswig-Holstein?",
+  "credit": "",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "correct": 0,
+  "web_correct_text": "1",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 1.0,
+  "web_options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "note": "ET5080a_BL_Schleswig_Holstein_Karte"
+ },
+ {
+  "n": 309,
+  "section": "Schleswig-Holstein",
+  "num": 9,
+  "page": 186,
+  "question": "Wie nennt man die Regierungschefin/den Regierungschef in Schleswig-Holstein?",
+  "credit": "",
+  "options": [
+   "Erste Ministerin/Erster Minister",
+   "Premierministerin/Premierminister",
+   "Bürgermeisterin/Bürgermeister",
+   "Ministerpräsidentin/Ministerpräsident"
+  ],
+  "correct": 3,
+  "web_correct_text": "Ministerpräsident/ Ministerpräsidentin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.371,
+  "web_options": [
+   "Erster Minister/ Erste Ministerin",
+   "Premierminister/ Premierministerin",
+   "Bürgermeister/ Bürgermeisterin",
+   "Ministerpräsident/ Ministerpräsidentin"
+  ],
+  "note": "ET5084a_Regierungschef_Schleswig_Holstein"
+ },
+ {
+  "n": 310,
+  "section": "Schleswig-Holstein",
+  "num": 10,
+  "page": 186,
+  "question": "Welche Ministerin/welchen Minister hat Schleswig-Holstein nicht?",
+  "credit": "",
+  "options": [
+   "Justizministerin/Justizminister",
+   "Außenministerin/Außenminister",
+   "Finanzministerin/Finanzminister",
+   "Innenministerin/Innenminister"
+  ],
+  "correct": 1,
+  "web_correct_text": "Außenminister/ Außenministerin",
+  "identity_order": true,
+  "min_score": 1.0,
+  "margin": 0.207,
+  "web_options": [
+   "Justizminister/ Justizministerin",
+   "Außenminister/ Außenministerin",
+   "Finanzminister/ Finanzministerin",
+   "Innenminister/ Innenministerin"
+  ],
+  "note": "ET5099j_Schleswig_Holstein_Minister"
+ }
+]
