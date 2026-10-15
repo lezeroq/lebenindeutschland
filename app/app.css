@@ -326,6 +326,10 @@ body.onboarding .view {
   color: var(--muted);
   line-height: 1.4;
 }
+.note a {
+  color: var(--accent);
+  overflow-wrap: anywhere;
+}
 .label {
   margin: 8px 0 6px;
   font-weight: 600;

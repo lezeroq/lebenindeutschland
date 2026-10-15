@@ -91,7 +91,7 @@ Paths and the list of states are in `tools/common.py`.
 - Ids are stable and used everywhere (progress in `localStorage`, translations): `g1`…`g300`,
   `BW1`…`TH10`. Never renumber them.
 - `a` is the 0-based index of the correct option in `o`, in PDF order.
-- `source.edition` is shown in Settings > About (`about.body` has an `{edition}` placeholder).
+- `source.edition` is shown in Settings > About (`about.sources` has an `{edition}` placeholder).
 - Only change this file through `tools/build_questions.py`, never by hand.
 
 `translations/<lang>.json` maps each question id to `{ "q": "…", "o": ["…", "…", "…", "…"] }`. The
@@ -160,7 +160,11 @@ README's "License and sources" section must stay accurate:
 
 - The German question text and the answer key are official works (Anlage 1 EinbTestV and BAMF's
   catalogue, § 5 UrhG). Keep them unaltered and keep the source in Settings > About
-  (`about.body`) and in the README.
+  (`about.sources`) and in the README.
+- Settings > About also has the disclaimer, the privacy note and the license line
+  (`about.disclaimer`, `about.privacy`, `about.license`). The privacy note promises no cookies, no
+  tracking and no data leaving the device: never add analytics, external requests or cookies
+  without changing it.
 - Pictures are only built, never committed. The uncredited drawings, maps and coats of arms come
   from the BAMF PDF. Photos that the PDF credits to someone else ("© Bundesregierung/…",
   "© Deutscher Bundestag/…") must not be published: `tools/pictures.py` takes those questions'

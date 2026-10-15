@@ -135,8 +135,13 @@ export const STR = {
     "install.body":
       "Tippe in Safari auf „Teilen“ und dann auf „Zum Home-Bildschirm“. Danach startet die App wie eine normale App und funktioniert auch offline.",
     "about.title": "Über diese App",
-    "about.body":
-      "Fragen und Bilder: Anlage 1 der Einbürgerungstestverordnung (EinbTestV) in der Fassung des BAMF-Gesamtfragenkatalogs, Stand {edition}. Richtige Antworten: BAMF-Online-Testcenter. Diese App ist kein Angebot des BAMF. Übersetzungen sind Lernhilfen und nicht amtlich.",
+    "about.sources":
+      "Fragen und Antwortmöglichkeiten: Anlage 1 der Einbürgerungstestverordnung (EinbTestV) in der Fassung des BAMF-Gesamtfragenkatalogs, Stand {edition}. Richtige Antworten: BAMF-Online-Testcenter. Bilder: BAMF-Gesamtfragenkatalog; die Fotos zu den Fragen 55, 70, 181, 216 und 235 aus Anlage 1 EinbTestV.",
+    "about.disclaimer":
+      "Diese App ist kein Angebot des BAMF oder einer anderen Behörde. Alle Angaben ohne Gewähr, maßgeblich sind die amtlichen Unterlagen. Übersetzungen sind Lernhilfen und nicht amtlich. Die Landeswappen werden wie im amtlichen Fragenkatalog nur zur staatsbürgerlichen Bildung gezeigt.",
+    "about.privacy":
+      "Datenschutz: keine Anmeldung, keine Cookies, kein Tracking. Dein Fortschritt wird nur im Browser auf diesem Gerät gespeichert und nirgendwohin gesendet.",
+    "about.license": "Quellcode und Übersetzungen: © 2026 Artsiom Kaval, MIT-Lizenz.",
     "update.text": "Eine neue Version ist da.",
     "update.reload": "Aktualisieren",
     "onb.sub": "Trainer für den Einbürgerungstest",
@@ -275,8 +280,13 @@ export const STR = {
     "install.body":
       "In Safari, tap Share, then “Add to Home Screen”. The app then opens like a regular app and works offline.",
     "about.title": "About this app",
-    "about.body":
-      "Questions and pictures: Annex 1 of the Einbürgerungstestverordnung (EinbTestV), as published in the BAMF Gesamtfragenkatalog, as of {edition}. Correct answers: BAMF Online-Testcenter. This app is not affiliated with BAMF. Translations are learning aids, not official.",
+    "about.sources":
+      "Questions and answer options: Annex 1 of the Einbürgerungstestverordnung (EinbTestV), as published in the BAMF Gesamtfragenkatalog, as of {edition}. Correct answers: BAMF Online-Testcenter. Pictures: BAMF Gesamtfragenkatalog; the photos for questions 55, 70, 181, 216 and 235 from Annex 1 of the EinbTestV.",
+    "about.disclaimer":
+      "This app is not affiliated with BAMF or any other authority. No guarantee of accuracy: the official documents prevail. Translations are learning aids, not official. The state coats of arms are shown for civic education only, as in the official catalogue.",
+    "about.privacy":
+      "Privacy: no account, no cookies, no tracking. Your progress is stored only in this browser on this device and is never sent anywhere.",
+    "about.license": "Source code and translations: © 2026 Artsiom Kaval, MIT License.",
     "update.text": "A new version is ready.",
     "update.reload": "Update",
     "onb.sub": "Trainer for the German citizenship test",
@@ -416,8 +426,13 @@ export const STR = {
     "install.body":
       "В Safari нажмите «Поделиться», затем «На экран „Домой“». После этого приложение открывается как обычное и работает без интернета.",
     "about.title": "О приложении",
-    "about.body":
-      "Вопросы и изображения: приложение 1 к Einbürgerungstestverordnung (EinbTestV) в редакции каталога вопросов BAMF (Gesamtfragenkatalog) от {edition}. Правильные ответы: онлайн-тестцентр BAMF. Приложение не является сервисом BAMF. Переводы — учебная подсказка, а не официальный текст.",
+    "about.sources":
+      "Вопросы и варианты ответов: приложение 1 к Einbürgerungstestverordnung (EinbTestV) в редакции каталога вопросов BAMF (Gesamtfragenkatalog) от {edition}. Правильные ответы: онлайн-тестцентр BAMF. Изображения: каталог вопросов BAMF; фотографии к вопросам 55, 70, 181, 216 и 235 — из приложения 1 к EinbTestV.",
+    "about.disclaimer":
+      "Приложение не является сервисом BAMF или другого ведомства. Без гарантии точности: решающее значение имеют официальные документы. Переводы — учебная подсказка, а не официальный текст. Гербы земель показаны только в целях гражданского образования, как в официальном каталоге.",
+    "about.privacy":
+      "Конфиденциальность: без регистрации, без cookie и без отслеживания. Прогресс хранится только в этом браузере на этом устройстве и никуда не отправляется.",
+    "about.license": "Исходный код и переводы: © 2026 Artsiom Kaval, лицензия MIT.",
     "update.text": "Доступна новая версия.",
     "update.reload": "Обновить",
     "onb.sub": "Тренажёр теста на гражданство Германии",

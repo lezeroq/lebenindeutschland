@@ -69,3 +69,6 @@ in Settings.
   replaced with the versions printed in Anlage 1 of the regulation, which are free to reuse.
 - This app is not affiliated with BAMF. The translations are unofficial learning aids. The coats
   of arms of the federal states are shown only for civic education, as in the official catalogue.
+- The app has no accounts, cookies or tracking; progress stays in the browser's `localStorage`.
+
+Settings > About in the app shows the same sources, the disclaimer, the privacy note and the license.

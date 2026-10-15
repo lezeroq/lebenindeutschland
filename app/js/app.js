@@ -25,6 +25,7 @@ const SESSION_SIZE = 20;
 const EXAM_MS = 60 * 60 * 1000;
 const PASS_MARK = 17;
 const TRIVIAL = /^(Bild \d|\d+)$/; // picture labels and plain numbers need no translation
+const SOURCE = "https://github.com/lezeroq/lebenindeutschland";
 
 const ICON = (d, extra = "") =>
   `<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"${extra}>${d}</svg>`;
@@ -823,7 +824,13 @@ function viewSettings() {
         ${ui.confirm === "history" ? confirmBox(t("confirm.history"), "history-do", t("confirm.yes")) : ""}
       </div>
     </section>
-    <section class="group about"><h2>${t("about.title")}</h2><p class="note">${t("about.body", { edition: DATA.source.edition })}</p><p class="note mono">v${VERSION}</p></section>`;
+    <section class="group about"><h2>${t("about.title")}</h2>
+      <p class="note">${t("about.sources", { edition: DATA.source.edition })}</p>
+      <p class="note">${t("about.disclaimer")}</p>
+      <p class="note">${t("about.privacy")}</p>
+      <p class="note">${t("about.license")} <a href="${SOURCE}" target="_blank" rel="noopener">${SOURCE.replace("https://", "")}</a></p>
+      <p class="note mono">v${VERSION}</p>
+    </section>`;
 }
 
 function renderOnboarding() {
