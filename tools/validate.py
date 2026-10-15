@@ -4,7 +4,8 @@ Usage: python3 tools/validate.py [--strict]
 
 Questions: 300 general (g1..g300) and 16 states x 10 (<CODE>1..10); every question has a
 non-empty text, exactly 4 distinct non-empty options, an answer index 0..3, an img that is
-null or img/<name>.webp, and no third-party (©) picture credit.
+null or img/<name>.webp, and no third-party (©) picture credit. Exactly the questions in
+ANNEX_PHOTOS (tools/pictures.py) have the Anlage 1 credit, which Settings > About relies on.
 Translations: every key is a known question id and every entry has a non-empty "q" and exactly
 4 options. Missing translations are reported; --strict turns them into errors.
 Exits non-zero on any error.
@@ -16,6 +17,7 @@ import sys
 from typing import Any
 
 from common import CODES, GENERAL_COUNT, QUESTIONS, STATE_COUNT, TRANSLATIONS, load_json, question_ids
+from pictures import ANNEX_CREDIT, ANNEX_PHOTOS
 
 errors: list[str] = []
 
@@ -42,6 +44,8 @@ def check_question(q: dict[str, Any], want_id: str) -> None:
         errors.append(f"{qid}: credit must be a string")
     elif "©" in credit:
         errors.append(f"{qid}: third-party picture ({credit}); see AGENTS.md, Licensing")
+    elif (credit == ANNEX_CREDIT) != (qid in ANNEX_PHOTOS):
+        errors.append(f"{qid}: credit {credit!r} does not match ANNEX_PHOTOS; rebuild with tools/build_questions.py")
 
 
 def check_questions(doc: dict[str, Any]) -> None:

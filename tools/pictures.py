@@ -42,6 +42,9 @@ Line = tuple[str, float, float]  # text, yMin, yMax
 # whose terms do not allow republishing them here. Anlage 1 of the Einbürgerungstestverordnung, an
 # official work without copyright (§ 5 Abs. 1 UrhG), shows photos of the same scenes for the same
 # questions, so those are used instead. Question id -> picture file in build/einbtestv.zip.
+# build_questions.py gives these questions ANNEX_CREDIT, which the app shows under the photo and uses
+# to list them in Settings > About.
+ANNEX_CREDIT = "Foto: Anlage 1 EinbTestV"
 ANNEX_PHOTOS = {
     "g55": "bgbl1_2008_j01649_0020.jpg",  # Reichstag building
     "g70": "bgbl1_2008_j01649_0030.jpg",  # Heinemann appoints Schmidt, 1974
@@ -59,7 +62,7 @@ def sha256(path: Path) -> str:
 def layout(pdf: Path) -> dict[int, tuple[float, list[Line]]]:
     """Page number -> (page width, text lines sorted top to bottom), from one pdftotext run."""
     xml = subprocess.run(
-        ["pdftotext", "-bbox-layout", str(pdf), "-"], capture_output=True, text=True, check=True
+        ["pdftotext", "-bbox-layout", str(pdf), "-"], capture_output=True, text=True, encoding="utf-8", check=True
     ).stdout
     pages = {}
     for pno, pg in enumerate(ET.fromstring(xml).iter(f"{NS}page"), start=1):

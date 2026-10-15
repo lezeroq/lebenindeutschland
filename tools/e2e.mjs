@@ -29,6 +29,13 @@ const shot = async (name) => {
   await new Promise((r) => setTimeout(r, 150));
   await page.screenshot({ path: `${OUT}/${String(++n).padStart(2, "0")}-${name}.png` });
 };
+// The About block is below the fold, so it gets a screenshot of its own.
+const shotAbout = async (name) => {
+  const el = await page.waitForSelector(".about", { visible: true });
+  await el.evaluate((e) => e.scrollIntoView({ block: "center" }));
+  await new Promise((r) => setTimeout(r, 150));
+  await el.screenshot({ path: `${OUT}/${String(++n).padStart(2, "0")}-${name}.png` });
+};
 const click = async (sel) => {
   await page.waitForSelector(sel, { visible: true, timeout: 5000 });
   await page.$eval(sel, (el) => el.click());
@@ -52,6 +59,13 @@ const check = (cond, msg) => {
 
 await page.goto(BASE, { waitUntil: "networkidle0" });
 await page.waitForSelector(".onb");
+await page.evaluate(() => (globalThis.firstLoad = true));
+await page.waitForFunction(() => navigator.serviceWorker.controller, { timeout: 10000 });
+await new Promise((r) => setTimeout(r, 500));
+check(
+  await page.evaluate(() => globalThis.firstLoad === true),
+  "first visit does not reload when the service worker takes over",
+);
 await shot("onboarding-de");
 await click('[data-act="set-lang"][data-lang="en"]');
 await page.select("#set-state", "BY");
@@ -150,6 +164,7 @@ await click('[data-act="test-finish-now"]');
 await page.waitForSelector(".result-card");
 await shot("exam-result");
 check((await text(".score b")) === "20", "exam scored 20/33 with 13 unanswered");
+check(!(await text(".result-card")).includes("back to learning"), "unanswered exam questions stay out of learning");
 await click('[data-act="review-back"]');
 await page.waitForSelector(".chart");
 await shot("test-home-history");
@@ -168,14 +183,24 @@ await page.type("#browse-search", "Grundgesetz");
 await new Promise((r) => setTimeout(r, 400));
 const hits = (await page.$$("#browse-list .qcard")).length;
 check(hits > 5 && hits < 60, `search “Grundgesetz” finds ${hits} questions`);
+await page.$eval("#browse-search", (el) => {
+  el.value = "";
+  el.dispatchEvent(new Event("input", { bubbles: true }));
+});
+await new Promise((r) => setTimeout(r, 300));
 await click('[data-act="browse-filter"][data-f="state"]');
-check((await page.$$("#browse-list .qcard")).length === 0 || true, "state filter renders");
+check((await page.$$("#browse-list .qcard")).length === 10, "state filter shows the 10 Bayern questions");
 
 // ---- settings: Russian with hints
 await click('[data-act="go"][data-tab="settings"]');
 await shot("settings-en");
+await shotAbout("about-en");
+const about = await text(".about");
+check(about.includes("as of May 7, 2025"), "About shows the catalogue date in English");
+check(about.includes("questions 55, 70, 181, 216, 235 from Annex 1"), "About lists the Anlage 1 photos");
 await click('[data-act="set-lang"][data-lang="ru"]');
 await new Promise((r) => setTimeout(r, 500));
+await shotAbout("about-ru");
 await click('[data-act="go"][data-tab="browse"]');
 await page.$eval("#browse-search", (el) => {
   el.value = "";
@@ -188,7 +213,13 @@ check(await page.$eval("body", (b) => b.classList.contains("hints")), "RU hints 
 await page.emulateMediaFeatures([{ name: "prefers-color-scheme", value: "dark" }]);
 await click('[data-act="go"][data-tab="learn"]');
 await shot("learn-home-dark-ru");
+await click('[data-act="go"][data-tab="settings"]');
+await shotAbout("about-ru-dark");
 await page.emulateMediaFeatures([{ name: "prefers-color-scheme", value: "light" }]);
+await click('[data-act="set-lang"][data-lang="de"]');
+await new Promise((r) => setTimeout(r, 500));
+await shotAbout("about-de");
+await click('[data-act="go"][data-tab="learn"]');
 
 // ---- persistence, then offline start from the service worker cache
 await page.reload({ waitUntil: "networkidle0" });

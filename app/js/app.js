@@ -1,4 +1,4 @@
-import { LANGS, t, setLang, relDay, fmtDateTime, fmtMinutes, fmtNumber } from "./i18n.js";
+import { LANGS, t, setLang, relDay, fmtDate, fmtDateTime, fmtMinutes, fmtNumber } from "./i18n.js";
 import { S, save, exportData, importData, resetProgress, clearHistory } from "./store.js";
 import { grade, markLearned, backToLearning, steps, LEARNED } from "./srs.js";
 import { VERSION } from "./version.js";
@@ -319,6 +319,7 @@ function testExpired(T) {
 }
 
 // Scores the running test, stores it in the history and sends every mistake back to learning.
+// Unanswered questions count as wrong in the score, but they were not mistakes, so they stay where they are.
 function finishTest(timeUp) {
   const T = S.test;
   if (!T) return;
@@ -329,7 +330,7 @@ function finishTest(timeUp) {
   let moved = 0;
   for (const [id, p] of items) {
     const q = BY_ID.get(id);
-    if (!q || p === q.a) continue;
+    if (!q || p === null || p === q.a) continue;
     const prev = P(id);
     S.progress[id] = backToLearning(prev, now);
     S.progress[id].w = (prev?.w || 0) + 1;
@@ -802,6 +803,14 @@ function installCard() {
     : "";
 }
 
+// The catalogue date (dd.mm.yyyy) in the interface language, and the questions whose photo comes from
+// Anlage 1 (tools/pictures.py gives them that credit; tools/validate.py checks it).
+function aboutSources() {
+  const [d, m, y] = DATA.source.edition.split(".").map(Number);
+  const photos = DATA.general.filter((q) => q.credit.includes("Anlage 1 EinbTestV")).map((q) => q.n);
+  return { edition: fmtDate(new Date(y, m - 1, d)), photos: photos.join(", ") };
+}
+
 function viewSettings() {
   const s = S.settings;
   return `
@@ -825,7 +834,7 @@ function viewSettings() {
       </div>
     </section>
     <section class="group about"><h2>${t("about.title")}</h2>
-      <p class="note">${t("about.sources", { edition: DATA.source.edition })}</p>
+      <p class="note">${t("about.sources", aboutSources())}</p>
       <p class="note">${t("about.disclaimer")}</p>
       <p class="note">${t("about.privacy")}</p>
       <p class="note">${t("about.license")} <a href="${SOURCE}" target="_blank" rel="noopener">${SOURCE.replace("https://", "")}</a></p>
@@ -1173,14 +1182,15 @@ document.addEventListener("change", (e) => {
     renderBrowseList();
   } else if (el.id === "import-file" && el.files[0]) {
     el.files[0].text().then((txt) => {
-      let ok;
+      let problems;
       try {
-        ok = importData(JSON.parse(txt));
-      } catch {
-        ok = false;
+        problems = importData(JSON.parse(txt), { ids: BY_ID, states: Object.keys(STATES) });
+      } catch (e) {
+        problems = [String(e)];
       }
-      toast(t(ok ? "set.import.ok" : "set.import.bad"));
-      if (ok) render(true);
+      if (problems.length) console.warn("import rejected:", problems);
+      toast(t(problems.length ? "set.import.bad" : "set.import.ok"));
+      if (!problems.length) render(true);
     });
   }
 });
@@ -1225,9 +1235,13 @@ function showUpdate() {
 
 function registerSW() {
   if (!("serviceWorker" in navigator)) return;
+  // The first service worker only takes over a page that is already up to date (clients.claim()), so
+  // just a change of an existing controller, i.e. an update, possibly accepted in another tab, reloads.
+  let hadController = !!navigator.serviceWorker.controller;
   let reloading = false;
   navigator.serviceWorker.addEventListener("controllerchange", () => {
-    if (!reloading) {
+    if (!hadController) hadController = true;
+    else if (!reloading) {
       reloading = true;
       location.reload();
     }

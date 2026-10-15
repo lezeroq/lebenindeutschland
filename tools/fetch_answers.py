@@ -70,10 +70,12 @@ def main() -> None:
         if not bad:
             write_json(path, records)
 
-    primary = {r["num"]: r for r in load_json(ANSWERS / f"{PRIMARY}.json")}
+    # the spot checks compare against the primary state, which is missing if its fetch failed above
+    primary_path = ANSWERS / f"{PRIMARY}.json"
+    primary = {r["num"]: r for r in load_json(primary_path)} if primary_path.exists() else {}
     for code in CODES:
         path = ANSWERS / f"{code}.json"
-        if code == PRIMARY or not path.exists():
+        if code == PRIMARY or not primary or not path.exists():
             continue
         for r in load_json(path):
             if r["num"] in SPOT_CHECKS and (correct_text(r), r["id"]) != (

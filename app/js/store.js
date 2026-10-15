@@ -1,4 +1,6 @@
 // Everything the app remembers lives in localStorage on this device, under one prefix.
+import { checkBackup } from "./backup.js";
+
 const NS = "lid:v1:";
 
 function read(key, fallback) {
@@ -43,17 +45,19 @@ export function exportData() {
   return out;
 }
 
-export function importData(obj) {
-  if (!obj || obj.app !== "lebenindeutschland" || typeof obj.progress !== "object") return false;
-  S.settings = Object.assign({}, DEFAULT_SETTINGS, obj.settings || {}, { onboarded: true });
-  S.progress = obj.progress || {};
-  S.history = Array.isArray(obj.history) ? obj.history : [];
-  S.daily = obj.daily || { date: "", newDone: 0 };
-  S.activity = Array.isArray(obj.activity) ? obj.activity : [];
+// Replaces everything with an exported file, or changes nothing and returns its problems (see backup.js).
+export function importData(obj, known) {
+  const problems = checkBackup(obj, known);
+  if (problems.length) return problems;
+  S.settings = Object.assign({}, DEFAULT_SETTINGS, obj.settings, { onboarded: true });
+  S.progress = obj.progress;
+  S.history = obj.history;
+  S.daily = obj.daily;
+  S.activity = obj.activity;
   S.session = null;
   S.test = null;
   save(...EXPORT_KEYS, "session", "test");
-  return true;
+  return [];
 }
 
 export function resetProgress() {

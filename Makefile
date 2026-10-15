@@ -5,7 +5,7 @@ UV ?= uv
 PORT ?= 8787
 
 .DEFAULT_GOAL := app
-.PHONY: app questions refresh pictures validate setup lint format check serve e2e clean help
+.PHONY: app questions refresh pictures validate setup lint format test check serve e2e clean help
 
 help:  ## list the targets
 	@grep -E '^[a-z0-9-]+:.*## ' $(MAKEFILE_LIST) | sed 's/:.*## /\t/' | expand -t 12
@@ -29,6 +29,7 @@ validate:  ## check data/questions.json, translations/*.json and the interface l
 	$(PYTHON) tools/validate.py
 	node tools/check_i18n.mjs
 
+# one run writes all three (a grouped target, GNU make 4.3+)
 build/katalog.pdf build/katalog.txt build/einbtestv.zip &:
 	$(PYTHON) tools/fetch_catalogue.py
 
@@ -56,7 +57,10 @@ format:  ## format and auto-fix everything
 	npx eslint --fix .
 	npx prettier --write --log-level warn .
 
-check: lint validate  ## lint and validate; run before every commit
+test:  ## unit tests for the app's learning levels and the import check
+	node --test --test-reporter=spec tools/unit.test.mjs
+
+check: lint validate test  ## lint, validate and unit-test; run before every commit
 
 serve: app  ## serve dist/ at http://127.0.0.1:8787/lebenindeutschland/ (PORT=... to change)
 	$(PYTHON) -m http.server --bind 127.0.0.1 --directory dist $(PORT)

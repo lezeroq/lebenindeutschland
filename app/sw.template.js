@@ -3,8 +3,11 @@ const VERSION = "__VERSION__";
 const CACHE = "lid-" + VERSION;
 const ASSETS = __ASSETS__;
 
+// cache: "reload" skips the browser's HTTP cache, so a new version never precaches files of an old one.
 self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(ASSETS)));
+  event.waitUntil(
+    caches.open(CACHE).then((cache) => cache.addAll(ASSETS.map((url) => new Request(url, { cache: "reload" })))),
+  );
 });
 
 self.addEventListener("activate", (event) => {

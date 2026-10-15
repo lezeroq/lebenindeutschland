@@ -23,9 +23,10 @@ here; do not add any.
 | `app/js/i18n.js`      | Interface languages (`LANGS`) and all interface strings (`STR`)                           |
 | `app/js/srs.js`       | Learning levels and review intervals                                                      |
 | `app/js/store.js`     | `localStorage` state, export and import                                                   |
+| `app/js/backup.js`    | Strict check of an imported export file                                                   |
 | `data/questions.json` | Snapshot of the catalogue and answer key. Generated, but committed and reviewed like code |
 | `translations/`       | `<lang>.json` hint translations, keyed by question id                                     |
-| `tools/`              | Download, parse, merge, picture, validation and build scripts; e2e test                   |
+| `tools/`              | Download, parse, merge, picture, validation and build scripts; unit and e2e tests         |
 | `assets/`             | Source art (square icon used for the maskable and Apple touch PNGs)                       |
 | `docs/screenshots/`   | Screenshots shown in the README                                                           |
 | `build/`              | Ignored. Downloads and intermediate files; safe to delete                                 |
@@ -56,7 +57,7 @@ app/ + data/ + translations/ + build/img/ ─ build_app.py ─▶ dist/lebeninde
 
 ## Commands
 
-Requirements: Python 3.11+ (standard library only), poppler-utils (`pdftotext`, `pdfinfo`,
+Requirements: GNU make 4.3+ (on macOS: `brew install make`, then `gmake`), Python 3.11+ (standard library only), poppler-utils (`pdftotext`, `pdfinfo`,
 `pdftoppm`), ImageMagick (`magick` or `convert`), Node 22+ with npm, `uv` (for black and isort) and
 Google Chrome (only for `make e2e`; set `CHROME=/path/to/chrome` if it is not
 `/usr/bin/google-chrome`).
@@ -67,7 +68,8 @@ make             # build dist/lebenindeutschland/ (downloads the catalogue PDF o
 make serve       # http://127.0.0.1:8787/lebenindeutschland/
 make e2e         # click through every mode in headless Chrome; screenshots in build/e2e/
 make format      # isort + black, eslint --fix, prettier --write
-make check       # lint (black, isort, pyright, eslint, prettier) + validate the data
+make check       # lint (black, isort, pyright, eslint, prettier) + validate the data + unit tests
+make test        # unit tests only: learning levels (srs.js) and the import check (backup.js)
 make questions   # rebuild data/questions.json from BAMF, reusing downloads in build/
 make refresh     # delete build/, download everything again, rebuild questions and app
 make help        # list all targets
@@ -149,7 +151,11 @@ need `dir="rtl"` handling in `applyLangClasses()` and CSS work; that is not supp
 - Interface text lives only in `app/js/i18n.js`, for every language in `LANGS`.
 - Never edit `dist/`; change `app/` and rebuild.
 - Users' progress is in `localStorage` under the keys in `app/js/store.js`. A change to its shape
-  needs a migration for existing data and must keep export and import working.
+  needs a migration for existing data and must keep export and import working: `app/js/backup.js`
+  rejects any file that does not have exactly the exported shape, so update it (and the example in
+  `tools/unit.test.mjs`) together with the shape, and keep accepting files from older versions.
+- `tools/unit.test.mjs` covers the pure logic (`srs.js`, `backup.js`). When you change the learning
+  rules, change the tests and the help texts (`how.body`, `list.learned.empty`) with them.
 - For visual changes, run `make e2e` and look at the screenshots in `build/e2e/` (light, dark,
   German, English, Russian). The app is used mostly on phones.
 
@@ -164,12 +170,14 @@ README's "License and sources" section must stay accurate:
 - Settings > About also has the disclaimer, the privacy note and the license line
   (`about.disclaimer`, `about.privacy`, `about.license`). The privacy note promises no cookies, no
   tracking and no data leaving the device: never add analytics, external requests or cookies
-  without changing it.
+  without changing it. The website that serves the app must not set cookies either.
 - Pictures are only built, never committed. The uncredited drawings, maps and coats of arms come
   from the BAMF PDF. Photos that the PDF credits to someone else ("© Bundesregierung/…",
   "© Deutscher Bundestag/…") must not be published: `tools/pictures.py` takes those questions'
   photos from Anlage 1 of the regulation instead (`ANNEX_PHOTOS`), and `make` fails if a new
   credited photo appears. Add the matching Anlage 1 picture to `ANNEX_PHOTOS`, or drop the picture.
+  Those questions get the credit `ANNEX_CREDIT`, shown under the photo; Settings > About lists them
+  from that credit, and `tools/validate.py` checks that the credits match `ANNEX_PHOTOS`.
 - Never add images from elsewhere (stock photos, Wikipedia, other apps) without a license that
   allows it, and record the license in the README.
 - Never use the federal or state coats of arms or the Bundesadler as an icon, logo or branding,

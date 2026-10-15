@@ -16,7 +16,7 @@ Offline-capable study app (PWA) for the German citizenship test, served at
 
 ## Build
 
-You need Python 3.11+, poppler-utils, ImageMagick and Node 22+; `uv` and Google Chrome only for
+You need GNU make 4.3+, Python 3.11+, poppler-utils, ImageMagick and Node 22+; `uv` and Google Chrome only for
 linting and the end-to-end test.
 
 ```sh
@@ -46,9 +46,11 @@ make e2e        # click through every mode in headless Chrome
 
 Every question goes through levels 0 (new), 1 (just missed), 2–4 (learning) and 5 (learned).
 A correct answer moves it up one level and schedules the next review 1, 2 or 4 days later.
-The fourth correct answer in a row marks it learned. A wrong answer resets it to level 1, and it
-comes back in the same session. Mistakes in tests are sent back to learning too. Sessions have at
-most 20 cards: due reviews first, then new questions up to the daily limit.
+The fourth correct answer in a row marks it learned, so the four answers are always on different
+days: practicing a question before its day ("Keep practicing") does not move it up. A wrong answer
+resets it to level 1, and it comes back in the same session. Mistakes in tests are sent back to
+learning too; unanswered test questions are not. Sessions have at most 20 cards: due reviews
+first, then new questions up to the daily limit.
 
 All progress is stored in `localStorage` on the device and can be exported and imported as JSON
 in Settings.

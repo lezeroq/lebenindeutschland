@@ -49,7 +49,7 @@ export const STR = {
     steps: "{n} von 4 richtig",
     "how.title": "So funktioniert das Lernen",
     "how.body":
-      "Jede Frage durchläuft vier Stufen. Beantwortest du sie richtig, kommt sie nach 1 Tag wieder, danach nach 2 und nach 4 Tagen. Nach der vierten richtigen Antwort gilt sie als gelernt. Eine falsche Antwort setzt sie zurück, und sie kommt in derselben Runde noch einmal. So wiederholst du schwierige Fragen oft und sichere selten. Fehler aus Tests landen automatisch wieder im Lernmodus.",
+      "Jede Frage durchläuft vier Stufen. Beantwortest du sie richtig, kommt sie nach 1 Tag wieder, danach nach 2 und nach 4 Tagen. Nach der vierten richtigen Antwort gilt sie als gelernt. Übst du eine Frage vor ihrem Tag, steigt sie dabei nicht auf. Eine falsche Antwort setzt sie zurück, und sie kommt in derselben Runde noch einmal. So wiederholst du schwierige Fragen oft und sichere selten. Fehler aus Tests landen automatisch wieder im Lernmodus.",
     back: "Zurück",
     next: "Weiter",
     endSession: "Runde beenden",
@@ -123,7 +123,7 @@ export const STR = {
     "set.export": "Fortschritt exportieren",
     "set.import": "Fortschritt importieren",
     "set.import.ok": "Fortschritt importiert",
-    "set.import.bad": "Diese Datei ist kein Export dieser App.",
+    "set.import.bad": "Diese Datei ist kein gültiger Export dieser App. Es wurde nichts geändert.",
     "set.resetProgress": "Lernfortschritt zurücksetzen",
     "set.clearHistory": "Testverlauf löschen",
     "confirm.reset": "Alle Lernstände werden gelöscht. Das lässt sich nicht rückgängig machen.",
@@ -136,7 +136,7 @@ export const STR = {
       "Tippe in Safari auf „Teilen“ und dann auf „Zum Home-Bildschirm“. Danach startet die App wie eine normale App und funktioniert auch offline.",
     "about.title": "Über diese App",
     "about.sources":
-      "Fragen und Antwortmöglichkeiten: Anlage 1 der Einbürgerungstestverordnung (EinbTestV) in der Fassung des BAMF-Gesamtfragenkatalogs, Stand {edition}. Richtige Antworten: BAMF-Online-Testcenter. Bilder: BAMF-Gesamtfragenkatalog; die Fotos zu den Fragen 55, 70, 181, 216 und 235 aus Anlage 1 EinbTestV.",
+      "Fragen und Antwortmöglichkeiten: Anlage 1 der Einbürgerungstestverordnung (EinbTestV) in der Fassung des BAMF-Gesamtfragenkatalogs, Stand {edition}. Richtige Antworten: BAMF-Online-Testcenter. Bilder: BAMF-Gesamtfragenkatalog; die Fotos zu den Fragen {photos} aus Anlage 1 EinbTestV.",
     "about.disclaimer":
       "Diese App ist kein Angebot des BAMF oder einer anderen Behörde. Alle Angaben ohne Gewähr, maßgeblich sind die amtlichen Unterlagen. Übersetzungen sind Lernhilfen und nicht amtlich. Die Landeswappen werden wie im amtlichen Fragenkatalog nur zur staatsbürgerlichen Bildung gezeigt.",
     "about.privacy":
@@ -196,7 +196,7 @@ export const STR = {
     steps: "{n} of 4 correct",
     "how.title": "How learning works",
     "how.body":
-      "Each question goes through four levels. Answer it correctly and it comes back after 1 day, then after 2 and after 4 days. After the fourth correct answer it counts as learned. A wrong answer resets it, and it comes up again in the same session. Hard questions come back often, easy ones rarely. Mistakes from tests go back into learning automatically.",
+      "Each question goes through four levels. Answer it correctly and it comes back after 1 day, then after 2 and after 4 days. After the fourth correct answer it counts as learned. Practicing a question before its day doesn't move it up. A wrong answer resets it, and it comes up again in the same session. Hard questions come back often, easy ones rarely. Mistakes from tests go back into learning automatically.",
     back: "Back",
     next: "Next",
     endSession: "End session",
@@ -268,7 +268,7 @@ export const STR = {
     "set.export": "Export progress",
     "set.import": "Import progress",
     "set.import.ok": "Progress imported",
-    "set.import.bad": "This file isn't an export from this app.",
+    "set.import.bad": "This file isn't a valid export from this app. Nothing was changed.",
     "set.resetProgress": "Reset learning progress",
     "set.clearHistory": "Clear test history",
     "confirm.reset": "All learning progress will be deleted. This can't be undone.",
@@ -281,7 +281,7 @@ export const STR = {
       "In Safari, tap Share, then “Add to Home Screen”. The app then opens like a regular app and works offline.",
     "about.title": "About this app",
     "about.sources":
-      "Questions and answer options: Annex 1 of the Einbürgerungstestverordnung (EinbTestV), as published in the BAMF Gesamtfragenkatalog, as of {edition}. Correct answers: BAMF Online-Testcenter. Pictures: BAMF Gesamtfragenkatalog; the photos for questions 55, 70, 181, 216 and 235 from Annex 1 of the EinbTestV.",
+      "Questions and answer options: Annex 1 of the Einbürgerungstestverordnung (EinbTestV), as published in the BAMF Gesamtfragenkatalog, as of {edition}. Correct answers: BAMF Online-Testcenter. Pictures: BAMF Gesamtfragenkatalog; the photos for questions {photos} from Annex 1 of the EinbTestV.",
     "about.disclaimer":
       "This app is not affiliated with BAMF or any other authority. No guarantee of accuracy: the official documents prevail. Translations are learning aids, not official. The state coats of arms are shown for civic education only, as in the official catalogue.",
     "about.privacy":
@@ -341,7 +341,7 @@ export const STR = {
     steps: "верно {n} из 4",
     "how.title": "Как устроено обучение",
     "how.body":
-      "Каждый вопрос проходит четыре уровня. После верного ответа он вернётся через 1 день, затем через 2 и через 4 дня. После четвёртого верного ответа вопрос считается выученным. Ошибка сбрасывает уровень, и вопрос повторится в этом же занятии. Трудные вопросы повторяются часто, лёгкие — редко. Ошибки из тестов автоматически возвращаются в изучение.",
+      "Каждый вопрос проходит четыре уровня. После верного ответа он вернётся через 1 день, затем через 2 и через 4 дня. После четвёртого верного ответа вопрос считается выученным. Повторение раньше срока не повышает уровень. Ошибка сбрасывает уровень, и вопрос повторится в этом же занятии. Трудные вопросы повторяются часто, лёгкие — редко. Ошибки из тестов автоматически возвращаются в изучение.",
     back: "Назад",
     next: "Далее",
     endSession: "Завершить занятие",
@@ -414,7 +414,7 @@ export const STR = {
     "set.export": "Экспорт прогресса",
     "set.import": "Импорт прогресса",
     "set.import.ok": "Прогресс импортирован",
-    "set.import.bad": "Этот файл не является экспортом этого приложения.",
+    "set.import.bad": "Этот файл не является корректным экспортом этого приложения. Ничего не изменено.",
     "set.resetProgress": "Сбросить прогресс обучения",
     "set.clearHistory": "Очистить историю тестов",
     "confirm.reset": "Весь прогресс обучения будет удалён. Это нельзя отменить.",
@@ -427,7 +427,7 @@ export const STR = {
       "В Safari нажмите «Поделиться», затем «На экран „Домой“». После этого приложение открывается как обычное и работает без интернета.",
     "about.title": "О приложении",
     "about.sources":
-      "Вопросы и варианты ответов: приложение 1 к Einbürgerungstestverordnung (EinbTestV) в редакции каталога вопросов BAMF (Gesamtfragenkatalog) от {edition}. Правильные ответы: онлайн-тестцентр BAMF. Изображения: каталог вопросов BAMF; фотографии к вопросам 55, 70, 181, 216 и 235 — из приложения 1 к EinbTestV.",
+      "Вопросы и варианты ответов: приложение 1 к Einbürgerungstestverordnung (EinbTestV) в редакции каталога вопросов BAMF (Gesamtfragenkatalog, по состоянию на {edition}). Правильные ответы: онлайн-тестцентр BAMF. Изображения: каталог вопросов BAMF; фотографии к вопросам {photos} — из приложения 1 к EinbTestV.",
     "about.disclaimer":
       "Приложение не является сервисом BAMF или другого ведомства. Без гарантии точности: решающее значение имеют официальные документы. Переводы — учебная подсказка, а не официальный текст. Гербы земель показаны только в целях гражданского образования, как в официальном каталоге.",
     "about.privacy":
@@ -472,6 +472,10 @@ export function relDay(ts) {
   if (n <= 0) return t("today");
   if (n === 1) return t("tomorrow");
   return t("inDays", { n });
+}
+
+export function fmtDate(ts) {
+  return new Intl.DateTimeFormat(LANGS[lang].locale, { dateStyle: "long" }).format(ts);
 }
 
 export function fmtDateTime(ts) {

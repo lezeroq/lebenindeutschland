@@ -31,7 +31,7 @@ from common import (
     load_json,
     write_json,
 )
-from pictures import ANNEX_PHOTOS, detect, image_path, sha256
+from pictures import ANNEX_CREDIT, ANNEX_PHOTOS, detect, image_path, sha256
 
 PRIMARY = "BY"  # fetch_answers.py takes the general answers from this state's catalogue
 MIN_SCORE = 0.85  # weakest option pairing that still counts as a clear match
@@ -78,7 +78,7 @@ def correct_option(q: dict, web: dict) -> tuple[int, list[str]]:
 
 def edition() -> str:
     """The catalogue's "Stand" date from the PDF title, e.g. 07.05.2025 (shown in Settings > About)."""
-    info = subprocess.run(["pdfinfo", str(PDF)], capture_output=True, text=True, check=True).stdout
+    info = subprocess.run(["pdfinfo", str(PDF)], capture_output=True, text=True, encoding="utf-8", check=True).stdout
     m = re.search(r"Stand:?\s*(\d{2}\.\d{2}\.\d{4})", info)
     if not m:
         sys.exit(f"no 'Stand: dd.mm.yyyy' in the title of {PDF}")
@@ -94,8 +94,8 @@ def build(pictures: set[str]) -> tuple[dict[str, Any], list[str]]:
         idx, warn = correct_option(q, web)
         warnings.extend(warn)
         img = image_path(q) if q["id"] in pictures else None
-        # the credit belongs to the PDF's photo; ANNEX_PHOTOS replaces it with the uncredited official one
-        credit = "" if q["id"] in ANNEX_PHOTOS else q["credit"]
+        # the PDF's credit belongs to the PDF's photo; ANNEX_PHOTOS replaces that photo with the official one
+        credit = ANNEX_CREDIT if q["id"] in ANNEX_PHOTOS else q["credit"]
         return {
             "id": q["id"],
             **extra,

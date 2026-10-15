@@ -3,7 +3,8 @@
 // Levels: 0 = new, 1 = answered wrong (due again right away), 2–4 = learning, 5 = learned.
 // A correct answer moves a question up one level (a new or just-missed question goes straight to 2)
 // and schedules it 1, 2 or 4 days later. The fourth correct answer in a row makes it learned.
-// Any wrong answer drops it back to level 1.
+// A correct answer before the due day (extra practice) is counted but keeps level and due day, so the
+// four correct answers are always on different days. Any wrong answer drops it back to level 1.
 
 export const LEARNED = 5;
 const WAIT_DAYS = { 2: 1, 3: 2, 4: 4 };
@@ -22,7 +23,9 @@ export function addDays(ts, n) {
 
 export function grade(prev, correct, now) {
   const p = Object.assign({ l: 0, c: 0, w: 0 }, prev);
-  if (correct) {
+  if (correct && p.l >= 2 && p.d > now) {
+    p.c += 1;
+  } else if (correct) {
     p.c += 1;
     p.l = p.l <= 1 ? 2 : p.l + 1;
     if (p.l >= LEARNED) {
