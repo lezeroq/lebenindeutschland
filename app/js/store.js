@@ -23,12 +23,12 @@ const DEFAULT_SETTINGS = { lang: "de", hints: true, state: "BY", newPerDay: 20, 
 
 export const S = {
   settings: Object.assign({}, DEFAULT_SETTINGS, read("settings", {})),
-  progress: read("progress", {}),   // question id -> { l, d, c, w, t, L }
-  history: read("history", []),     // finished tests, newest first
+  progress: read("progress", {}), // question id -> { l, d, c, w, t, L }
+  history: read("history", []), // finished tests, newest first
   daily: read("daily", { date: "", newDone: 0 }),
-  activity: read("activity", []),   // days with learning activity, "YYYY-MM-DD"
-  session: read("session", null),   // learning session in progress
-  test: read("test", null),         // test in progress
+  activity: read("activity", []), // days with learning activity, "YYYY-MM-DD"
+  session: read("session", null), // learning session in progress
+  test: read("test", null), // test in progress
 };
 
 export function save(...keys) {

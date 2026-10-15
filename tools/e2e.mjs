@@ -18,20 +18,37 @@ const browser = await puppeteer.launch({ executablePath: CHROME, headless: true,
 const page = await browser.newPage();
 await page.setViewport({ width: 390, height: 844, deviceScaleFactor: 1, isMobile: true, hasTouch: true });
 const problems = [];
-page.on("console", m => { if (m.type() === "error") problems.push("console: " + m.text()); });
-page.on("pageerror", e => problems.push("pageerror: " + e.message));
-page.on("requestfailed", r => problems.push("requestfailed: " + r.url()));
+page.on("console", (m) => {
+  if (m.type() === "error") problems.push("console: " + m.text());
+});
+page.on("pageerror", (e) => problems.push("pageerror: " + e.message));
+page.on("requestfailed", (r) => problems.push("requestfailed: " + r.url()));
 
 let n = 0;
-const shot = async name => { await new Promise(r => setTimeout(r, 150)); await page.screenshot({ path: `${OUT}/${String(++n).padStart(2, "0")}-${name}.png` }); };
-const click = async sel => {
-  await page.waitForSelector(sel, { visible: true, timeout: 5000 });
-  await page.$eval(sel, el => el.click());
-  await new Promise(r => setTimeout(r, 60));
+const shot = async (name) => {
+  await new Promise((r) => setTimeout(r, 150));
+  await page.screenshot({ path: `${OUT}/${String(++n).padStart(2, "0")}-${name}.png` });
 };
-process.on("unhandledRejection", async e => { console.log("FAILED:", e.message); try { await page.screenshot({ path: `${OUT}/zz-failure.png` }); } catch { /* no page left to capture */ } console.log(problems.join("\n")); process.exit(1); });
-const text = sel => page.$eval(sel, el => el.textContent.trim());
-const check = (cond, msg) => { if (!cond) problems.push("check failed: " + msg); else console.log("ok  " + msg); };
+const click = async (sel) => {
+  await page.waitForSelector(sel, { visible: true, timeout: 5000 });
+  await page.$eval(sel, (el) => el.click());
+  await new Promise((r) => setTimeout(r, 60));
+};
+process.on("unhandledRejection", async (e) => {
+  console.log("FAILED:", e.message);
+  try {
+    await page.screenshot({ path: `${OUT}/zz-failure.png` });
+  } catch {
+    /* no page left to capture */
+  }
+  console.log(problems.join("\n"));
+  process.exit(1);
+});
+const text = (sel) => page.$eval(sel, (el) => el.textContent.trim());
+const check = (cond, msg) => {
+  if (!cond) problems.push("check failed: " + msg);
+  else console.log("ok  " + msg);
+};
 
 await page.goto(BASE, { waitUntil: "networkidle0" });
 await page.waitForSelector(".onb");
@@ -46,20 +63,27 @@ check((await text(".big-num")).includes("310"), "Bayern pool has 310 questions")
 
 // ---- learning session: answer the first card right, the second wrong, then everything right
 await click('[data-act="start-session"]');
-let step = 0, wrongDone = false;
-while (await page.$('[data-act="answer-learn"]') || await page.$('[data-act="next-card"]:not([disabled])')) {
+let step = 0,
+  wrongDone = false;
+while ((await page.$('[data-act="answer-learn"]')) || (await page.$('[data-act="next-card"]:not([disabled])'))) {
   if (await page.$('[data-act="answer-learn"]')) {
-    const id = await page.$eval(".qcard", el => el.dataset.id);
+    const id = await page.$eval(".qcard", (el) => el.dataset.id);
     const a = answer.get(id);
     const pick = step === 1 && !wrongDone ? (a + 1) % 4 : a;
     if (step === 0) await shot("session-question");
     await click(`[data-act="answer-learn"][data-i="${pick}"]`);
     if (step === 0) await shot("session-correct");
-    if (pick !== a) { wrongDone = true; await shot("session-wrong"); }
+    if (pick !== a) {
+      wrongDone = true;
+      await shot("session-wrong");
+    }
     step++;
   }
   await click('[data-act="next-card"]');
-  if (step > 60) { problems.push("session did not end"); break; }
+  if (step > 60) {
+    problems.push("session did not end");
+    break;
+  }
 }
 await page.waitForSelector(".summary-card");
 await shot("session-summary");
@@ -68,7 +92,7 @@ check(step === 21, `session took ${step} answers (20 cards + 1 repeat)`);
 await click('[data-act="list-back"]');
 await page.waitForSelector(".progress-card");
 await shot("learn-home-after");
-const learningCount = await page.$eval('[data-list="learning"] b', el => +el.textContent);
+const learningCount = await page.$eval('[data-list="learning"] b', (el) => +el.textContent);
 check(learningCount === 20, `20 questions in progress (got ${learningCount})`);
 
 // mark one as learned, then move it back
@@ -89,11 +113,11 @@ await page.waitForSelector(".modes");
 await shot("test-home-empty");
 await click('[data-act="test-start"][data-type="quick"]');
 for (let i = 0; i < 10; i++) {
-  const id = await page.$eval(".qcard", el => el.dataset.id);
+  const id = await page.$eval(".qcard", (el) => el.dataset.id);
   const a = answer.get(id);
   if (i === 0) await shot("quick-question");
   await click(`[data-act="pick-test"][data-i="${i < 7 ? a : (a + 1) % 4}"]`);
-  await new Promise(r => setTimeout(r, 400));
+  await new Promise((r) => setTimeout(r, 400));
 }
 await click('[data-act="test-finish"]');
 await page.waitForSelector(".result-card");
@@ -103,12 +127,15 @@ check((await text(".score b")) === "7", "quick test scored 7/10");
 await click('[data-act="review-back"]');
 await click('[data-act="test-start"][data-type="exam"]');
 await page.waitForSelector("#timer");
-await new Promise(r => setTimeout(r, 1200));
-check(/^5\d:\d\d$|^60:00$/.test(await text("#timer")), "exam timer counts down from 60:00 (" + (await text("#timer")) + ")");
+await new Promise((r) => setTimeout(r, 1200));
+check(
+  /^5\d:\d\d$|^60:00$/.test(await text("#timer")),
+  "exam timer counts down from 60:00 (" + (await text("#timer")) + ")",
+);
 for (let i = 0; i < 20; i++) {
-  const id = await page.$eval(".qcard", el => el.dataset.id);
+  const id = await page.$eval(".qcard", (el) => el.dataset.id);
   await click(`[data-act="pick-test"][data-i="${answer.get(id)}"]`);
-  await new Promise(r => setTimeout(r, 400));
+  await new Promise((r) => setTimeout(r, 400));
 }
 await shot("exam-running");
 await click('[data-act="test-exit"]');
@@ -133,12 +160,12 @@ await click('[data-act="go"][data-tab="browse"]');
 await page.waitForSelector("#browse-list .qcard");
 check((await page.$$("#browse-list .qcard")).length === 310, "browse shows 310 questions");
 await page.click("#browse-answers");
-await new Promise(r => setTimeout(r, 100));
-const firstId = await page.$eval("#browse-list .qcard", el => el.dataset.id);
+await new Promise((r) => setTimeout(r, 100));
+const firstId = await page.$eval("#browse-list .qcard", (el) => el.dataset.id);
 await click(`#browse-list .qcard[data-id="${firstId}"] [data-i="0"]`);
 await shot("browse-reveal");
 await page.type("#browse-search", "Grundgesetz");
-await new Promise(r => setTimeout(r, 400));
+await new Promise((r) => setTimeout(r, 400));
 const hits = (await page.$$("#browse-list .qcard")).length;
 check(hits > 5 && hits < 60, `search “Grundgesetz” finds ${hits} questions`);
 await click('[data-act="browse-filter"][data-f="state"]');
@@ -148,13 +175,16 @@ check((await page.$$("#browse-list .qcard")).length === 0 || true, "state filter
 await click('[data-act="go"][data-tab="settings"]');
 await shot("settings-en");
 await click('[data-act="set-lang"][data-lang="ru"]');
-await new Promise(r => setTimeout(r, 500));
+await new Promise((r) => setTimeout(r, 500));
 await click('[data-act="go"][data-tab="browse"]');
-await page.$eval("#browse-search", el => { el.value = ""; el.dispatchEvent(new Event("input", { bubbles: true })); });
+await page.$eval("#browse-search", (el) => {
+  el.value = "";
+  el.dispatchEvent(new Event("input", { bubbles: true }));
+});
 await click('[data-act="browse-filter"][data-f="state"]');
-await new Promise(r => setTimeout(r, 300));
+await new Promise((r) => setTimeout(r, 300));
 await shot("browse-ru-hints-state");
-check(await page.$eval("body", b => b.classList.contains("hints")), "RU hints are on");
+check(await page.$eval("body", (b) => b.classList.contains("hints")), "RU hints are on");
 await page.emulateMediaFeatures([{ name: "prefers-color-scheme", value: "dark" }]);
 await click('[data-act="go"][data-tab="learn"]');
 await shot("learn-home-dark-ru");
@@ -166,7 +196,7 @@ await page.waitForSelector(".progress-card");
 check((await page.$$(".onb")).length === 0, "reload keeps onboarding done");
 const swReady = await page.evaluate(async () => !!(await navigator.serviceWorker.ready).active);
 check(swReady, "service worker active");
-await new Promise(r => setTimeout(r, 1500));
+await new Promise((r) => setTimeout(r, 1500));
 await page.setOfflineMode(true);
 await page.reload({ waitUntil: "domcontentloaded" });
 await page.waitForSelector(".progress-card", { timeout: 8000 });
@@ -176,7 +206,7 @@ check(true, "app starts offline");
 await page.setOfflineMode(false);
 
 await browser.close();
-const real = problems.filter(p => !(p.startsWith("requestfailed") && p.includes("offline")));
+const real = problems.filter((p) => !(p.startsWith("requestfailed") && p.includes("offline")));
 console.log(real.length ? "\nPROBLEMS:\n" + real.join("\n") : "\nno problems");
 console.log("screenshots in " + OUT);
 process.exitCode = real.length ? 1 : 0;

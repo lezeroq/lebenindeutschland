@@ -10,12 +10,7 @@
   },
   "g2": {
     "q": "In Germany, until their child turns 14, parents can decide whether the child takes part at school in …",
-    "o": [
-      "history lessons.",
-      "religion lessons.",
-      "politics lessons.",
-      "language lessons."
-    ]
+    "o": ["history lessons.", "religion lessons.", "politics lessons.", "language lessons."]
   },
   "g3": {
     "q": "Germany is a state governed by the rule of law (Rechtsstaat). What does this mean?",
@@ -28,12 +23,7 @@
   },
   "g4": {
     "q": "Which right is one of the fundamental rights (Grundrechte) in Germany?",
-    "o": [
-      "Possession of weapons",
-      "Rule of force",
-      "Freedom of expression",
-      "Vigilante justice"
-    ]
+    "o": ["Possession of weapons", "Rule of force", "Freedom of expression", "Vigilante justice"]
   },
   "g5": {
     "q": "Elections in Germany are free. What does that mean?",
@@ -55,12 +45,7 @@
   },
   "g7": {
     "q": "Which right is one of the fundamental rights (Grundrechte) guaranteed by the German constitution? The right to …",
-    "o": [
-      "freedom of faith and conscience",
-      "entertainment",
-      "work",
-      "housing"
-    ]
+    "o": ["freedom of faith and conscience", "entertainment", "work", "housing"]
   },
   "g8": {
     "q": "What is not in the German Basic Law (Grundgesetz)?",
@@ -73,21 +58,11 @@
   },
   "g9": {
     "q": "Which fundamental right (Grundrecht) applies in Germany only to foreigners? The fundamental right to …",
-    "o": [
-      "protection of the family",
-      "human dignity",
-      "asylum",
-      "freedom of expression"
-    ]
+    "o": ["protection of the family", "human dignity", "asylum", "freedom of expression"]
   },
   "g10": {
     "q": "What is compatible with the German Basic Law (Grundgesetz)?",
-    "o": [
-      "corporal punishment",
-      "torture",
-      "the death penalty",
-      "a fine"
-    ]
+    "o": ["corporal punishment", "torture", "the death penalty", "a fine"]
   },
   "g11": {
     "q": "What is the constitution of the Federal Republic of Germany called?",
@@ -127,12 +102,7 @@
   },
   "g15": {
     "q": "What does the German Basic Law (Grundgesetz) prohibit?",
-    "o": [
-      "military service",
-      "forced labor",
-      "free choice of occupation",
-      "working abroad"
-    ]
+    "o": ["military service", "forced labor", "free choice of occupation", "working abroad"]
   },
   "g16": {
     "q": "When is freedom of expression restricted in Germany?",
@@ -154,12 +124,7 @@
   },
   "g18": {
     "q": "Which fundamental right (Grundrecht) is guaranteed in Article 1 of the Basic Law (Grundgesetz) of the Federal Republic of Germany?",
-    "o": [
-      "the inviolability of human dignity",
-      "the right to life",
-      "freedom of religion",
-      "freedom of expression"
-    ]
+    "o": ["the inviolability of human dignity", "the right to life", "freedom of religion", "freedom of expression"]
   },
   "g19": {
     "q": "What is meant by the right of “freedom of movement” (Freizügigkeit) in Germany?",
@@ -172,30 +137,15 @@
   },
   "g20": {
     "q": "A party in Germany pursues the goal of establishing a dictatorship. It is then …",
-    "o": [
-      "tolerant.",
-      "oriented towards the rule of law.",
-      "law-abiding.",
-      "unconstitutional."
-    ]
+    "o": ["tolerant.", "oriented towards the rule of law.", "law-abiding.", "unconstitutional."]
   },
   "g21": {
     "q": "Which is the coat of arms of the Federal Republic of Germany?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "g22": {
     "q": "What form of government does Germany have?",
-    "o": [
-      "Monarchy",
-      "Dictatorship",
-      "Republic",
-      "Principality"
-    ]
+    "o": ["Monarchy", "Dictatorship", "Republic", "Principality"]
   },
   "g23": {
     "q": "In Germany, most people in work are …",
@@ -208,12 +158,7 @@
   },
   "g24": {
     "q": "How many federal states does the Federal Republic of Germany have?",
-    "o": [
-      "14",
-      "15",
-      "16",
-      "17"
-    ]
+    "o": ["14", "15", "16", "17"]
   },
   "g25": {
     "q": "What is not a federal state of the Federal Republic of Germany?",
@@ -235,57 +180,27 @@
   },
   "g27": {
     "q": "Germany is …",
-    "o": [
-      "a socialist state.",
-      "a federal state.",
-      "a dictatorship.",
-      "a monarchy."
-    ]
+    "o": ["a socialist state.", "a federal state.", "a dictatorship.", "a monarchy."]
   },
   "g28": {
     "q": "Who elects the members of the Bundestag in Germany?",
-    "o": [
-      "the military",
-      "the business sector",
-      "the people entitled to vote",
-      "the administration"
-    ]
+    "o": ["the military", "the business sector", "the people entitled to vote", "the administration"]
   },
   "g29": {
     "q": "Which animal is the heraldic animal of the Federal Republic of Germany?",
-    "o": [
-      "Lion",
-      "Eagle",
-      "Bear",
-      "Horse"
-    ]
+    "o": ["Lion", "Eagle", "Bear", "Horse"]
   },
   "g30": {
     "q": "What is not a feature of our democracy?",
-    "o": [
-      "regular elections",
-      "press censorship",
-      "freedom of expression",
-      "different parties"
-    ]
+    "o": ["regular elections", "press censorship", "freedom of expression", "different parties"]
   },
   "g31": {
     "q": "In Germany, cooperation between parties to form a government is called …",
-    "o": [
-      "unity (Einheit).",
-      "coalition (Koalition).",
-      "ministry (Ministerium).",
-      "parliamentary group (Fraktion)."
-    ]
+    "o": ["unity (Einheit).", "coalition (Koalition).", "ministry (Ministerium).", "parliamentary group (Fraktion)."]
   },
   "g32": {
     "q": "What is not a branch of state power in Germany?",
-    "o": [
-      "Legislation",
-      "Government",
-      "Press",
-      "Administration of justice"
-    ]
+    "o": ["Legislation", "Government", "Press", "Administration of justice"]
   },
   "g33": {
     "q": "Which statement is correct? In Germany …",
@@ -307,21 +222,11 @@
   },
   "g35": {
     "q": "What does the German state use to finance social insurance?",
-    "o": [
-      "Church tax (Kirchensteuer)",
-      "Social security contributions",
-      "Donations",
-      "Club membership fees"
-    ]
+    "o": ["Church tax (Kirchensteuer)", "Social security contributions", "Donations", "Club membership fees"]
   },
   "g36": {
     "q": "Which measure provides social security in Germany?",
-    "o": [
-      "health insurance",
-      "car insurance",
-      "building insurance",
-      "liability insurance"
-    ]
+    "o": ["health insurance", "car insurance", "building insurance", "liability insurance"]
   },
   "g37": {
     "q": "What are the heads of government of most federal states in Germany called?",
@@ -343,12 +248,7 @@
   },
   "g39": {
     "q": "What does every German federal state have?",
-    "o": [
-      "its own foreign minister",
-      "its own currency",
-      "its own army",
-      "its own government"
-    ]
+    "o": ["its own foreign minister", "its own currency", "its own army", "its own government"]
   },
   "g40": {
     "q": "With which words does the German national anthem begin?",
@@ -370,12 +270,7 @@
   },
   "g42": {
     "q": "Who passes a new law in Germany?",
-    "o": [
-      "the government",
-      "the parliament",
-      "the courts",
-      "the police"
-    ]
+    "o": ["the government", "the parliament", "the courts", "the police"]
   },
   "g43": {
     "q": "When can a party be banned in Germany?",
@@ -397,12 +292,7 @@
   },
   "g45": {
     "q": "Which type of insurance does long-term care insurance (Pflegeversicherung) belong to?",
-    "o": [
-      "Social insurance",
-      "Accident insurance",
-      "Household contents insurance",
-      "Liability and fire insurance"
-    ]
+    "o": ["Social insurance", "Accident insurance", "Household contents insurance", "Liability and fire insurance"]
   },
   "g46": {
     "q": "The German state has many tasks. Which task is one of them?",
@@ -424,21 +314,11 @@
   },
   "g48": {
     "q": "Which body is not one of Germany's constitutional bodies (Verfassungsorgane)?",
-    "o": [
-      "the Bundesrat",
-      "the Federal President (Bundespräsident)",
-      "the citizens' assembly",
-      "the government"
-    ]
+    "o": ["the Bundesrat", "the Federal President (Bundespräsident)", "the citizens' assembly", "the government"]
   },
   "g49": {
     "q": "Who determines school policy in Germany?",
-    "o": [
-      "the teachers",
-      "the federal states",
-      "the Ministry of Family Affairs",
-      "the universities"
-    ]
+    "o": ["the teachers", "the federal states", "the Ministry of Family Affairs", "the universities"]
   },
   "g50": {
     "q": "The economic system in Germany is called …",
@@ -460,12 +340,7 @@
   },
   "g52": {
     "q": "What does “popular sovereignty” (Volkssouveränität) mean? All state authority is derived from the ...",
-    "o": [
-      "people.",
-      "Bundestag.",
-      "Prussian king.",
-      "Federal Constitutional Court (Bundesverfassungsgericht)."
-    ]
+    "o": ["people.", "Bundestag.", "Prussian king.", "Federal Constitutional Court (Bundesverfassungsgericht)."]
   },
   "g53": {
     "q": "What does “state governed by the rule of law” (Rechtsstaat) mean in Germany?",
@@ -478,12 +353,7 @@
   },
   "g54": {
     "q": "What is not a branch of state power in Germany?",
-    "o": [
-      "Legislature (Legislative)",
-      "Judiciary (Judikative)",
-      "Executive (Exekutive)",
-      "Directive (Direktive)"
-    ]
+    "o": ["Legislature (Legislative)", "Judiciary (Judikative)", "Executive (Exekutive)", "Directive (Direktive)"]
   },
   "g55": {
     "q": "What does this picture show?",
@@ -523,21 +393,11 @@
   },
   "g59": {
     "q": "How many years ago was there a Jewish community on the territory of present-day Germany for the first time?",
-    "o": [
-      "about 300 years ago",
-      "about 700 years ago",
-      "about 1150 years ago",
-      "about 1700 years ago"
-    ]
+    "o": ["about 300 years ago", "about 700 years ago", "about 1150 years ago", "about 1700 years ago"]
   },
   "g60": {
     "q": "In Germany, the Bundestag and the Bundesrat belong to the …",
-    "o": [
-      "executive (Exekutive).",
-      "legislature (Legislative).",
-      "directive (Direktive).",
-      "judiciary (Judikative)."
-    ]
+    "o": ["executive (Exekutive).", "legislature (Legislative).", "directive (Direktive).", "judiciary (Judikative)."]
   },
   "g61": {
     "q": "What does “popular sovereignty” (Volkssouveränität) mean?",
@@ -559,12 +419,7 @@
   },
   "g63": {
     "q": "What is not part of the executive (Exekutive) in Germany?",
-    "o": [
-      "the police",
-      "the courts",
-      "the tax office (Finanzamt)",
-      "the ministries"
-    ]
+    "o": ["the police", "the courts", "the tax office (Finanzamt)", "the ministries"]
   },
   "g64": {
     "q": "Today, the Federal Republic of Germany is divided into …",
@@ -586,21 +441,11 @@
   },
   "g66": {
     "q": "Which cities have the largest Jewish communities in Germany?",
-    "o": [
-      "Berlin and Munich (München)",
-      "Hamburg and Essen",
-      "Nuremberg (Nürnberg) and Stuttgart",
-      "Worms and Speyer"
-    ]
+    "o": ["Berlin and Munich (München)", "Hamburg and Essen", "Nuremberg (Nürnberg) and Stuttgart", "Worms and Speyer"]
   },
   "g67": {
     "q": "In Germany, what is primarily a task of the federal states?",
-    "o": [
-      "Defence policy",
-      "Foreign policy",
-      "Economic policy",
-      "School policy"
-    ]
+    "o": ["Defence policy", "Foreign policy", "Economic policy", "School policy"]
   },
   "g68": {
     "q": "Why does the state supervise the school system in Germany?",
@@ -640,12 +485,7 @@
   },
   "g72": {
     "q": "What is the name of the current Federal Chancellor (Bundeskanzler) of Germany?",
-    "o": [
-      "Gerhard Schröder",
-      "Angela Merkel",
-      "Ursula von der Leyen",
-      "Friedrich Merz"
-    ]
+    "o": ["Gerhard Schröder", "Angela Merkel", "Ursula von der Leyen", "Friedrich Merz"]
   },
   "g73": {
     "q": "The two largest parliamentary groups (Fraktionen) in the German Bundestag are currently …",
@@ -667,12 +507,7 @@
   },
   "g75": {
     "q": "What is the name of Germany's current head of state?",
-    "o": [
-      "Frank-Walter Steinmeier",
-      "Bärbel Bas",
-      "Bodo Ramelow",
-      "Joachim Gauck"
-    ]
+    "o": ["Frank-Walter Steinmeier", "Bärbel Bas", "Bodo Ramelow", "Joachim Gauck"]
   },
   "g76": {
     "q": "What does the abbreviation CDU stand for in Germany?",
@@ -685,12 +520,7 @@
   },
   "g77": {
     "q": "What is the Bundeswehr?",
-    "o": [
-      "the German police",
-      "a German port",
-      "a German citizens' initiative",
-      "the German army"
-    ]
+    "o": ["the German police", "a German port", "a German citizens' initiative", "the German army"]
   },
   "g78": {
     "q": "What does the abbreviation SPD stand for?",
@@ -703,12 +533,7 @@
   },
   "g79": {
     "q": "What does the abbreviation FDP stand for in Germany?",
-    "o": [
-      "Peaceful Demonstrative Party",
-      "Free Germany Party",
-      "Leading Democratic Party",
-      "Free Democratic Party"
-    ]
+    "o": ["Peaceful Demonstrative Party", "Free Germany Party", "Leading Democratic Party", "Free Democratic Party"]
   },
   "g80": {
     "q": "Which court in Germany is responsible for interpreting the Basic Law (Grundgesetz)?",
@@ -721,12 +546,7 @@
   },
   "g81": {
     "q": "Who elects the Federal Chancellor (Bundeskanzler) in Germany?",
-    "o": [
-      "the Bundesrat",
-      "the Federal Convention (Bundesversammlung)",
-      "the people",
-      "the Bundestag"
-    ]
+    "o": ["the Bundesrat", "the Federal Convention (Bundesversammlung)", "the people", "the Bundestag"]
   },
   "g82": {
     "q": "Who heads the German Federal Cabinet (Bundeskabinett)?",
@@ -739,21 +559,11 @@
   },
   "g83": {
     "q": "Who elects the German Federal Chancellor (Bundeskanzler)?",
-    "o": [
-      "the people",
-      "the Federal Convention (Bundesversammlung)",
-      "the Bundestag",
-      "the Federal Government"
-    ]
+    "o": ["the people", "the Federal Convention (Bundesversammlung)", "the Bundestag", "the Federal Government"]
   },
   "g84": {
     "q": "What is the main task of the German Federal President (Bundespräsident)? He or she …",
-    "o": [
-      "governs the country.",
-      "drafts the laws.",
-      "represents the country.",
-      "monitors compliance with the laws."
-    ]
+    "o": ["governs the country.", "drafts the laws.", "represents the country.", "monitors compliance with the laws."]
   },
   "g85": {
     "q": "Who makes up the German Bundesrat?",
@@ -793,21 +603,11 @@
   },
   "g89": {
     "q": "In Germany, what is the association of members of parliament from one party called?",
-    "o": [
-      "Association (Verband)",
-      "Council of Elders (Ältestenrat)",
-      "Parliamentary group (Fraktion)",
-      "Opposition"
-    ]
+    "o": ["Association (Verband)", "Council of Elders (Ältestenrat)", "Parliamentary group (Fraktion)", "Opposition"]
   },
   "g90": {
     "q": "The German federal states participate in federal legislation through …",
-    "o": [
-      "the Bundesrat.",
-      "the Federal Convention (Bundesversammlung).",
-      "the Bundestag.",
-      "the Federal Government."
-    ]
+    "o": ["the Bundesrat.", "the Federal Convention (Bundesversammlung).", "the Bundestag.", "the Federal Government."]
   },
   "g91": {
     "q": "In Germany, a change of government in a federal state can have an impact on federal politics. Governing becomes …",
@@ -838,21 +638,11 @@
   },
   "g94": {
     "q": "From what age are you allowed to take part in elections to the German Bundestag?",
-    "o": [
-      "16",
-      "18",
-      "21",
-      "23"
-    ]
+    "o": ["16", "18", "21", "23"]
   },
   "g95": {
     "q": "What applies to most children in Germany?",
-    "o": [
-      "Compulsory voting",
-      "Compulsory schooling",
-      "Duty of confidentiality",
-      "Compulsory religion"
-    ]
+    "o": ["Compulsory voting", "Compulsory schooling", "Duty of confidentiality", "Compulsory religion"]
   },
   "g96": {
     "q": "How can someone who denies the Holocaust be punished?",
@@ -883,12 +673,7 @@
   },
   "g99": {
     "q": "Who pays for social insurance in Germany?",
-    "o": [
-      "employers and employees",
-      "only employees",
-      "all citizens",
-      "only employers"
-    ]
+    "o": ["employers and employees", "only employees", "all citizens", "only employers"]
   },
   "g100": {
     "q": "What is not part of statutory social insurance?",
@@ -901,12 +686,7 @@
   },
   "g101": {
     "q": "Trade unions (Gewerkschaften) are associations representing the interests of …",
-    "o": [
-      "young people.",
-      "employees.",
-      "pensioners.",
-      "employers."
-    ]
+    "o": ["young people.", "employees.", "pensioners.", "employers."]
   },
   "g102": {
     "q": "What can a person in the Federal Republic of Germany be honored with if they have achieved something outstanding in the political, economic, cultural, intellectual or social field? With the …",
@@ -955,12 +735,7 @@
   },
   "g107": {
     "q": "For how many years is the Bundestag in Germany elected?",
-    "o": [
-      "2 years",
-      "4 years",
-      "6 years",
-      "8 years"
-    ]
+    "o": ["2 years", "4 years", "6 years", "8 years"]
   },
   "g108": {
     "q": "In a federal election (Bundestagswahl) in Germany, anyone may vote who …",
@@ -973,21 +748,11 @@
   },
   "g109": {
     "q": "How often are federal elections (Bundestagswahlen) normally held in Germany?",
-    "o": [
-      "every three years",
-      "every four years",
-      "every five years",
-      "every six years"
-    ]
+    "o": ["every three years", "every four years", "every five years", "every six years"]
   },
   "g110": {
     "q": "For how many years is the Bundestag in Germany elected?",
-    "o": [
-      "2 years",
-      "3 years",
-      "4 years",
-      "5 years"
-    ]
+    "o": ["2 years", "3 years", "4 years", "5 years"]
   },
   "g111": {
     "q": "Which actions relating to the State of Israel are prohibited in Germany?",
@@ -1000,12 +765,7 @@
   },
   "g112": {
     "q": "Elections in Germany are …",
-    "o": [
-      "special.",
-      "secret.",
-      "profession-related.",
-      "gender-dependent."
-    ]
+    "o": ["special.", "secret.", "profession-related.", "gender-dependent."]
   },
   "g113": {
     "q": "Elections in Germany are won by the party that …",
@@ -1018,12 +778,7 @@
   },
   "g114": {
     "q": "Taking part in democratic elections in Germany is …",
-    "o": [
-      "a duty.",
-      "a right.",
-      "a compulsion.",
-      "a burden."
-    ]
+    "o": ["a duty.", "a right.", "a compulsion.", "a burden."]
   },
   "g115": {
     "q": "What does the “active right to vote” (aktives Wahlrecht) mean in Germany?",
@@ -1036,30 +791,15 @@
   },
   "g116": {
     "q": "If you are allowed to vote in a federal election (Bundestagswahl) in Germany, this is called …",
-    "o": [
-      "active election campaign.",
-      "active electoral procedure.",
-      "active electioneering.",
-      "active right to vote."
-    ]
+    "o": ["active election campaign.", "active electoral procedure.", "active electioneering.", "active right to vote."]
   },
   "g117": {
     "q": "What is the minimum percentage of second votes (Zweitstimmen) that parties must receive in order to be elected to the German Bundestag?",
-    "o": [
-      "3%",
-      "4%",
-      "5%",
-      "6%"
-    ]
+    "o": ["3%", "4%", "5%", "6%"]
   },
   "g118": {
     "q": "Who may become a member of the roughly 40 Jewish Maccabi sports clubs?",
-    "o": [
-      "only Germans",
-      "only Israelis",
-      "only religious people",
-      "all people"
-    ]
+    "o": ["only Germans", "only Israelis", "only religious people", "all people"]
   },
   "g119": {
     "q": "Elections in Germany are free. What does that mean?",
@@ -1081,21 +821,11 @@
   },
   "g121": {
     "q": "A party wants to get into the German Bundestag. But it must have a minimum share of the votes. This is called …",
-    "o": [
-      "the 5% hurdle.",
-      "the admission limit.",
-      "the base value.",
-      "the guideline."
-    ]
+    "o": ["the 5% hurdle.", "the admission limit.", "the base value.", "the guideline."]
   },
   "g122": {
     "q": "Which principle are elections in Germany subject to? Elections in Germany are …",
-    "o": [
-      "free, equal, secret.",
-      "open, secure, free.",
-      "closed, equal, secure.",
-      "secure, open, voluntary."
-    ]
+    "o": ["free, equal, secret.", "open, secure, free.", "closed, equal, secure.", "secure, open, voluntary."]
   },
   "g123": {
     "q": "What is the “5% hurdle” (5%-Hürde) in Germany?",
@@ -1144,12 +874,7 @@
   },
   "g128": {
     "q": "Members of parliament who are elected by the citizens are called …",
-    "o": [
-      "deputies.",
-      "chancellors.",
-      "ambassadors.",
-      "minister-presidents (Ministerpräsidenten)."
-    ]
+    "o": ["deputies.", "chancellors.", "ambassadors.", "minister-presidents (Ministerpräsidenten)."]
   },
   "g129": {
     "q": "In Germany, the people elect …",
@@ -1162,12 +887,7 @@
   },
   "g130": {
     "q": "Which ballot paper would be valid in a federal election (Bundestagswahl)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "g131": {
     "q": "In Germany, a mayor is …",
@@ -1207,12 +927,7 @@
   },
   "g135": {
     "q": "Whom do trade unions (Gewerkschaften) represent in Germany?",
-    "o": [
-      "large companies",
-      "small companies",
-      "self-employed people",
-      "employees"
-    ]
+    "o": ["large companies", "small companies", "self-employed people", "employees"]
   },
   "g136": {
     "q": "In Germany, you go to the labor court (Arbeitsgericht) in the case of …",
@@ -1261,12 +976,7 @@
   },
   "g141": {
     "q": "In Germany, who advises people on legal questions and represents them in court?",
-    "o": [
-      "a lawyer",
-      "a judge",
-      "a lay assessor (Schöffe)",
-      "a public prosecutor"
-    ]
+    "o": ["a lawyer", "a judge", "a lay assessor (Schöffe)", "a public prosecutor"]
   },
   "g142": {
     "q": "What is the main task of a judge in Germany? A judge …",
@@ -1279,57 +989,27 @@
   },
   "g143": {
     "q": "In Germany, a judge belongs to the …",
-    "o": [
-      "judicial branch.",
-      "executive branch.",
-      "operative branch.",
-      "legislative branch."
-    ]
+    "o": ["judicial branch.", "executive branch.", "operative branch.", "legislative branch."]
   },
   "g144": {
     "q": "In Germany, a judge belongs to the …",
-    "o": [
-      "executive power.",
-      "judicial power.",
-      "planning power.",
-      "legislative power."
-    ]
+    "o": ["executive power.", "judicial power.", "planning power.", "legislative power."]
   },
   "g145": {
     "q": "In Germany, state power is divided. For which branch of state power does a judge work? For the …",
-    "o": [
-      "judiciary",
-      "executive",
-      "press",
-      "legislature"
-    ]
+    "o": ["judiciary", "executive", "press", "legislature"]
   },
   "g146": {
     "q": "In Germany, what are proceedings before a court called?",
-    "o": [
-      "program",
-      "procedure",
-      "minutes",
-      "trial"
-    ]
+    "o": ["program", "procedure", "minutes", "trial"]
   },
   "g147": {
     "q": "What is the work of a judge in Germany?",
-    "o": [
-      "governing Germany",
-      "administering justice",
-      "drawing up plans",
-      "enacting laws"
-    ]
+    "o": ["governing Germany", "administering justice", "drawing up plans", "enacting laws"]
   },
   "g148": {
     "q": "What is one of the tasks of the police in Germany?",
-    "o": [
-      "to defend the country",
-      "to eavesdrop on citizens",
-      "to pass the laws",
-      "to monitor compliance with laws"
-    ]
+    "o": ["to defend the country", "to eavesdrop on citizens", "to pass the laws", "to monitor compliance with laws"]
   },
   "g149": {
     "q": "What is an example of antisemitic behavior?",
@@ -1351,21 +1031,11 @@
   },
   "g151": {
     "q": "Who built the Wall in Berlin?",
-    "o": [
-      "Great Britain",
-      "the GDR (DDR)",
-      "the Federal Republic of Germany",
-      "the USA"
-    ]
+    "o": ["Great Britain", "the GDR (DDR)", "the Federal Republic of Germany", "the USA"]
   },
   "g152": {
     "q": "When were the National Socialists under Adolf Hitler in power in Germany?",
-    "o": [
-      "1918 to 1923",
-      "1932 to 1950",
-      "1933 to 1945",
-      "1945 to 1989"
-    ]
+    "o": ["1918 to 1923", "1932 to 1950", "1933 to 1945", "1945 to 1989"]
   },
   "g153": {
     "q": "What happened on May 8, 1945?",
@@ -1378,75 +1048,35 @@
   },
   "g154": {
     "q": "When did the Second World War end?",
-    "o": [
-      "1933",
-      "1945",
-      "1949",
-      "1961"
-    ]
+    "o": ["1933", "1945", "1949", "1961"]
   },
   "g155": {
     "q": "When were the National Socialists in power in Germany?",
-    "o": [
-      "1888 to 1918",
-      "1921 to 1934",
-      "1933 to 1945",
-      "1949 to 1963"
-    ]
+    "o": ["1888 to 1918", "1921 to 1934", "1933 to 1945", "1949 to 1963"]
   },
   "g156": {
     "q": "In which year did Hitler become Reich Chancellor (Reichskanzler)?",
-    "o": [
-      "1923",
-      "1927",
-      "1933",
-      "1936"
-    ]
+    "o": ["1923", "1927", "1933", "1936"]
   },
   "g157": {
     "q": "In 1933, the National Socialists under Adolf Hitler established in Germany …",
-    "o": [
-      "a dictatorship.",
-      "a democratic state.",
-      "a monarchy.",
-      "a principality."
-    ]
+    "o": ["a dictatorship.", "a democratic state.", "a monarchy.", "a principality."]
   },
   "g158": {
     "q": "The “Third Reich” was a …",
-    "o": [
-      "dictatorship.",
-      "democracy.",
-      "monarchy.",
-      "council republic."
-    ]
+    "o": ["dictatorship.", "democracy.", "monarchy.", "council republic."]
   },
   "g159": {
     "q": "What did not exist in Germany during the era of National Socialism?",
-    "o": [
-      "free elections",
-      "press censorship",
-      "arbitrary arrests",
-      "persecution of Jews"
-    ]
+    "o": ["free elections", "press censorship", "arbitrary arrests", "persecution of Jews"]
   },
   "g160": {
     "q": "Which war lasted from 1939 to 1945?",
-    "o": [
-      "the First World War",
-      "the Second World War",
-      "the Vietnam War",
-      "the Gulf War"
-    ]
+    "o": ["the First World War", "the Second World War", "the Vietnam War", "the Gulf War"]
   },
   "g161": {
     "q": "What characterized the Nazi state (NS-Staat)? A policy …",
-    "o": [
-      "of state racism",
-      "of freedom of opinion",
-      "of general freedom of religion",
-      "of developing democracy"
-    ]
+    "o": ["of state racism", "of freedom of opinion", "of general freedom of religion", "of developing democracy"]
   },
   "g162": {
     "q": "Claus Schenk Graf von Stauffenberg became known for …",
@@ -1459,12 +1089,7 @@
   },
   "g163": {
     "q": "In which year did the National Socialists destroy synagogues and Jewish shops in Germany?",
-    "o": [
-      "1925",
-      "1930",
-      "1938",
-      "1945"
-    ]
+    "o": ["1925", "1930", "1938", "1945"]
   },
   "g164": {
     "q": "What happened in Germany on November 9, 1938?",
@@ -1477,12 +1102,7 @@
   },
   "g165": {
     "q": "What was the name of the first Federal Chancellor (Bundeskanzler) of the Federal Republic of Germany?",
-    "o": [
-      "Konrad Adenauer",
-      "Kurt Georg Kiesinger",
-      "Helmut Schmidt",
-      "Willy Brandt"
-    ]
+    "o": ["Konrad Adenauer", "Kurt Georg Kiesinger", "Helmut Schmidt", "Willy Brandt"]
   },
   "g166": {
     "q": "At which demonstrations in Germany did people chant “We are the people” (Wir sind das Volk)?",
@@ -1504,21 +1124,11 @@
   },
   "g168": {
     "q": "Which country was not an “Allied occupying power” (Alliierte Besatzungsmacht) in Germany?",
-    "o": [
-      "USA",
-      "Soviet Union",
-      "France",
-      "Japan"
-    ]
+    "o": ["USA", "Soviet Union", "France", "Japan"]
   },
   "g169": {
     "q": "When was the Federal Republic of Germany founded?",
-    "o": [
-      "1939",
-      "1945",
-      "1949",
-      "1951"
-    ]
+    "o": ["1939", "1945", "1949", "1951"]
   },
   "g170": {
     "q": "What existed in Germany during the era of National Socialism?",
@@ -1540,12 +1150,7 @@
   },
   "g172": {
     "q": "In which occupation zone was the GDR (DDR) founded? In the …",
-    "o": [
-      "American occupation zone",
-      "French occupation zone",
-      "British occupation zone",
-      "Soviet occupation zone"
-    ]
+    "o": ["American occupation zone", "French occupation zone", "British occupation zone", "Soviet occupation zone"]
   },
   "g173": {
     "q": "The Federal Republic of Germany is a founding member …",
@@ -1558,21 +1163,11 @@
   },
   "g174": {
     "q": "When was the GDR (DDR) founded?",
-    "o": [
-      "1947",
-      "1949",
-      "1953",
-      "1956"
-    ]
+    "o": ["1947", "1949", "1953", "1956"]
   },
   "g175": {
     "q": "How many occupation zones were there in Germany after the Second World War?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "g176": {
     "q": "How were Germany's occupation zones divided up after 1945?",
@@ -1585,12 +1180,7 @@
   },
   "g177": {
     "q": "Which German city was divided into four sectors after the Second World War?",
-    "o": [
-      "Munich (München)",
-      "Berlin",
-      "Dresden",
-      "Frankfurt (Oder)"
-    ]
+    "o": ["Munich (München)", "Berlin", "Dresden", "Frankfurt (Oder)"]
   },
   "g178": {
     "q": "From June 1948 to May 1949, the citizens of West Berlin were supplied via an airlift (Luftbrücke). What circumstance was responsible for this?",
@@ -1612,12 +1202,7 @@
   },
   "g180": {
     "q": "The first Federal Chancellor (Bundeskanzler) of the Federal Republic of Germany was …",
-    "o": [
-      "Ludwig Erhard.",
-      "Willy Brandt.",
-      "Konrad Adenauer.",
-      "Gerhard Schröder."
-    ]
+    "o": ["Ludwig Erhard.", "Willy Brandt.", "Konrad Adenauer.", "Gerhard Schröder."]
   },
   "g181": {
     "q": "What did Willy Brandt want to express by kneeling down (Kniefall) in 1970 in the former Jewish ghetto in Warsaw (Warschau)?",
@@ -1630,21 +1215,11 @@
   },
   "g182": {
     "q": "What is the Jewish house of prayer called?",
-    "o": [
-      "basilica",
-      "mosque",
-      "synagogue",
-      "church"
-    ]
+    "o": ["basilica", "mosque", "synagogue", "church"]
   },
   "g183": {
     "q": "When was the “economic miracle” (Wirtschaftswunder) in the Federal Republic of Germany?",
-    "o": [
-      "the 1940s",
-      "the 1950s",
-      "the 1970s",
-      "the 1980s"
-    ]
+    "o": ["the 1940s", "the 1950s", "the 1970s", "the 1980s"]
   },
   "g184": {
     "q": "On what legal basis was the State of Israel founded?",
@@ -1666,84 +1241,39 @@
   },
   "g186": {
     "q": "In 1953 there was an uprising in the GDR (DDR) which, for a long time, was commemorated by a public holiday in the Federal Republic of Germany. When was that?",
-    "o": [
-      "May 1",
-      "June 17",
-      "July 20",
-      "November 9"
-    ]
+    "o": ["May 1", "June 17", "July 20", "November 9"]
   },
   "g187": {
     "q": "Which German state had a black-red-gold flag with a hammer, a compass and a wreath of ears of grain?",
-    "o": [
-      "Prussia (Preußen)",
-      "Federal Republic of Germany",
-      "“Third Reich”",
-      "GDR (DDR)"
-    ]
+    "o": ["Prussia (Preußen)", "Federal Republic of Germany", "“Third Reich”", "GDR (DDR)"]
   },
   "g188": {
     "q": "In which year was the Wall in Berlin built?",
-    "o": [
-      "1953",
-      "1956",
-      "1959",
-      "1961"
-    ]
+    "o": ["1953", "1956", "1959", "1961"]
   },
   "g189": {
     "q": "When did the GDR (DDR) build the Wall in Berlin?",
-    "o": [
-      "1919",
-      "1933",
-      "1961",
-      "1990"
-    ]
+    "o": ["1919", "1933", "1961", "1990"]
   },
   "g190": {
     "q": "What does the abbreviation DDR stand for?",
-    "o": [
-      "Third German Broadcasting",
-      "The German Republic",
-      "Third German Republic",
-      "German Democratic Republic"
-    ]
+    "o": ["Third German Broadcasting", "The German Republic", "Third German Republic", "German Democratic Republic"]
   },
   "g191": {
     "q": "When was the Wall in Berlin opened to everyone?",
-    "o": [
-      "1987",
-      "1989",
-      "1992",
-      "1995"
-    ]
+    "o": ["1987", "1989", "1992", "1995"]
   },
   "g192": {
     "q": "Which present-day German federal state (Bundesland) used to be part of the territory of the GDR (DDR)?",
-    "o": [
-      "Brandenburg",
-      "Bavaria (Bayern)",
-      "Saarland",
-      "Hesse (Hessen)"
-    ]
+    "o": ["Brandenburg", "Bavaria (Bayern)", "Saarland", "Hesse (Hessen)"]
   },
   "g193": {
     "q": "From 1961 to 1989, Berlin was …",
-    "o": [
-      "without a mayor.",
-      "a separate state.",
-      "divided by a wall.",
-      "only reachable by plane."
-    ]
+    "o": ["without a mayor.", "a separate state.", "divided by a wall.", "only reachable by plane."]
   },
   "g194": {
     "q": "On October 3, Germany celebrates the Day of German …",
-    "o": [
-      "Unity.",
-      "Nation.",
-      "Federal States.",
-      "Cities."
-    ]
+    "o": ["Unity.", "Nation.", "Federal States.", "Cities."]
   },
   "g195": {
     "q": "Which present-day German federal state (Bundesland) used to be part of the territory of the GDR (DDR)?",
@@ -1765,39 +1295,19 @@
   },
   "g197": {
     "q": "Which present-day German federal state (Bundesland) used to be part of the territory of the GDR (DDR)?",
-    "o": [
-      "Thuringia (Thüringen)",
-      "Hesse (Hessen)",
-      "Bavaria (Bayern)",
-      "Bremen"
-    ]
+    "o": ["Thuringia (Thüringen)", "Hesse (Hessen)", "Bavaria (Bayern)", "Bremen"]
   },
   "g198": {
     "q": "Which present-day German federal state (Bundesland) used to be part of the territory of the GDR (DDR)?",
-    "o": [
-      "Bavaria (Bayern)",
-      "Lower Saxony (Niedersachsen)",
-      "Saxony (Sachsen)",
-      "Baden-Württemberg"
-    ]
+    "o": ["Bavaria (Bayern)", "Lower Saxony (Niedersachsen)", "Saxony (Sachsen)", "Baden-Württemberg"]
   },
   "g199": {
     "q": "In the GDR (DDR), the abbreviation “Stasi” referred to …",
-    "o": [
-      "the parliament.",
-      "the Ministry for State Security.",
-      "a ruling party.",
-      "the Ministry of Public Education."
-    ]
+    "o": ["the parliament.", "the Ministry for State Security.", "a ruling party.", "the Ministry of Public Education."]
   },
   "g200": {
     "q": "Which present-day German federal state (Bundesland) used to be part of the territory of the GDR (DDR)?",
-    "o": [
-      "Hesse (Hessen)",
-      "Schleswig-Holstein",
-      "Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)",
-      "Saarland"
-    ]
+    "o": ["Hesse (Hessen)", "Schleswig-Holstein", "Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)", "Saarland"]
   },
   "g201": {
     "q": "Which of the following lists contains only federal states (Bundesländer) that belonged to the territory of the former GDR (DDR)?",
@@ -1810,21 +1320,11 @@
   },
   "g202": {
     "q": "Which side did the GDR (DDR) belong to in the “Cold War”?",
-    "o": [
-      "the Western powers",
-      "the Warsaw Pact",
-      "NATO",
-      "the non-aligned states"
-    ]
+    "o": ["the Western powers", "the Warsaw Pact", "NATO", "the non-aligned states"]
   },
   "g203": {
     "q": "What was the economic system of the GDR (DDR) called?",
-    "o": [
-      "market economy",
-      "planned economy",
-      "supply and demand",
-      "capitalism"
-    ]
+    "o": ["market economy", "planned economy", "supply and demand", "capitalism"]
   },
   "g204": {
     "q": "How did the Federal Republic of Germany and the GDR (DDR) become one state?",
@@ -1837,12 +1337,7 @@
   },
   "g205": {
     "q": "With the accession of the GDR (DDR) to the Federal Republic of Germany, the new federal states (Bundesländer) now also belong …",
-    "o": [
-      "to the European Union.",
-      "to the Warsaw Pact.",
-      "to OPEC.",
-      "to the European Defence Community."
-    ]
+    "o": ["to the European Union.", "to the Warsaw Pact.", "to OPEC.", "to the European Defence Community."]
   },
   "g206": {
     "q": "What do the so-called “stumbling stones” (Stolpersteine) in Germany commemorate?",
@@ -1873,12 +1368,7 @@
   },
   "g209": {
     "q": "Which was the coat of arms of the German Democratic Republic?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "g210": {
     "q": "What happened in the GDR (DDR) on 17 June 1953?",
@@ -1891,12 +1381,7 @@
   },
   "g211": {
     "q": "Which politician is associated with the “Eastern Treaties” (Ostverträge)?",
-    "o": [
-      "Helmut Kohl",
-      "Willy Brandt",
-      "Mikhail Gorbachev",
-      "Ludwig Erhard"
-    ]
+    "o": ["Helmut Kohl", "Willy Brandt", "Mikhail Gorbachev", "Ludwig Erhard"]
   },
   "g212": {
     "q": "What is Germany's full name?",
@@ -1909,30 +1394,15 @@
   },
   "g213": {
     "q": "How many inhabitants does Germany have?",
-    "o": [
-      "70 million",
-      "78 million",
-      "84 million",
-      "90 million"
-    ]
+    "o": ["70 million", "78 million", "84 million", "90 million"]
   },
   "g214": {
     "q": "What are the colors of the German flag?",
-    "o": [
-      "black-red-gold",
-      "red-white-black",
-      "black-red-green",
-      "black-yellow-red"
-    ]
+    "o": ["black-red-gold", "red-white-black", "black-red-green", "black-yellow-red"]
   },
   "g215": {
     "q": "Who is referred to as the “Chancellor of German Unity”?",
-    "o": [
-      "Gerhard Schröder",
-      "Helmut Kohl",
-      "Konrad Adenauer",
-      "Helmut Schmidt"
-    ]
+    "o": ["Gerhard Schröder", "Helmut Kohl", "Konrad Adenauer", "Helmut Schmidt"]
   },
   "g216": {
     "q": "Which symbol can be seen in the plenary chamber of the German Bundestag?",
@@ -1945,30 +1415,15 @@
   },
   "g217": {
     "q": "During which period did the German Democratic Republic (GDR, DDR) exist?",
-    "o": [
-      "1919 to 1927",
-      "1933 to 1945",
-      "1945 to 1961",
-      "1949 to 1990"
-    ]
+    "o": ["1919 to 1927", "1933 to 1945", "1945 to 1961", "1949 to 1990"]
   },
   "g218": {
     "q": "How many federal states (Bundesländer) joined the Federal Republic of Germany at reunification in 1990?",
-    "o": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ]
+    "o": ["4", "5", "6", "7"]
   },
   "g219": {
     "q": "The Federal Republic of Germany has had its present-day borders since …",
-    "o": [
-      "1933",
-      "1949",
-      "1971",
-      "1990"
-    ]
+    "o": ["1933", "1949", "1971", "1990"]
   },
   "g220": {
     "q": "27 January is an official day of remembrance in Germany. What does this day commemorate?",
@@ -1990,84 +1445,39 @@
   },
   "g222": {
     "q": "Which country is a neighboring country of Germany?",
-    "o": [
-      "Hungary (Ungarn)",
-      "Portugal",
-      "Spain (Spanien)",
-      "Switzerland (Schweiz)"
-    ]
+    "o": ["Hungary (Ungarn)", "Portugal", "Spain (Spanien)", "Switzerland (Schweiz)"]
   },
   "g223": {
     "q": "Which country is a neighboring country of Germany?",
-    "o": [
-      "Romania (Rumänien)",
-      "Bulgaria (Bulgarien)",
-      "Poland (Polen)",
-      "Greece (Griechenland)"
-    ]
+    "o": ["Romania (Rumänien)", "Bulgaria (Bulgarien)", "Poland (Polen)", "Greece (Griechenland)"]
   },
   "g224": {
     "q": "What does the abbreviation EU stand for?",
-    "o": [
-      "European Companies",
-      "European Union",
-      "Unified Union",
-      "Euro Union"
-    ]
+    "o": ["European Companies", "European Union", "Unified Union", "Euro Union"]
   },
   "g225": {
     "q": "In which other country is there a large German-speaking population?",
-    "o": [
-      "Czechia (Tschechien)",
-      "Norway (Norwegen)",
-      "Spain (Spanien)",
-      "Austria (Österreich)"
-    ]
+    "o": ["Czechia (Tschechien)", "Norway (Norwegen)", "Spain (Spanien)", "Austria (Österreich)"]
   },
   "g226": {
     "q": "Which is the flag of the European Union?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "g227": {
     "q": "Which country is a neighboring country of Germany?",
-    "o": [
-      "Finland (Finnland)",
-      "Denmark (Dänemark)",
-      "Norway (Norwegen)",
-      "Sweden (Schweden)"
-    ]
+    "o": ["Finland (Finnland)", "Denmark (Dänemark)", "Norway (Norwegen)", "Sweden (Schweden)"]
   },
   "g228": {
     "q": "What is the accession of the GDR (DDR) to the Federal Republic of Germany in 1990 generally called?",
-    "o": [
-      "NATO eastward enlargement",
-      "EU eastward enlargement",
-      "German reunification",
-      "European Community"
-    ]
+    "o": ["NATO eastward enlargement", "EU eastward enlargement", "German reunification", "European Community"]
   },
   "g229": {
     "q": "Which country is a neighboring country of Germany?",
-    "o": [
-      "Spain (Spanien)",
-      "Bulgaria (Bulgarien)",
-      "Norway (Norwegen)",
-      "Luxembourg (Luxemburg)"
-    ]
+    "o": ["Spain (Spanien)", "Bulgaria (Bulgarien)", "Norway (Norwegen)", "Luxembourg (Luxemburg)"]
   },
   "g230": {
     "q": "The European Parliament is elected regularly, namely every …",
-    "o": [
-      "5 years.",
-      "6 years.",
-      "7 years.",
-      "8 years."
-    ]
+    "o": ["5 years.", "6 years.", "7 years.", "8 years."]
   },
   "g231": {
     "q": "What does the term “European integration” mean?",
@@ -2089,21 +1499,11 @@
   },
   "g233": {
     "q": "Which country is a neighboring country of Germany?",
-    "o": [
-      "Czechia (Tschechien)",
-      "Bulgaria (Bulgarien)",
-      "Greece (Griechenland)",
-      "Portugal"
-    ]
+    "o": ["Czechia (Tschechien)", "Bulgaria (Bulgarien)", "Greece (Griechenland)", "Portugal"]
   },
   "g234": {
     "q": "Where is one of the seats of the European Parliament?",
-    "o": [
-      "London",
-      "Paris",
-      "Berlin",
-      "Strasbourg (Straßburg)"
-    ]
+    "o": ["London", "Paris", "Berlin", "Strasbourg (Straßburg)"]
   },
   "g235": {
     "q": "The then French President François Mitterrand and the then German Federal Chancellor (Bundeskanzler) Helmut Kohl jointly commemorate the dead of both World Wars in Verdun. Which goal of the European Union becomes clear at this meeting?",
@@ -2116,12 +1516,7 @@
   },
   "g236": {
     "q": "How many member states does the EU have today?",
-    "o": [
-      "21",
-      "23",
-      "25",
-      "27"
-    ]
+    "o": ["21", "23", "25", "27"]
   },
   "g237": {
     "q": "In 2007 the 50th anniversary of the “Treaties of Rome” was celebrated. What did the treaties contain?",
@@ -2152,12 +1547,7 @@
   },
   "g240": {
     "q": "Since when have people in Germany been paying cash in euros?",
-    "o": [
-      "1995",
-      "1998",
-      "2002",
-      "2005"
-    ]
+    "o": ["1995", "1998", "2002", "2005"]
   },
   "g241": {
     "q": "Ms. Seger is having a baby. What does she have to do to receive parental allowance (Elterngeld)?",
@@ -2170,12 +1560,7 @@
   },
   "g242": {
     "q": "Who decides whether a child in Germany goes to kindergarten?",
-    "o": [
-      "the state",
-      "the federal states (Bundesländer)",
-      "the parents/legal guardians",
-      "the schools"
-    ]
+    "o": ["the state", "the federal states (Bundesländer)", "the parents/legal guardians", "the schools"]
   },
   "g243": {
     "q": "Maik and Sybille want to hold a street demonstration with friends in the German town where they live. What do they have to do beforehand?",
@@ -2206,12 +1591,7 @@
   },
   "g246": {
     "q": "From what age are you legally an adult in Germany?",
-    "o": [
-      "16",
-      "18",
-      "19",
-      "21"
-    ]
+    "o": ["16", "18", "19", "21"]
   },
   "g247": {
     "q": "A woman is pregnant. Shortly before and after the birth of her child she is specially protected by law. What is this protection called?",
@@ -2224,30 +1604,15 @@
   },
   "g248": {
     "q": "In Germany, raising children is above all the task …",
-    "o": [
-      "of the state.",
-      "of the parents.",
-      "of the grandparents.",
-      "of the schools."
-    ]
+    "o": ["of the state.", "of the parents.", "of the grandparents.", "of the schools."]
   },
   "g249": {
     "q": "Who in Germany is mainly responsible for raising children?",
-    "o": [
-      "the state",
-      "the parents",
-      "the relatives",
-      "the schools"
-    ]
+    "o": ["the state", "the parents", "the relatives", "the schools"]
   },
   "g250": {
     "q": "In Germany you have the best chances of getting a well-paid job if you …",
-    "o": [
-      "are Catholic.",
-      "are well educated and trained.",
-      "are a woman.",
-      "are a member of a party."
-    ]
+    "o": ["are Catholic.", "are well educated and trained.", "are a woman.", "are a member of a party."]
   },
   "g251": {
     "q": "If you hit a child in Germany, …",
@@ -2323,12 +1688,7 @@
   },
   "g259": {
     "q": "The career information center BIZ (Berufsinformationszentrum) at the Federal Employment Agency (Bundesagentur für Arbeit) in Germany helps with …",
-    "o": [
-      "calculating pensions.",
-      "finding an apprenticeship (Lehrstelle).",
-      "tax returns.",
-      "health insurance."
-    ]
+    "o": ["calculating pensions.", "finding an apprenticeship (Lehrstelle).", "tax returns.", "health insurance."]
   },
   "g260": {
     "q": "In Germany, a child at school has …",
@@ -2359,21 +1719,11 @@
   },
   "g263": {
     "q": "In Germany, young people aged 14 and over are criminally responsible (strafmündig). This means: young people who are 14 or older and break criminal laws …",
-    "o": [
-      "are punished.",
-      "are treated like adults.",
-      "share the punishment with their parents.",
-      "are not punished."
-    ]
+    "o": ["are punished.", "are treated like adults.", "share the punishment with their parents.", "are not punished."]
   },
   "g264": {
     "q": "At which festival do people in Germany wear colorful costumes and masks?",
-    "o": [
-      "on Rose Monday (Rosenmontag)",
-      "on May Day (Maifeiertag)",
-      "at Oktoberfest",
-      "at Pentecost (Pfingsten)"
-    ]
+    "o": ["on Rose Monday (Rosenmontag)", "on May Day (Maifeiertag)", "at Oktoberfest", "at Pentecost (Pfingsten)"]
   },
   "g265": {
     "q": "Where do you have to go first in Germany if you want to get married?",
@@ -2386,12 +1736,7 @@
   },
   "g266": {
     "q": "When does the legally required nighttime quiet period (Nachtruhe) begin in Germany?",
-    "o": [
-      "when the sun goes down",
-      "when the neighbors go to bed",
-      "at 0:00, midnight",
-      "at 22:00"
-    ]
+    "o": ["when the sun goes down", "when the neighbors go to bed", "at 0:00, midnight", "at 22:00"]
   },
   "g267": {
     "q": "A young woman in Germany, 22 years old, lives with her boyfriend. The woman's parents don't approve because they don't like the boyfriend. What can the parents do?",
@@ -2422,12 +1767,7 @@
   },
   "g270": {
     "q": "The community education center (Volkshochschule) in Germany is an institution …",
-    "o": [
-      "for religious instruction.",
-      "only for young people.",
-      "for further education.",
-      "only for pensioners."
-    ]
+    "o": ["for religious instruction.", "only for young people.", "for further education.", "only for pensioners."]
   },
   "g271": {
     "q": "What is a Christmas custom in Germany?",
@@ -2521,21 +1861,11 @@
   },
   "g281": {
     "q": "Two friends want to go to a public swimming pool in Germany. Both have dark skin and are not let in for that reason. Which right is being violated in this situation? The right to …",
-    "o": [
-      "freedom of opinion",
-      "equal treatment",
-      "freedom of assembly",
-      "freedom of movement (Freizügigkeit)"
-    ]
+    "o": ["freedom of opinion", "equal treatment", "freedom of assembly", "freedom of movement (Freizügigkeit)"]
   },
   "g282": {
     "q": "Which honorary office (Ehrenamt) must German citizens take on if they are called upon to do so?",
-    "o": [
-      "club coach",
-      "election worker (Wahlhelfer)",
-      "library supervisor",
-      "teacher"
-    ]
+    "o": ["club coach", "election worker (Wahlhelfer)", "library supervisor", "teacher"]
   },
   "g283": {
     "q": "What do you do if you receive an incorrect bill from a German public authority?",
@@ -2638,21 +1968,11 @@
   },
   "g294": {
     "q": "Pentecost (Pfingsten) is a …",
-    "o": [
-      "Christian holiday.",
-      "German day of remembrance.",
-      "international day of mourning.",
-      "Bavarian custom."
-    ]
+    "o": ["Christian holiday.", "German day of remembrance.", "international day of mourning.", "Bavarian custom."]
   },
   "g295": {
     "q": "Which religion has shaped European and German culture?",
-    "o": [
-      "Hinduism",
-      "Christianity",
-      "Buddhism",
-      "Islam"
-    ]
+    "o": ["Hinduism", "Christianity", "Buddhism", "Islam"]
   },
   "g296": {
     "q": "In Germany, the last four weeks before Christmas are called …",
@@ -2665,12 +1985,7 @@
   },
   "g297": {
     "q": "From which country have most migrants come to Germany?",
-    "o": [
-      "Italy (Italien)",
-      "Poland (Polen)",
-      "Morocco (Marokko)",
-      "Turkey (Türkei)"
-    ]
+    "o": ["Italy (Italien)", "Poland (Polen)", "Morocco (Marokko)", "Turkey (Türkei)"]
   },
   "g298": {
     "q": "The migrants living in the GDR (DDR) came mainly from …",
@@ -2692,57 +2007,27 @@
   },
   "g300": {
     "q": "From which country did the first guest workers (Gastarbeiter) come to the Federal Republic of Germany?",
-    "o": [
-      "Italy (Italien)",
-      "Spain (Spanien)",
-      "Portugal",
-      "Turkey (Türkei)"
-    ]
+    "o": ["Italy (Italien)", "Spain (Spanien)", "Portugal", "Turkey (Türkei)"]
   },
   "BW1": {
     "q": "Which coat of arms belongs to the federal state of Baden-Württemberg?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "BW2": {
     "q": "Which one is a district (Landkreis) in Baden-Württemberg?",
-    "o": [
-      "Mecklenburgische Seenplatte",
-      "Neckar-Odenwald-Kreis",
-      "Nordfriesland",
-      "Altötting"
-    ]
+    "o": ["Mecklenburgische Seenplatte", "Neckar-Odenwald-Kreis", "Nordfriesland", "Altötting"]
   },
   "BW3": {
     "q": "For how many years is the state parliament (Landtag) in Baden-Württemberg elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "BW4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahlen) in Baden-Württemberg?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "BW5": {
     "q": "What colors does the state flag of Baden-Württemberg have?",
-    "o": [
-      "blue-white-red",
-      "black-gold",
-      "white-blue",
-      "green-white-red"
-    ]
+    "o": ["blue-white-red", "black-gold", "white-blue", "green-white-red"]
   },
   "BW6": {
     "q": "Where can you get information about political topics in Baden-Württemberg?",
@@ -2755,84 +2040,39 @@
   },
   "BW7": {
     "q": "The state capital of Baden-Württemberg is called …",
-    "o": [
-      "Heidelberg.",
-      "Stuttgart.",
-      "Karlsruhe.",
-      "Mannheim."
-    ]
+    "o": ["Heidelberg.", "Stuttgart.", "Karlsruhe.", "Mannheim."]
   },
   "BW8": {
     "q": "Which federal state is Baden-Württemberg?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "BW9": {
     "q": "What is the head of government in Baden-Württemberg called?",
-    "o": [
-      "First Minister",
-      "Prime Minister",
-      "Mayor",
-      "Minister-President (Ministerpräsident)"
-    ]
+    "o": ["First Minister", "Prime Minister", "Mayor", "Minister-President (Ministerpräsident)"]
   },
   "BW10": {
     "q": "Which minister does Baden-Württemberg not have?",
-    "o": [
-      "Minister of Finance",
-      "Minister of Justice",
-      "Minister of the Interior",
-      "Minister of Foreign Affairs"
-    ]
+    "o": ["Minister of Finance", "Minister of Justice", "Minister of the Interior", "Minister of Foreign Affairs"]
   },
   "BY1": {
     "q": "Which coat of arms belongs to the Free State of Bavaria (Freistaat Bayern)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "BY2": {
     "q": "Which one is a district (Landkreis) in Bavaria (Bayern)?",
-    "o": [
-      "Prignitz",
-      "Rhein-Sieg-Kreis",
-      "Nordfriesland",
-      "Altötting"
-    ]
+    "o": ["Prignitz", "Rhein-Sieg-Kreis", "Nordfriesland", "Altötting"]
   },
   "BY3": {
     "q": "For how many years is the state parliament (Landtag) in Bavaria (Bayern) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "BY4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahlen) in Bavaria (Bayern)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "BY5": {
     "q": "What colors does the state flag of Bavaria (Bayern) have?",
-    "o": [
-      "blue-white-red",
-      "white-blue",
-      "green-white-red",
-      "black-yellow"
-    ]
+    "o": ["blue-white-red", "white-blue", "green-white-red", "black-yellow"]
   },
   "BY6": {
     "q": "Where can you get information about political topics in Bavaria (Bayern)?",
@@ -2845,84 +2085,39 @@
   },
   "BY7": {
     "q": "The state capital of Bavaria (Bayern) is called …",
-    "o": [
-      "Ingolstadt.",
-      "Regensburg.",
-      "Nuremberg (Nürnberg).",
-      "Munich (München)."
-    ]
+    "o": ["Ingolstadt.", "Regensburg.", "Nuremberg (Nürnberg).", "Munich (München)."]
   },
   "BY8": {
     "q": "Which federal state is Bavaria (Bayern)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "BY9": {
     "q": "What is the head of government in Bavaria (Bayern) called?",
-    "o": [
-      "First Minister",
-      "Prime Minister",
-      "Mayor",
-      "Minister-President (Ministerpräsident)"
-    ]
+    "o": ["First Minister", "Prime Minister", "Mayor", "Minister-President (Ministerpräsident)"]
   },
   "BY10": {
     "q": "Which minister does Bavaria (Bayern) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "BE1": {
     "q": "Which coat of arms belongs to the federal state of Berlin?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "BE2": {
     "q": "Which one is a borough (Bezirk) of Berlin?",
-    "o": [
-      "Altona",
-      "Prignitz",
-      "Pankow",
-      "Mecklenburgische Seenplatte"
-    ]
+    "o": ["Altona", "Prignitz", "Pankow", "Mecklenburgische Seenplatte"]
   },
   "BE3": {
     "q": "For how many years is the state parliament in Berlin elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "BE4": {
     "q": "From what age are you allowed to vote in Berlin in local elections (Kommunalwahlen) — the election of the borough assembly (Bezirksverordnetenversammlung)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "BE5": {
     "q": "What colors does the state flag of Berlin have?",
-    "o": [
-      "blue-white-red",
-      "white-red",
-      "green-white-red",
-      "black-gold"
-    ]
+    "o": ["blue-white-red", "white-red", "green-white-red", "black-gold"]
   },
   "BE6": {
     "q": "Where can you get information about political topics in Berlin?",
@@ -2935,21 +2130,11 @@
   },
   "BE7": {
     "q": "Which federal state is a city-state?",
-    "o": [
-      "Berlin",
-      "Saarland",
-      "Brandenburg",
-      "Hesse (Hessen)"
-    ]
+    "o": ["Berlin", "Saarland", "Brandenburg", "Hesse (Hessen)"]
   },
   "BE8": {
     "q": "Which federal state is Berlin?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "BE9": {
     "q": "What is the head of government of the city-state of Berlin called?",
@@ -2962,57 +2147,27 @@
   },
   "BE10": {
     "q": "Which senator does Berlin not have?",
-    "o": [
-      "Senator for Finance",
-      "Senator for the Interior",
-      "Senator for External Relations",
-      "Senator for Justice"
-    ]
+    "o": ["Senator for Finance", "Senator for the Interior", "Senator for External Relations", "Senator for Justice"]
   },
   "BB1": {
     "q": "Which coat of arms belongs to the federal state of Brandenburg?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "BB2": {
     "q": "Which one is a district (Landkreis) in Brandenburg?",
-    "o": [
-      "Prignitz",
-      "Rhein-Sieg-Kreis",
-      "Vogtlandkreis",
-      "Amberg-Sulzbach"
-    ]
+    "o": ["Prignitz", "Rhein-Sieg-Kreis", "Vogtlandkreis", "Amberg-Sulzbach"]
   },
   "BB3": {
     "q": "For how many years is the state parliament (Landtag) in Brandenburg elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "BB4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahlen) in Brandenburg?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "BB5": {
     "q": "What colors does the state flag of Brandenburg have?",
-    "o": [
-      "blue-white-red",
-      "red-white",
-      "green-white-red",
-      "black-yellow"
-    ]
+    "o": ["blue-white-red", "red-white", "green-white-red", "black-yellow"]
   },
   "BB6": {
     "q": "Where can you get information about political topics in Brandenburg?",
@@ -3025,84 +2180,39 @@
   },
   "BB7": {
     "q": "The state capital of Brandenburg is called …",
-    "o": [
-      "Potsdam.",
-      "Cottbus.",
-      "Brandenburg.",
-      "Frankfurt/Oder."
-    ]
+    "o": ["Potsdam.", "Cottbus.", "Brandenburg.", "Frankfurt/Oder."]
   },
   "BB8": {
     "q": "Which federal state is Brandenburg?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "BB9": {
     "q": "What is the head of government in Brandenburg called?",
-    "o": [
-      "First Minister",
-      "Prime Minister",
-      "Mayor",
-      "Minister-President (Ministerpräsident)"
-    ]
+    "o": ["First Minister", "Prime Minister", "Mayor", "Minister-President (Ministerpräsident)"]
   },
   "BB10": {
     "q": "Which minister does Brandenburg not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "HB1": {
     "q": "Which coat of arms belongs to the Free Hanseatic City of Bremen (Freie Hansestadt Bremen)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "HB2": {
     "q": "Which one is a city district (Stadtteil) of Bremen?",
-    "o": [
-      "Altona",
-      "Hemelingen",
-      "Pankow",
-      "Babelsberg"
-    ]
+    "o": ["Altona", "Hemelingen", "Pankow", "Babelsberg"]
   },
   "HB3": {
     "q": "For how many years is the state parliament in Bremen elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "HB4": {
     "q": "From what age are you allowed to vote in Bremen in the elections to the city parliament (Bürgerschaft) — the state parliament (Landtag)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "HB5": {
     "q": "What colors does the state flag of Bremen have?",
-    "o": [
-      "blue-white-red",
-      "red-white",
-      "green-white-red",
-      "black-gold"
-    ]
+    "o": ["blue-white-red", "red-white", "green-white-red", "black-gold"]
   },
   "HB6": {
     "q": "Where can you get information about political topics in Bremen?",
@@ -3115,21 +2225,11 @@
   },
   "HB7": {
     "q": "Which is a German city-state?",
-    "o": [
-      "Bremen",
-      "Munich (München)",
-      "Frankfurt",
-      "Erfurt"
-    ]
+    "o": ["Bremen", "Munich (München)", "Frankfurt", "Erfurt"]
   },
   "HB8": {
     "q": "Which federal state is Bremen?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "HB9": {
     "q": "What is the head of government of the city-state of Bremen called?",
@@ -3142,57 +2242,27 @@
   },
   "HB10": {
     "q": "Which senator does Bremen not have?",
-    "o": [
-      "Senator for External Relations",
-      "Senator for Finance",
-      "Senator for Justice",
-      "Senator for the Interior"
-    ]
+    "o": ["Senator for External Relations", "Senator for Finance", "Senator for Justice", "Senator for the Interior"]
   },
   "HH1": {
     "q": "Which coat of arms belongs to the Free and Hanseatic City of Hamburg (Freie und Hansestadt Hamburg)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "HH2": {
     "q": "Which one is a borough (Bezirk) of Hamburg?",
-    "o": [
-      "Altona",
-      "Hemelingen",
-      "Pankow",
-      "Mecklenburgische Seenplatte"
-    ]
+    "o": ["Altona", "Hemelingen", "Pankow", "Mecklenburgische Seenplatte"]
   },
   "HH3": {
     "q": "For how many years is the state parliament in Hamburg elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "HH4": {
     "q": "From what age are you allowed to vote in Hamburg in local elections (Kommunalwahlen) — the election of the borough assemblies (Bezirksversammlungen)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "HH5": {
     "q": "What colors does the state flag of Hamburg have?",
-    "o": [
-      "blue-white-red",
-      "white-red",
-      "green-white-red",
-      "black-yellow"
-    ]
+    "o": ["blue-white-red", "white-red", "green-white-red", "black-yellow"]
   },
   "HH6": {
     "q": "Where can you get information about political topics in Hamburg?",
@@ -3205,21 +2275,11 @@
   },
   "HH7": {
     "q": "Which federal state is a city-state?",
-    "o": [
-      "Hamburg",
-      "Saxony (Sachsen)",
-      "Bavaria (Bayern)",
-      "Thuringia (Thüringen)"
-    ]
+    "o": ["Hamburg", "Saxony (Sachsen)", "Bavaria (Bayern)", "Thuringia (Thüringen)"]
   },
   "HH8": {
     "q": "Which federal state is Hamburg?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "HH9": {
     "q": "What is the head of government of the city-state of Hamburg called?",
@@ -3232,57 +2292,27 @@
   },
   "HH10": {
     "q": "Which senator does Hamburg not have?",
-    "o": [
-      "Senator for Justice",
-      "Senator for External Relations",
-      "Senator for Finance",
-      "Senator for the Interior"
-    ]
+    "o": ["Senator for Justice", "Senator for External Relations", "Senator for Finance", "Senator for the Interior"]
   },
   "HE1": {
     "q": "Which coat of arms belongs to the federal state of Hesse (Hessen)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "HE2": {
     "q": "Which one is a district (Landkreis) in Hesse (Hessen)?",
-    "o": [
-      "Ammerland",
-      "Altötting",
-      "Prignitz",
-      "Main-Taunus-Kreis"
-    ]
+    "o": ["Ammerland", "Altötting", "Prignitz", "Main-Taunus-Kreis"]
   },
   "HE3": {
     "q": "For how many years is the state parliament (Landtag) in Hesse (Hessen) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "HE4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahlen) in Hesse (Hessen)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "HE5": {
     "q": "What colors does the state flag of Hesse (Hessen) have?",
-    "o": [
-      "blue-white-red",
-      "red-white",
-      "black-gold",
-      "green-white-red"
-    ]
+    "o": ["blue-white-red", "red-white", "black-gold", "green-white-red"]
   },
   "HE6": {
     "q": "Where can you get information about political topics in Hesse (Hessen)?",
@@ -3295,84 +2325,39 @@
   },
   "HE7": {
     "q": "The state capital of Hesse (Hessen) is called …",
-    "o": [
-      "Kassel.",
-      "Darmstadt.",
-      "Frankfurt.",
-      "Wiesbaden."
-    ]
+    "o": ["Kassel.", "Darmstadt.", "Frankfurt.", "Wiesbaden."]
   },
   "HE8": {
     "q": "Which federal state is Hesse (Hessen)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "HE9": {
     "q": "What is the head of government in Hesse (Hessen) called?",
-    "o": [
-      "First Minister",
-      "Prime Minister",
-      "Mayor",
-      "Minister-President (Ministerpräsident)"
-    ]
+    "o": ["First Minister", "Prime Minister", "Mayor", "Minister-President (Ministerpräsident)"]
   },
   "HE10": {
     "q": "Which minister does Hesse (Hessen) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "MV1": {
     "q": "Which coat of arms belongs to the federal state of Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "MV2": {
     "q": "Which one is a district (Landkreis) in Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)?",
-    "o": [
-      "Prignitz",
-      "Mecklenburgische Seenplatte",
-      "Vogtlandkreis",
-      "Rhein-Sieg-Kreis"
-    ]
+    "o": ["Prignitz", "Mecklenburgische Seenplatte", "Vogtlandkreis", "Rhein-Sieg-Kreis"]
   },
   "MV3": {
     "q": "For how many years is the state parliament (Landtag) in Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "MV4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahlen) in Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "MV5": {
     "q": "What colors does the state flag of Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern) have?",
-    "o": [
-      "black-red-gold",
-      "blue-white-yellow-red",
-      "green-white-red",
-      "black-yellow"
-    ]
+    "o": ["black-red-gold", "blue-white-yellow-red", "green-white-red", "black-yellow"]
   },
   "MV6": {
     "q": "Where can you get information about political topics in Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)?",
@@ -3385,84 +2370,39 @@
   },
   "MV7": {
     "q": "The state capital of Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern) is called …",
-    "o": [
-      "Greifswald.",
-      "Schwerin.",
-      "Rostock.",
-      "Wismar."
-    ]
+    "o": ["Greifswald.", "Schwerin.", "Rostock.", "Wismar."]
   },
   "MV8": {
     "q": "Which federal state is Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "MV9": {
     "q": "What is the head of government in Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern) called?",
-    "o": [
-      "First Minister",
-      "Prime Minister",
-      "Mayor",
-      "Minister-President (Ministerpräsident)"
-    ]
+    "o": ["First Minister", "Prime Minister", "Mayor", "Minister-President (Ministerpräsident)"]
   },
   "MV10": {
     "q": "Which minister does Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "NI1": {
     "q": "Which coat of arms belongs to the federal state of Lower Saxony (Niedersachsen)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "NI2": {
     "q": "Which of these is a district (Landkreis) in Lower Saxony (Niedersachsen)?",
-    "o": [
-      "Ammerland",
-      "Rhein-Sieg-Kreis",
-      "Nordfriesland",
-      "Vogtlandkreis"
-    ]
+    "o": ["Ammerland", "Rhein-Sieg-Kreis", "Nordfriesland", "Vogtlandkreis"]
   },
   "NI3": {
     "q": "For how many years is the state parliament (Landtag) in Lower Saxony (Niedersachsen) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "NI4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahl) in Lower Saxony (Niedersachsen)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "NI5": {
     "q": "What colors does the state flag of Lower Saxony (Niedersachsen) have?",
-    "o": [
-      "white-blue",
-      "black-red-gold",
-      "black-yellow",
-      "blue-white-red"
-    ]
+    "o": ["white-blue", "black-red-gold", "black-yellow", "blue-white-red"]
   },
   "NI6": {
     "q": "Where can you get information about political topics in Lower Saxony (Niedersachsen)?",
@@ -3475,21 +2415,11 @@
   },
   "NI7": {
     "q": "The state capital of Lower Saxony (Niedersachsen) is called …",
-    "o": [
-      "Hanover (Hannover).",
-      "Brunswick (Braunschweig).",
-      "Wolfsburg.",
-      "Osnabrück."
-    ]
+    "o": ["Hanover (Hannover).", "Brunswick (Braunschweig).", "Wolfsburg.", "Osnabrück."]
   },
   "NI8": {
     "q": "Which federal state is Lower Saxony (Niedersachsen)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "NI9": {
     "q": "What is the head of government in Lower Saxony (Niedersachsen) called?",
@@ -3502,57 +2432,27 @@
   },
   "NI10": {
     "q": "Which minister does Lower Saxony (Niedersachsen) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "NW1": {
     "q": "Which coat of arms belongs to the federal state of North Rhine-Westphalia (Nordrhein-Westfalen)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "NW2": {
     "q": "Which of these is a district (Landkreis) in North Rhine-Westphalia (Nordrhein-Westfalen)?",
-    "o": [
-      "Ammerland",
-      "Rhein-Sieg-Kreis",
-      "Nordfriesland",
-      "Vogtlandkreis"
-    ]
+    "o": ["Ammerland", "Rhein-Sieg-Kreis", "Nordfriesland", "Vogtlandkreis"]
   },
   "NW3": {
     "q": "For how many years is the state parliament (Landtag) in North Rhine-Westphalia (Nordrhein-Westfalen) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "NW4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahl) in North Rhine-Westphalia (Nordrhein-Westfalen)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "NW5": {
     "q": "What colors does the state flag of North Rhine-Westphalia (Nordrhein-Westfalen) have?",
-    "o": [
-      "red-white",
-      "green-white-red",
-      "black-gold",
-      "blue-white-red"
-    ]
+    "o": ["red-white", "green-white-red", "black-gold", "blue-white-red"]
   },
   "NW6": {
     "q": "Where can you get information about political topics in North Rhine-Westphalia (Nordrhein-Westfalen)?",
@@ -3565,21 +2465,11 @@
   },
   "NW7": {
     "q": "The state capital of North Rhine-Westphalia (Nordrhein-Westfalen) is called …",
-    "o": [
-      "Cologne (Köln).",
-      "Bonn.",
-      "Düsseldorf.",
-      "Dortmund."
-    ]
+    "o": ["Cologne (Köln).", "Bonn.", "Düsseldorf.", "Dortmund."]
   },
   "NW8": {
     "q": "Which federal state is North Rhine-Westphalia (Nordrhein-Westfalen)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "NW9": {
     "q": "What is the head of government in North Rhine-Westphalia (Nordrhein-Westfalen) called?",
@@ -3592,57 +2482,27 @@
   },
   "NW10": {
     "q": "Which minister does North Rhine-Westphalia (Nordrhein-Westfalen) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "RP1": {
     "q": "Which coat of arms belongs to the federal state of Rhineland-Palatinate (Rheinland-Pfalz)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "RP2": {
     "q": "Which of these is a district (Landkreis) in Rhineland-Palatinate (Rheinland-Pfalz)?",
-    "o": [
-      "Westerwaldkreis",
-      "Altötting",
-      "Emsland",
-      "Prignitz"
-    ]
+    "o": ["Westerwaldkreis", "Altötting", "Emsland", "Prignitz"]
   },
   "RP3": {
     "q": "For how many years is the state parliament (Landtag) in Rhineland-Palatinate (Rheinland-Pfalz) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "RP4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahl) in Rhineland-Palatinate (Rheinland-Pfalz)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "RP5": {
     "q": "What colors does the state flag of Rhineland-Palatinate (Rheinland-Pfalz) have?",
-    "o": [
-      "white-red",
-      "black-red-gold",
-      "black-yellow",
-      "green-white-red"
-    ]
+    "o": ["white-red", "black-red-gold", "black-yellow", "green-white-red"]
   },
   "RP6": {
     "q": "Where can you get information about political topics in Rhineland-Palatinate (Rheinland-Pfalz)?",
@@ -3655,21 +2515,11 @@
   },
   "RP7": {
     "q": "The state capital of Rhineland-Palatinate (Rheinland-Pfalz) is called …",
-    "o": [
-      "Mainz.",
-      "Kaiserslautern.",
-      "Ludwigshafen.",
-      "Koblenz."
-    ]
+    "o": ["Mainz.", "Kaiserslautern.", "Ludwigshafen.", "Koblenz."]
   },
   "RP8": {
     "q": "Which federal state is Rhineland-Palatinate (Rheinland-Pfalz)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "RP9": {
     "q": "What is the head of government in Rhineland-Palatinate (Rheinland-Pfalz) called?",
@@ -3682,57 +2532,27 @@
   },
   "RP10": {
     "q": "Which minister does Rhineland-Palatinate (Rheinland-Pfalz) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "SL1": {
     "q": "Which coat of arms belongs to the federal state of Saarland?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "SL2": {
     "q": "Which of these is a district (Landkreis) in Saarland?",
-    "o": [
-      "Mecklenburgische Seenplatte",
-      "Altötting",
-      "Neunkirchen",
-      "Rhein-Sieg-Kreis"
-    ]
+    "o": ["Mecklenburgische Seenplatte", "Altötting", "Neunkirchen", "Rhein-Sieg-Kreis"]
   },
   "SL3": {
     "q": "For how many years is the state parliament (Landtag) of Saarland elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "SL4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahl) in Saarland?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "SL5": {
     "q": "What colors does the state flag of Saarland have?",
-    "o": [
-      "white-blue",
-      "black-red-gold",
-      "black-yellow",
-      "green-white-red"
-    ]
+    "o": ["white-blue", "black-red-gold", "black-yellow", "green-white-red"]
   },
   "SL6": {
     "q": "Where can you get information about political topics in Saarland?",
@@ -3745,21 +2565,11 @@
   },
   "SL7": {
     "q": "The state capital of Saarland is called …",
-    "o": [
-      "Neunkirchen.",
-      "Homburg.",
-      "Saarbrücken.",
-      "Völklingen."
-    ]
+    "o": ["Neunkirchen.", "Homburg.", "Saarbrücken.", "Völklingen."]
   },
   "SL8": {
     "q": "Which federal state is Saarland?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "SL9": {
     "q": "What is the head of government of Saarland called?",
@@ -3772,57 +2582,27 @@
   },
   "SL10": {
     "q": "Which minister does Saarland not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "SN1": {
     "q": "Which coat of arms belongs to the Free State of Saxony (Freistaat Sachsen)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "SN2": {
     "q": "Which of these is a district (Landkreis) in Saxony (Sachsen)?",
-    "o": [
-      "Vogtlandkreis",
-      "Altötting",
-      "Uckermark",
-      "Nordfriesland"
-    ]
+    "o": ["Vogtlandkreis", "Altötting", "Uckermark", "Nordfriesland"]
   },
   "SN3": {
     "q": "For how many years is the state parliament (Landtag) in Saxony (Sachsen) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "SN4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahl) in Saxony (Sachsen)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "SN5": {
     "q": "What colors does the state flag of Saxony (Sachsen) have?",
-    "o": [
-      "blue-white-red",
-      "white-green",
-      "green-white-red",
-      "black-yellow"
-    ]
+    "o": ["blue-white-red", "white-green", "green-white-red", "black-yellow"]
   },
   "SN6": {
     "q": "Where can you get information about political topics in Saxony (Sachsen)?",
@@ -3835,21 +2615,11 @@
   },
   "SN7": {
     "q": "The state capital of Saxony (Sachsen) is called …",
-    "o": [
-      "Leipzig.",
-      "Dresden.",
-      "Chemnitz.",
-      "Zwickau."
-    ]
+    "o": ["Leipzig.", "Dresden.", "Chemnitz.", "Zwickau."]
   },
   "SN8": {
     "q": "Which federal state is Saxony (Sachsen)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "SN9": {
     "q": "What is the head of government in Saxony (Sachsen) called?",
@@ -3862,57 +2632,27 @@
   },
   "SN10": {
     "q": "Which minister does Saxony (Sachsen) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "ST1": {
     "q": "Which coat of arms belongs to the federal state of Saxony-Anhalt (Sachsen-Anhalt)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "ST2": {
     "q": "Which of these is a district (Landkreis) in Saxony-Anhalt (Sachsen-Anhalt)?",
-    "o": [
-      "Ammerland",
-      "Altötting",
-      "Uckermark",
-      "Börde"
-    ]
+    "o": ["Ammerland", "Altötting", "Uckermark", "Börde"]
   },
   "ST3": {
     "q": "For how many years is the state parliament (Landtag) in Saxony-Anhalt (Sachsen-Anhalt) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "ST4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahl) in Saxony-Anhalt (Sachsen-Anhalt)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "ST5": {
     "q": "What colors does the state flag of Saxony-Anhalt (Sachsen-Anhalt) have?",
-    "o": [
-      "blue-white-red",
-      "yellow-black",
-      "green-white-red",
-      "white-red"
-    ]
+    "o": ["blue-white-red", "yellow-black", "green-white-red", "white-red"]
   },
   "ST6": {
     "q": "Where can you get information about political topics in Saxony-Anhalt (Sachsen-Anhalt)?",
@@ -3925,21 +2665,11 @@
   },
   "ST7": {
     "q": "The state capital of Saxony-Anhalt (Sachsen-Anhalt) is called …",
-    "o": [
-      "Halle.",
-      "Dessau.",
-      "Magdeburg.",
-      "Wittenberg."
-    ]
+    "o": ["Halle.", "Dessau.", "Magdeburg.", "Wittenberg."]
   },
   "ST8": {
     "q": "Which federal state is Saxony-Anhalt (Sachsen-Anhalt)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "ST9": {
     "q": "What is the head of government in Saxony-Anhalt (Sachsen-Anhalt) called?",
@@ -3952,57 +2682,27 @@
   },
   "ST10": {
     "q": "Which minister does Saxony-Anhalt (Sachsen-Anhalt) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "SH1": {
     "q": "Which coat of arms belongs to the federal state of Schleswig-Holstein?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "SH2": {
     "q": "Which of these is a district (Landkreis) in Schleswig-Holstein?",
-    "o": [
-      "Ammerland",
-      "Mecklenburgische Seenplatte",
-      "Nordfriesland",
-      "Rhein-Sieg-Kreis"
-    ]
+    "o": ["Ammerland", "Mecklenburgische Seenplatte", "Nordfriesland", "Rhein-Sieg-Kreis"]
   },
   "SH3": {
     "q": "For how many years is the state parliament (Landtag) in Schleswig-Holstein elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "SH4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahl) in Schleswig-Holstein?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "SH5": {
     "q": "What colors does the state flag of Schleswig-Holstein have?",
-    "o": [
-      "white-blue",
-      "blue-white-red",
-      "white-red",
-      "green-white-red"
-    ]
+    "o": ["white-blue", "blue-white-red", "white-red", "green-white-red"]
   },
   "SH6": {
     "q": "Where can you get information about political topics in Schleswig-Holstein?",
@@ -4015,21 +2715,11 @@
   },
   "SH7": {
     "q": "The state capital of Schleswig-Holstein is called …",
-    "o": [
-      "Husum.",
-      "Flensburg.",
-      "Lübeck.",
-      "Kiel."
-    ]
+    "o": ["Husum.", "Flensburg.", "Lübeck.", "Kiel."]
   },
   "SH8": {
     "q": "Which federal state is Schleswig-Holstein?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "SH9": {
     "q": "What is the head of government in Schleswig-Holstein called?",
@@ -4042,57 +2732,27 @@
   },
   "SH10": {
     "q": "Which minister does Schleswig-Holstein not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   },
   "TH1": {
     "q": "Which coat of arms belongs to the Free State of Thuringia (Freistaat Thüringen)?",
-    "o": [
-      "Picture 1",
-      "Picture 2",
-      "Picture 3",
-      "Picture 4"
-    ]
+    "o": ["Picture 1", "Picture 2", "Picture 3", "Picture 4"]
   },
   "TH2": {
     "q": "Which of these is a district (Landkreis) in Thuringia (Thüringen)?",
-    "o": [
-      "Ammerland",
-      "Altötting",
-      "Nordfriesland",
-      "Wartburgkreis"
-    ]
+    "o": ["Ammerland", "Altötting", "Nordfriesland", "Wartburgkreis"]
   },
   "TH3": {
     "q": "For how many years is the state parliament (Landtag) in Thuringia (Thüringen) elected?",
-    "o": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ]
+    "o": ["3", "4", "5", "6"]
   },
   "TH4": {
     "q": "From what age are you allowed to vote in local elections (Kommunalwahl) in Thuringia (Thüringen)?",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "20"
-    ]
+    "o": ["14", "16", "18", "20"]
   },
   "TH5": {
     "q": "What colors does the state flag of Thuringia (Thüringen) have?",
-    "o": [
-      "blue-white-red",
-      "white-red",
-      "green-white-red",
-      "black-gold"
-    ]
+    "o": ["blue-white-red", "white-red", "green-white-red", "black-gold"]
   },
   "TH6": {
     "q": "Where can you get information about political topics in Thuringia (Thüringen)?",
@@ -4105,21 +2765,11 @@
   },
   "TH7": {
     "q": "The state capital of Thuringia (Thüringen) is called …",
-    "o": [
-      "Eisenach.",
-      "Erfurt.",
-      "Gera.",
-      "Jena."
-    ]
+    "o": ["Eisenach.", "Erfurt.", "Gera.", "Jena."]
   },
   "TH8": {
     "q": "Which federal state is Thuringia (Thüringen)?",
-    "o": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ]
+    "o": ["1", "2", "3", "4"]
   },
   "TH9": {
     "q": "What is the head of government in Thuringia (Thüringen) called?",
@@ -4132,11 +2782,6 @@
   },
   "TH10": {
     "q": "Which minister does Thuringia (Thüringen) not have?",
-    "o": [
-      "Minister of Justice",
-      "Minister of Foreign Affairs",
-      "Minister of Finance",
-      "Minister of the Interior"
-    ]
+    "o": ["Minister of Justice", "Minister of Foreign Affairs", "Minister of Finance", "Minister of the Interior"]
   }
 }

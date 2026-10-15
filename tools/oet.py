@@ -108,7 +108,10 @@ def state_ids(page: str) -> dict[str, str]:
     m = re.search(r"<select[^>]*P1_BUL_ID.*?</select>", page, re.S)
     if not m:
         raise RuntimeError("no state picker on the start page")
-    return {html.unescape(name).strip(): value for value, name in re.findall(r'<option value="(\d+)"[^>]*>([^<]+)', m.group(0))}
+    return {
+        html.unescape(name).strip(): value
+        for value, name in re.findall(r'<option value="(\d+)"[^>]*>([^<]+)', m.group(0))
+    }
 
 
 class Catalogue:

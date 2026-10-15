@@ -82,7 +82,10 @@ def check_translations(ids: list[str], strict: bool) -> None:
             if not ok:
                 errors.append(f"{path.name}: {qid} needs a non-empty q and 4 non-empty options")
         missing = [i for i in ids if i not in hints]
-        print(f"translations/{lang}.json: {len(hints)} of {len(ids)} questions" + (f", missing {missing}" if missing else ""))
+        print(
+            f"translations/{lang}.json: {len(hints)} of {len(ids)} questions"
+            + (f", missing {missing}" if missing else "")
+        )
         if missing and strict:
             errors.append(f"{path.name}: {len(missing)} questions without translation")
 

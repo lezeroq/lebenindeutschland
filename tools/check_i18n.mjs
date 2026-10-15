@@ -7,7 +7,11 @@ import { LANGS, STR } from "../app/js/i18n.js";
 
 const problems = [];
 const base = STR.de;
-const vars = s => [...s.matchAll(/\{(\w+)\}/g)].map(m => m[1]).sort().join(",");
+const vars = (s) =>
+  [...s.matchAll(/\{(\w+)\}/g)]
+    .map((m) => m[1])
+    .sort()
+    .join(",");
 
 for (const code of Object.keys(LANGS)) {
   const str = STR[code];
@@ -20,7 +24,8 @@ for (const code of Object.keys(LANGS)) {
     else if (vars(str[key]) !== vars(base[key])) problems.push(`${code}: "${key}" placeholders differ from de`);
   }
   for (const key of Object.keys(str)) if (!(key in base)) problems.push(`${code}: "${key}" is not a German key`);
-  if (code !== "de" && !fs.existsSync(`translations/${code}.json`)) problems.push(`${code}: no translations/${code}.json`);
+  if (code !== "de" && !fs.existsSync(`translations/${code}.json`))
+    problems.push(`${code}: no translations/${code}.json`);
 }
 for (const code of Object.keys(STR)) if (!LANGS[code]) problems.push(`${code}: STR block but not in LANGS`);
 for (const file of fs.readdirSync("translations")) {

@@ -3,23 +3,24 @@ const VERSION = "__VERSION__";
 const CACHE = "lid-" + VERSION;
 const ASSETS = __ASSETS__;
 
-self.addEventListener("install", event => {
-  event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)));
+self.addEventListener("install", (event) => {
+  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(ASSETS)));
 });
 
-self.addEventListener("activate", event => {
+self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys()
-      .then(keys => Promise.all(keys.filter(k => k.startsWith("lid-") && k !== CACHE).map(k => caches.delete(k))))
-      .then(() => self.clients.claim())
+    caches
+      .keys()
+      .then((keys) => Promise.all(keys.filter((k) => k.startsWith("lid-") && k !== CACHE).map((k) => caches.delete(k))))
+      .then(() => self.clients.claim()),
   );
 });
 
-self.addEventListener("message", event => {
+self.addEventListener("message", (event) => {
   if (event.data === "skipWaiting") self.skipWaiting();
 });
 
-self.addEventListener("fetch", event => {
+self.addEventListener("fetch", (event) => {
   const req = event.request;
   const url = new URL(req.url);
   if (req.method !== "GET" || url.origin !== self.location.origin) return;
@@ -28,18 +29,20 @@ self.addEventListener("fetch", event => {
 
   // The app shell answers every navigation inside the scope, so it opens offline.
   if (req.mode === "navigate") {
-    event.respondWith(
-      caches.match("./", { ignoreSearch: true }).then(hit => hit || fetch(req))
-    );
+    event.respondWith(caches.match("./", { ignoreSearch: true }).then((hit) => hit || fetch(req)));
     return;
   }
   event.respondWith(
-    caches.match(req, { ignoreSearch: true }).then(hit => hit || fetch(req).then(res => {
-      if (res.ok && res.type === "basic") {
-        const copy = res.clone();
-        caches.open(CACHE).then(cache => cache.put(req, copy));
-      }
-      return res;
-    }))
+    caches.match(req, { ignoreSearch: true }).then(
+      (hit) =>
+        hit ||
+        fetch(req).then((res) => {
+          if (res.ok && res.type === "basic") {
+            const copy = res.clone();
+            caches.open(CACHE).then((cache) => cache.put(req, copy));
+          }
+          return res;
+        }),
+    ),
   );
 });

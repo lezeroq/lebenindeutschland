@@ -94,7 +94,15 @@ def build(pictures: set[str]) -> tuple[dict[str, Any], list[str]]:
         idx, warn = correct_option(q, web)
         warnings.extend(warn)
         img = image_path(q) if q["id"] in pictures else None
-        return {"id": q["id"], **extra, "q": q["question"], "o": q["options"], "a": idx, "img": img, "credit": q["credit"]}
+        return {
+            "id": q["id"],
+            **extra,
+            "q": q["question"],
+            "o": q["options"],
+            "a": idx,
+            "img": img,
+            "credit": q["credit"],
+        }
 
     general = [record(catalogue[f"g{n}"], answers[PRIMARY][n], {"n": n}) for n in range(1, GENERAL_COUNT + 1)]
     states = {}
